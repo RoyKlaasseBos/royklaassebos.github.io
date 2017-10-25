@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # royklaassebos.github.io
 ## Open Data Science
 
