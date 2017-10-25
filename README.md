@@ -1,8 +1,11 @@
 # Recommendations for the Best Data Science courses
 
-# Introductory
+## Introductory
+---
 
-# Intermediary
+## Intermediary
+---
 
-# Advanced
+## Advanced
+--- 
 
