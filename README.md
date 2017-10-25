@@ -3,13 +3,16 @@
 Introduction...
 Learning the sexiest profession of the 21st centur
 
-*Roy.*
+*[Roy]()* & *.....*
 
-## How we picked courses to consider
+## Curriculum Motivation
 ---
+Explain what skills makes an excellent data scientist
 
-## How we evaluated courses
+## What makes a great course
 ---
+Explain that's very subjective. By our reviews we hope to provide you with enough information to make a well-informed decision to take the course or not.
+
 
 ## Subjects
 --- 
