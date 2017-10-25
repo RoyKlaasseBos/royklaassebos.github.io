@@ -16,4 +16,8 @@
 | [Blockchaingers Hackathon](https://blockchaingers.org/events/blockchaingers-hackathon) | Groningen | | April 5 - 9, 2018 |
 
 
+## Contributing
+
+To contribute a hackathon, please fork [this repository](https://github.com/leonoverweel/dutch-hackathons) and add it, maintaining the structure of the table above. Then create a PR that mentions what you've changed, and it'll be merged (and published here) ASAP!
+
 
