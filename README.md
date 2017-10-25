@@ -1,8 +1,9 @@
-# Learn from the *best*.
-
-## Introduction
+## Learn from the best
 ---
+Introduction...
 Learning the sexiest profession of the 21st centur
+
+*Roy.*
 
 ## How we picked courses to consider
 ---
@@ -38,6 +39,6 @@ Learning the sexiest profession of the 21st centur
 | | | | |
 
 ### 5. Collaboration & Writing
-#### 5.2 Github
-#### 5.1 LaTeX
+#### 5.1 Github
+#### 5.2 LaTeX
 
