@@ -1,4 +1,3 @@
-# royklaassebos.github.io
 ## Open Data Science
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
