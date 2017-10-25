@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # royklaassebos.github.io
 
 | Topic | Tutorial | Level |
