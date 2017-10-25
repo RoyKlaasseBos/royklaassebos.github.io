@@ -1,4 +1,4 @@
-# *Learn from the best*.
+# Learn from the *best*.
 
 ## Introduction
 ---
@@ -20,11 +20,10 @@ Learning the sexiest profession of the 21st centur
 | | | | |
 
 
-### 2. Pandas
-
-| Contents | Level | Score | Review |
-| : ------ | : ------ | : ------ | : ------ | 
-| | | | |
+### 2. Python Data Science Libraries
+#### 2.1 Pandas
+#### 2.2 Matplotlib
+#### 2.3 Seaborn
 
 ### 3. Statistics & Probabilities
 
