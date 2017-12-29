@@ -16,7 +16,7 @@
   
   th{text-align: left;}
   
-  ol {counter-reset: item }
+  ol {counter-reset: item; padding: 0;}
   
   li{display: block }
   
