@@ -16,9 +16,9 @@
   
   th{text-align: left;}
   
-  ol { counter-reset: item }
+  ol {counter-reset: item }
   
-  li{ display: block }
+  li{display: block }
   
   li:before { 
     content: counters(item, ".") " "; 
@@ -28,15 +28,18 @@
   ol > li:before{
     font-size: 1.17em;
     margin-bottom: 1rem;
-    font-weight: bold;
-
+    font-weight: normal;
+    color: #159957;
   }
   
   h3 {
     margin-top: 0px;
     display: inline;
-    
   }
+  
+  h2 {font-weight: 600}
+  
+  body { font-family: "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; }
   
 </style>
 
