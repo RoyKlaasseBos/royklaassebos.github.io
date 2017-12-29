@@ -1,4 +1,4 @@
-
+<link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
 <style>
   .embed-container { 
     position: relative; 
@@ -46,7 +46,7 @@
   }
   
   .project-name{
-    font-family: "Quattrocento Sans";
+    font-family: 'Teko', sans-serif;
     font-weight: bold;
   }
   
