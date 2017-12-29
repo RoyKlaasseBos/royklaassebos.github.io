@@ -50,9 +50,9 @@
   }
   
   .project-tagline {
-    font-size: 1.25rem;
+    font-size: 1.15rem;
     font-family: Avenir Next;
-    font-weight: 300;
+    font-weight: 400;
   }
   
   .page-header {
