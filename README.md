@@ -1,4 +1,4 @@
-## Learn from the best
+## 65 Free Data Science Resources for Beginners
 ---
 Introduction...
 Learning the sexiest profession of the 21st centur
