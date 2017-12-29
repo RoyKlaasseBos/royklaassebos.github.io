@@ -85,8 +85,6 @@
   
   .main-content table {margin: 2rem 0;}
   
-  .page-header {padding: 5.5rem 6rem;}
-  
   
 </style>
 
