@@ -43,9 +43,9 @@ Explain that's very subjective. By our reviews we hope to provide you with enoug
 #### [4.1 Machine Learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/elojMnjn4kk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-| **Channel** | **Level** | **Requirements** | **Upvotes** |
+| **Channel** | **Level** | **Upvotes** | **Requirements** | 
 | : ------ | : ------ | : ------ | : ------ | 
-| [Data School](https://www.youtube.com/user/dataschool) | Introductory | Python (beginner), Pandas (beginner) | 98% | 
+| [Data School](https://www.youtube.com/user/dataschool) | Introductory | 98% | Python (beginner), Pandas (beginner) | 
 
 Review: <br>
 *This hotel offers free Wi-Fi, a stylish lounge-bar and modern rooms with a flat-screen TV. The famous KaDeWe department store is a 5-minute walk away.*
