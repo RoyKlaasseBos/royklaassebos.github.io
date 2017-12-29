@@ -46,7 +46,8 @@
   }
   
   .project-name{
-    font-family: : 
+    font-family: "Quattrocento Sans";
+    font-weight: bold;
   }
   
   
