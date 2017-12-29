@@ -1,4 +1,6 @@
-<link rel="stylesheet" type="text/css" href="style.css">
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
 
 <h2>Beginner's Guide to Data Science</h2>
 <hr>
