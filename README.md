@@ -8,7 +8,7 @@ Ready to learn the "Sexiest Job of the 21st Century" in 2018? Excellent! This gu
 
 <blockquote><i>A Data Scientist masters the field of Computer Science, Math & Statistics and combines that with Subject Matter Expertise.</i></blockquote>
 
-The resources listed on this page primarily focus on acquiring <b>Programming</b>, <b>Databases</b> and <b>Machine Learning</b> skills as well as providing a nice refresher of <b>Statistics & Probability</b> at undergraduate level. Whether you have a background in engineering, law, or art it does not matter as this guide does not assume any prior knowledge except for a bit of high school math. 
+The resources listed on this page primarily focus on acquiring <b>Programming</b>, <b>Databases</b> and <b>Machine Learning</b> skills as well as providing a nice refresher of <b>Statistics & Probability</b> theory at undergraduate level. Whether you have a background in engineering, law, or art it does not matter as this guide does not assume any prior knowledge except for a bit of high school math. 
 
 <b><i>Happy learning!</i></b>
 
