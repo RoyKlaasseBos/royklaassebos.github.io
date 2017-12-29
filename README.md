@@ -193,7 +193,7 @@ Note that, I explicitly did not take into account views neither subscriber count
 
 <h4>Can I contribute to this list and if so how?</h4>
 <hr>
-<p>Yes, you can! To add a recommendation to the list, fork this repository, update the README.md file while maintaining the structure of the page and lastly create a pull request in which you briefly mention the change. Alternatively, send me an email (see below).</p>
+<p>Yes, you can! To add a recommendation to the list, fork this <a href="https://github.com/RoyKlaasseBos/royklaassebos.github.io" target="_blank">repository</a>, update the README markdown file while maintaining the structure of the page and lastly create a pull request in which you briefly mention the change. Alternatively, send me an email (see below).</p>
 
 <h4>How do I contact you?</h4>
 <hr>
