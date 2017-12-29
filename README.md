@@ -47,8 +47,8 @@ Explain that's very subjective. By our reviews we hope to provide you with enoug
 | : ------ | : ------ | : ------ | : ------ | 
 | [Data School](https://www.youtube.com/user/dataschool) | Introductory | 98% | Python (beginner), Pandas (beginner) | 
 
-Review: <br>
-*This hotel offers free Wi-Fi, a stylish lounge-bar and modern rooms with a flat-screen TV. The famous KaDeWe department store is a 5-minute walk away.*
+**Review:** <br>
+This hotel offers free Wi-Fi, a stylish lounge-bar and modern rooms with a flat-screen TV. The famous KaDeWe department store is a 5-minute walk away.
 
 
 ### 5. Collaboration & Writing
