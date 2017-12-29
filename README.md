@@ -161,25 +161,25 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 <h4>What makes a Data Science unicorn?</h4>
 <hr>
-<p>In the beginning of this academic year I interviewed a professor, Willem-Jan van der Heuvel, and that was also one of the questions I asked him. In summary he mentions the following skills: Analytical skills (e.g. Statistics & Probability), Engineering Skills (e.g. Programming but also Distributed Computing Frameworks - more advanced) and Domain Knowledge (e.g. a subversion expert). You can read the corresponding <a href="https://medium.com/the-outlier/willem-jan-van-den-heuvel-91af6c86dcda" target="_blank">here</a>.</p>
+<p>In the beginning of this academic year I interviewed a professor, Willem-Jan van der Heuvel, and that was also one of the questions I asked him. In summary he mentions the following skills: <i>"Analytical skills"</i> (e.g. Statistics & Probability), <i>"Engineering Skills"</i> (e.g. Programming but, for example, also distributed computing frameworks) and third: <i>"Domain Knowledge"</i> (e.g. a subversion expert). If you are interested, you can read the corresponding article <a href="https://medium.com/the-outlier/willem-jan-van-den-heuvel-91af6c86dcda" target="_blank">here</a>.</p>
 
 <h4>How do I become a Data Science unicorn?</h4>
 <hr>
 <p>That is the logical follow-question obviously. First, let me say that I am not the one to answer that question, hence I will share the advice I got from data people way smarter and more experienced than me to answer the (slightly rephrased) question: <i>What is the Best Way to Learn Data Science?</i></p>
   
-<p>If you look at the structure of all data science (and coding) bootcamps, you always find that the last weeks of the program are dedicated towards students' capstone projects. That is a learning project which entails all steps from the data science pipeline: from data collection to final presentation. Because of this scope you experience all the tasks involved in a everyday project. This typically implies you spend the majority of your time wrangling and cleaning the data (because remember: on average data scientists spend 80% of their time cleaning the data). On that note, some people do not really like Kaggle challenges as much; since most data sets are already fully cleaned.
-</p>
+<p>If you look into the week by week schedule of data science (and coding) bootcamps, you will find that the last weeks of the program are usually dedicated towards students' capstone projects. That are learning projects which entail all steps from the complete data science pipeline: from data collection to presenting to the end customer. Because of this scope students experience all the tasks involved in a everyday and thus representative data science project. This typically implies you spend the majority of your time wrangling and cleaning the data (because remember: on average data scientists spend 80% of their time cleaning the data). On that note, some folks do not really like Kaggle challenges as much; since most data sets available on the platform are already fully cleaned. But the main take-away here is to think of any topic you like (and in which you preferably have some kind of subject matter expertise) and work from there. After all, data is everywhere these days so it should not be that difficult to think of interesting research questions.</p>
   
-<p>On a personal note, I would add that while watching tutorials on YouTube you may get the impression as if you really master the material. I want to warn you against that false impression, because coding something from scratch is significantly harder than retyping (or even worse: copy pasting) someone's else code. A better measure to test your understanding is by applying your knowledge in a completely different environment (e.g. a side-project as mentioned above).</p>
- 
+<p>On a personal note, I would add that while watching tutorials on YouTube you may sometimes get the impression that you really master the material. I want to warn you against that false impression, because coding something from scratch is significantly harder than retyping (or even worse: copy pasting) someone's else code. A better measure to test your understanding is by applying your knowledge in a completely different environment (e.g. a side-project as mentioned above).</p>
  
 <h4>What does "Upvotes" mean?</h4>
 <hr>
-<p>On Coursera, edX and Udemy course ratings are displayed as a star rating (between 0-5 stars). On YouTube there is a similar mechanism to measure user feedback: up- and downvotes. A derivative thereof, the upvote ratio #upvotes/(#upvotes + #downvotes) * 100%, is shown for each of my recommendations. Note that, I explicitly did not take into account views neither subscriber count since there are a wealth of hidden gems out there which - as the name implies - are still relatively unknown.. 💎</p>
+<p>On Coursera, edX and Udemy course ratings are displayed as a star rating (between 0-5 stars). On YouTube there is a similar mechanism to measure user feedback: up- and downvotes. A derivative thereof, the upvote ratio #upvotes/(#upvotes + #downvotes) * 100%, is shown for each of my recommendations. <br/>
+  
+Note that, I explicitly did not take into account views neither subscriber count since there are a wealth of hidden gems out there which - as the name implies - are still relatively unknown.. 💎</p>
 
-<h4>The title says "Top Data Science Videos 2018" but some of the content originates from way before 2018?</h4>
+<h4>The title says "Top Data Science Videos 2018" but some of the content originates from way before 2018, isn't it?</h4>
 <hr>
-<p>Yeah again, you are right. Think of it as a catchy marketing slogan ;-)</p>
+<p>Yeah again, you are right! Think of it as a catchy marketing slogan ;-)</p>
 
 <h4>Where do I find the lecture notes of the Data Analytics for Engineers (2IAB0) tutorials?</h4>
 <hr>
