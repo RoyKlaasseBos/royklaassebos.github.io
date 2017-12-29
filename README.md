@@ -85,6 +85,8 @@
   
   .main-content table {margin: 2rem 0;}
   
+  .main-content hr{margin: 0}
+  
   
 </style>
 
