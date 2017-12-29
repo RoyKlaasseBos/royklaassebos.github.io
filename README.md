@@ -1,5 +1,7 @@
-## 65 Free Data Science Resources for Beginners
----
+## Beginner's Guide to Data Science
+--
+
+
 Introduction...
 Learning the sexiest profession of the 21st centur
 
@@ -13,8 +15,7 @@ Explain what skills makes an excellent data scientist
 ---
 Explain that's very subjective. By our reviews we hope to provide you with enough information to make a well-informed decision to take the course or not.
 
-
-## Subjects
+## 65 Free Data Science Resources for Beginners
 --- 
 
 ### 1. Python Programming
