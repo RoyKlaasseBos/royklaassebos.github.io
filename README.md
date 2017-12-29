@@ -6,11 +6,11 @@
 <hr>
 Ready to learn the "Sexiest Job of the 21st Century" in 2018? Excellent! This guide puts together the best YouTube tutorials for gaining <b>hands-on Data Science skills at beginner to intermediate level</b>.
 
-<blockquote><i>A Data Scientist is a computer scientist, mathematician and storyteller who has a curious attitude, domain knowledge and expertise.</i></blockquote>
+<blockquote><i>A Data Scientist masters the field of Computer Science, Math & Statistics and combines that with Subject Matter Expertise.</i></blockquote>
 
 The resources listed on this page primarily focus on acquiring <b>Programming</b>, <b>Databases</b> and <b>Machine Learning</b> skills as well as providing a nice refresher of <b>Statistics & Probability</b> at undergraduate level. Whether you have a background in engineering, law, or art it does not matter as this guide does not assume any prior knowledge except for a bit of high school math. 
 
-<b>Happy learning!</b>
+<b><i>Happy learning!</i></b>
 
 <h2>65 Free Data Science Resources</h2>
 <hr>
