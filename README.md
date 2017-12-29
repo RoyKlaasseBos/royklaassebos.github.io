@@ -46,8 +46,12 @@
   }
   
   .project-name{
-    font-family: 'Teko', sans-serif;
+    font-family: 'Avenir', sans-serif;
     font-weight: 300;
+  }
+  
+  .page-header {
+    background-image: linear-gradient(120deg, #193441, #CBDBD7);
   }
   
   
