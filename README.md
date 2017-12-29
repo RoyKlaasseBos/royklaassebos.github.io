@@ -23,17 +23,19 @@
   li:before { 
     content: counters(item, ".") " "; 
     counter-increment: item;
-    display: inline-block;
-    padding-bottom: 0;
   }
   
-  h3{ 
+  ol > li:before{
+    font-size: 1.17em;
+    margin-bottom: 1rem;
+    font-weight: bold;
+
+  }
+  
+  h3 {
     margin-top: 0px;
     display: inline;
-  }
-  
-  li > ol > li {
-    font-size: 100px;
+    
   }
   
 </style>
@@ -52,7 +54,7 @@ Inleidend verhaaltje over structuur/peilers
 
 <ol> 
   
-  <li><h3> Python Programming</h3>
+  <li><h3>Python Programming</h3>
   
   <table>
       <tr>
@@ -134,8 +136,8 @@ Inleidend verhaaltje over structuur/peilers
   </li>
 
 
-<li>
-  <h3> Statistics & Probabilities</h3>
+
+<li><h3> Statistics & Probabilities</h3>
 </li>
 
 
