@@ -26,6 +26,9 @@ Explain that's very subjective. By our reviews we hope to provide you with enoug
 
 ### 2. Python Data Science Libraries
 #### 2.1 Pandas
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3ZWuPVWq7p4?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 #### 2.2 Matplotlib
 #### 2.3 Seaborn
 
@@ -37,6 +40,10 @@ Explain that's very subjective. By our reviews we hope to provide you with enoug
 
 ### 4. Machine Learning
 
+**Data School (Beginner) - 4.9 ★ (1752) **
+<iframe width="560" height="315" src="https://www.youtube.com/embed/elojMnjn4kk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+
 | Contents | Level | Score | Review |
 | : ------ | : ------ | : ------ | : ------ | 
 | | | | |
@@ -45,4 +52,4 @@ Explain that's very subjective. By our reviews we hope to provide you with enoug
 #### 5.1 Github
 #### 5.2 LaTeX
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3ZWuPVWq7p4?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
