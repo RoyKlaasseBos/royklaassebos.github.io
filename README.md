@@ -175,6 +175,8 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
   To contribute a hackathon, please fork this repository and add it, maintaining the structure of the table above. Then create a PR that mentions what you’ve changed, and it’ll be merged (and published here) ASAP!
 
   Advies voor skills verbeteren: video's kijken onvoldoende.
+  
+  Het heet 2018 - maar ook content van voor 2018!
 </p>
 
 
