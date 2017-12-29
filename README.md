@@ -184,4 +184,4 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 <p>Explain that's very subjective. By our reviews we hope to provide you with enough information to make a well-informed decision to take the course or not.</p>
 
 <hr>
-<p>Built with <span style="font-size: 1.5em;">❤</span> in Eindhoven</p>
+<p class="built-with">Built with ❤ in Eindhoven</p>
