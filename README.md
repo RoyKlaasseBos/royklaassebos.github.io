@@ -207,6 +207,7 @@ Inleidend verhaaltje over structuur/peilers
             <tr>
               <th>Channel</th>
               <th>Level</th>
+              <th>Hours</th>
               <th>Upvotes</th>
               <th>Resources</th>
               <th>Requirements</th>
@@ -214,6 +215,7 @@ Inleidend verhaaltje over structuur/peilers
             <tr>
               <td><a href="https://www.youtube.com/user/dataschool" target="_blank">Data School</a></td>
               <td>Introductory</td>
+              <td>7</td>
               <td>98%</td>
               <td><a href="https://github.com/justmarkham/scikit-learn-videos" target="_blank">Github</a></td>
               <td>Python (beginner), Pandas (beginner)</td>
@@ -223,7 +225,7 @@ Inleidend verhaaltje over structuur/peilers
 
 
       <b>Review:</b> <br/>
-      This hotel offers free Wi-Fi, a stylish lounge-bar and modern rooms with a flat-screen TV. The famous KaDeWe department store is a 5-minute walk away.
+      <p>This hotel offers free Wi-Fi, a stylish lounge-bar and modern rooms with a flat-screen TV. The famous KaDeWe department store is a 5-minute walk away.</p>
   </ol>
 </li>
 
