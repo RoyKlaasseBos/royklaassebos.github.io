@@ -17,43 +17,23 @@ Explain that's very subjective. By our reviews we hope to provide you with enoug
 ## 65 Free Data Science Resources
 --- 
 
-<ol>
-  <li>li element
-    <ol>
-      <li>sub li element</li>
-      <li>sub li element</li>
-      <li>sub li element</li>
-    </ol>
-  </li>
-  <li>li element</li>
-  <li>li element
-    <ol>
-      <li>sub li element</li>
-      <li>sub li element</li>
-      <li>sub li element</li>
-    </ol>
-  </li>
-</ol>
-
 <ol> 
-  <h3><li>. Python Programming</h3>
+  <h3><li>. Python Programming</li></h3>
 
 | Contents | Level | Score | Review |
 | : ------ | : ------ | : ------ | : ------ | 
 | | | | |
-</li>
+
 
 <h3><li>. Python Data Science Libraries</li></h3>
   <ol>
       <h4><li>Pandas</li></h4>
 
-
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3ZWuPVWq7p4?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3ZWuPVWq7p4?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
       <h4><li>Matplotlib</li></h4>
       <h4><li>Seaborn</li></h4>
   </ol>
+</ol>
 
 ### 3. Statistics & Probabilities
 
