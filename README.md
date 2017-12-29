@@ -47,7 +47,7 @@
   
   .project-name{
     font-family: 'Teko', sans-serif;
-    font-weight: bold;
+    font-weight: 300;
   }
   
   
