@@ -40,7 +40,8 @@ Explain that's very subjective. By our reviews we hope to provide you with enoug
 
 ### 4. Machine Learning
 
-#### Data School (Beginner) - 4.9 ★★★★★ (1752)
+#### 4.1 Data School (Beginner)
+**★★★★★ 4.9/5.0 (1752)**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/elojMnjn4kk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
