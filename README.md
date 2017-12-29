@@ -40,7 +40,8 @@ Explain that's very subjective. By our reviews we hope to provide you with enoug
 
 ### 4. Machine Learning
 
-**Data School (4.9/5.0)**
+#### Machine Learning in Python with scikit-learn 
+**Data School (9.8 - 1752 votes)**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/elojMnjn4kk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
