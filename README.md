@@ -40,7 +40,7 @@
   h2 {font-weight: 600}
   
   body { 
-    font-family: "Avenir", "Avenir Next" "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-family: "Avenir", "Avenir Next", sans-serif; 
     font-weight: 300;
   }
   
