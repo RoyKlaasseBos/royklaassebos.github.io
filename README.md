@@ -4,7 +4,8 @@
 
 <h2>Beginner's Guide to Data Science</h2>
 <hr>
-Ready to learn the "Sexiest Job of the 21st Century" in 2018? Excellent! This guide puts together the best YouTube tutorials for gaining <b>hands-on Data Science skills at beginner to intermediate level</b>.
+Ready to learn the "Sexiest Job of the 21st Century" in 2018? Excellent! This guide puts together the best YouTube tutorials for gaining <b>hands-on Data Science 
+  skills at beginner to intermediate level</b>.
 
 <blockquote><i>A Data Scientist masters the field of Computer Science, Math & Statistics and combines that with Subject Matter Expertise.</i></blockquote>
 
@@ -152,19 +153,36 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 <h2>FAQ</h2>
 <h4>There are plenty of "Top Data Science Course" lists out there, how is this one any different?</h4>
 <hr>
-Well, I have looked at plenty of those lists myself but most of their online course (MOOC) recommendations weren't really what I was looking for to be honest. This guide is different in the sense that it mainly centres around practical YouTube tutorials taught by industry practitioners who really master the craft of teaching. The latter is a rare ability for programmers, especially for those interested in the "why" in addition to the "how"; simply typing out code is not that difficult, explaining others in plain English why you are doing that is much more challenging. Lastly, all recommendations are accompanied with a review which is also not very common for most rankings.
+<p>Well, I have looked at plenty of those lists myself but most of their online course (MOOC) recommendations weren't really what I was looking for to be honest. This guide is different in the sense that it mainly centres around practical YouTube tutorials taught by industry practitioners who really master the craft of teaching. The latter is a rare ability for many programmers, especially those who can describe the "why" in addition to the "how"; simply typing out code is not that difficult, explaining others in plain English why you are doing something is much more challenging. Lastly, all recommendations are accompanied with a textual review which is also not very common for most rankings.</p>
 
 <h4>The curriculum does not include any R videos. Why is that?</h4>
 <hr>
-Very sharp, you are absolutely right! One of the questions people new to the field of data science typically comes up with is: should I learn Python or R? If you simply Google "Python vs R for Data Science" you will find an abudance of discussons on this topic. From what I've read Python usually comes out as the ultimate winner (especially for Deep Learning applications - a subset of Machine Learning that tries to mimic the human brain). That does not of course mean that you should not study R, but as a beginner I think it's better to become very knowledgeable in a single language rather than be mediocre at two.
+<p>Very sharp, you are absolutely right! One of the questions people new to the field of data science typically come up with is: should I learn Python or R? If you simply Google "Python vs R for Data Science" you will find an abundance of discussons on this topic. From what I've read Python usually comes out as the ultimate winner (especially for Deep Learning applications - a subset of Machine Learning that tries to mimic the human brain). That does not mean that you should neglect R of course, but as a beginner I think it's better to become very knowledgeable at a single programming language rather than be mediocre at two.</p>
 
 <h4>What makes a Data Science unicorn?</h4>
 <hr>
-In the beginning of this academic year I interviewed a professor, Willem-Jan van der Heuvel, and that was also one of the questions I asked him. In summary he mentions the following skills: Analytical skills (e.g. Statistics & Probability), Engineering Skills (e.g. Programming but also Distributed Computing Frameworks - more advanced) and Domain Knowledge (e.g. a subversion expert). You can read the corresponding <a href="https://medium.com/the-outlier/willem-jan-van-den-heuvel-91af6c86dcda" target="_blank">here</a>.
+<p>In the beginning of this academic year I interviewed a professor, Willem-Jan van der Heuvel, and that was also one of the questions I asked him. In summary he mentions the following skills: Analytical skills (e.g. Statistics & Probability), Engineering Skills (e.g. Programming but also Distributed Computing Frameworks - more advanced) and Domain Knowledge (e.g. a subversion expert). You can read the corresponding <a href="https://medium.com/the-outlier/willem-jan-van-den-heuvel-91af6c86dcda" target="_blank">here</a>.</p>
+
+<h4>How do I become a Data Science unicorn?</h4>
+<hr>
+<p>That is the logical follow-question obviously. First, let me say that I am not the one to answer that question, hence I will share the advice I got from data people way smarter and more experienced than me. 
+  
+  
+    Advies voor skills verbeteren: video's kijken onvoldoende.
+    
+    Kaggle challenges - 
+
+
 
 <h4>What does "Upvotes" mean?</h4>
 <hr>
+<p>On Coursera, edX and Udemy course ratings are displayed as a star rating (between 0-5 stars). On YouTube there is similar mechanism to measure user feedback: up- and downvotes. A derivitative thereof, the upvote ratio #upvotes/(#upvotes + #downvotes) * 100%, is shown for each of my recommendations. Note that, I explicity did not take into account views neither subscribers since there are many hidden gems out there which are still relatively unknown.. 💎</p>
 
+<h4>Where do I find the lecture notes for the Data Analytics for Engineers (2IAB0) course?</h4>
+<hr>
+<p>Great to have you here, but you are probably looking for my Github repository which you can find <a href="https://github.com/RoyKlaasseBos/Data-Analytics-for-Engineers" target="_blank">over here</a>. Simply, download the zip-file (easiest way) or clone it to your hard drive (for instructions on how to do that see the Git tutorials above :-).
+</p>
+<p>But since you are already here, let me give you a bonus tip: study the Python and pandas tutorials. I can ensure you they will be helpful for assignment 1 and 2!</p>
 
 
 <h4>Curriculum Motivation</h4>
@@ -191,7 +209,7 @@ In the beginning of this academic year I interviewed a professor, Willem-Jan van
   Email of direct als Github
   To contribute a hackathon, please fork this repository and add it, maintaining the structure of the table above. Then create a PR that mentions what you’ve changed, and it’ll be merged (and published here) ASAP!
 
-  Advies voor skills verbeteren: video's kijken onvoldoende.
+
   
   Het heet 2018 - maar ook content van voor 2018!
 </p>
