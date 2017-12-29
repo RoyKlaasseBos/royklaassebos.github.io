@@ -59,11 +59,26 @@
     background-image: linear-gradient(120deg, #193441, #CBDBD7);
   }
   
-  .main-content h2 { color: #91AAB4; font-weight: 600;}
-  .main-content h3 { color: #3E606F; font-weight: 500;}
-  .main-content h4 { color: #91AAB4}
+  .main-content h2 { 
+    color: #91AAB4; 
+    font-weight: 600;
+    display: inline-block;
+   }
+   
+  .main-content h3 { 
+    color: #3E606F; 
+    font-weight: 500;
+    display: inline-block;
+  }
+  
+  .main-content h4 {
+    color: #91AAB4;
+    display: inline-block;
+  }
   
   a {color: #578799}
+  
+  .main-content table {margin: 2rem 0;}
   
   
 </style>
