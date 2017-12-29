@@ -1,3 +1,4 @@
+
 <style>
   .embed-container { 
     position: relative; 
@@ -39,7 +40,15 @@
   
   h2 {font-weight: 600}
   
-  body { font-family: "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  body { 
+    font-family: "Quattrocento Sans", "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-weight: 300;
+  }
+  
+  .project-name{
+    font-family: : 
+  }
+  
   
 </style>
 
