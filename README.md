@@ -61,6 +61,10 @@
     background-image: linear-gradient(120deg, #193441, #CBDBD7);
   }
   
+  .main-content :first-child {
+    margin-top: 10px;
+  }
+  
   .main-content h2 { 
     color: #91AAB4; 
     font-weight: 600;
@@ -86,6 +90,7 @@
   .main-content table {margin: 2rem 0;}
   
   .main-content hr{margin: 0}
+  
   
   
 </style>
