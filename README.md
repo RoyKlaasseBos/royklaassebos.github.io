@@ -29,7 +29,7 @@
     font-size: 1.17em;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: #159957;
+    color: #193441;
   }
   
   h3 {
@@ -60,7 +60,7 @@
   }
   
   .main-content h3 { color: #193441}
-  .main-content h4 { color: #CBDBD7}
+  .main-content h4 { color: #91AAB4}
   
   
 </style>
