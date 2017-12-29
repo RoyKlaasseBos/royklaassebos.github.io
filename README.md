@@ -59,6 +59,9 @@
     background-image: linear-gradient(120deg, #193441, #CBDBD7);
   }
   
+  .main-content h3 { color: #193441}
+  .main-content h4 { color: #CBDBD7}
+  
   
 </style>
 
