@@ -17,20 +17,43 @@ Explain that's very subjective. By our reviews we hope to provide you with enoug
 ## 65 Free Data Science Resources
 --- 
 
-### 1. Python Programming
+<ol>
+  <li>li element
+    <ol>
+      <li>sub li element</li>
+      <li>sub li element</li>
+      <li>sub li element</li>
+    </ol>
+  </li>
+  <li>li element</li>
+  <li>li element
+    <ol>
+      <li>sub li element</li>
+      <li>sub li element</li>
+      <li>sub li element</li>
+    </ol>
+  </li>
+</ol>
+
+<ol> 
+  <h3><li>. Python Programming</h3>
 
 | Contents | Level | Score | Review |
 | : ------ | : ------ | : ------ | : ------ | 
 | | | | |
+</li>
+
+<h3><li>. Python Data Science Libraries</li></h3>
+  <ol>
+      <h4><li>Pandas</li></h4>
 
 
-### 2. Python Data Science Libraries
-#### 2.1 Pandas
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3ZWuPVWq7p4?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-#### 2.2 Matplotlib
-#### 2.3 Seaborn
+      <h4><li>Matplotlib</li></h4>
+      <h4><li>Seaborn</li></h4>
+  </ol>
 
 ### 3. Statistics & Probabilities
 
@@ -47,6 +70,8 @@ Explain that's very subjective. By our reviews we hope to provide you with enoug
 | : ------ | : ------ | : ------ | : ------ | 
 | [Data School](https://www.youtube.com/user/dataschool) | Introductory | 98% | Python (beginner), Pandas (beginner) | 
 
+<a href="https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A" target="_blank">Data School</a>
+
 **Review:** <br>
 This hotel offers free Wi-Fi, a stylish lounge-bar and modern rooms with a flat-screen TV. The famous KaDeWe department store is a 5-minute walk away.
 
@@ -54,5 +79,7 @@ This hotel offers free Wi-Fi, a stylish lounge-bar and modern rooms with a flat-
 ### 5. Collaboration & Writing
 #### 5.1 Github
 #### 5.2 LaTeX
+
+</ol>
 
 
