@@ -26,7 +26,7 @@
   }
   
   ol > li:before{
-    font-size: 1.17em;
+    font-size: 1.4em;
     margin-bottom: 1rem;
     font-weight: normal;
     color: #3E606F;
@@ -63,17 +63,20 @@
     color: #91AAB4; 
     font-weight: 600;
     display: inline-block;
+    font-size: 1.7em;
    }
    
   .main-content h3 { 
     color: #3E606F; 
     font-weight: 500;
     display: inline-block;
+    font-size: 1.4em;
   }
   
   .main-content h4 {
     color: #91AAB4;
     display: inline-block;
+    font-size: 1.2em;
   }
   
   a {color: #578799}
