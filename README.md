@@ -41,7 +41,7 @@ Explain that's very subjective. By our reviews we hope to provide you with enoug
 ### 4. Machine Learning
 
 #### [4.1 Machine Learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/elojMnjn4kk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/elojMnjn4kk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
 
 | **Channel** | **Level** | **Upvotes** | **Requirements** | 
 | : ------ | : ------ | : ------ | : ------ | 
