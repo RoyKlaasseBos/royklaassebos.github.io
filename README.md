@@ -54,6 +54,7 @@
     font-family: Avenir Next;
     font-weight: 400;
     opacity: 0.8;
+    margin-bottom: 0;
   }
   
   .page-header {
