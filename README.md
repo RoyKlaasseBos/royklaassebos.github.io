@@ -157,7 +157,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 <h4>The curriculum does not include any R videos. Why is that?</h4>
 <hr>
-<p>Very sharp, you are absolutely right! One of the questions people new to the field of data science typically come up with is: should I learn Python or R? If you simply Google "Python vs R for Data Science" you will find an abundance of discussons on this topic. From what I've read Python usually comes out as the ultimate winner (especially for Deep Learning applications - a subset of Machine Learning that tries to mimic the human brain). That does not mean that you should neglect R of course, but as a beginner I think it's better to become very knowledgeable at a single programming language rather than be mediocre at two.</p>
+<p>Very sharp, you are absolutely right! One of the questions people new to the field of data science typically come up with is: should I learn Python or R? If you simply Google "Python vs R for Data Science" you will find an abundance of discussions on this topic. From what I've read Python usually comes out as the ultimate winner (especially for Deep Learning applications - a subset of Machine Learning that tries to mimic the human brain). That does not mean that you should neglect R of course, but as a beginner I think it's better to become very knowledgeable at a single programming language rather than be mediocre at two.</p>
 
 <h4>What makes a Data Science unicorn?</h4>
 <hr>
@@ -165,60 +165,39 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 <h4>How do I become a Data Science unicorn?</h4>
 <hr>
-<p>That is the logical follow-question obviously. First, let me say that I am not the one to answer that question, hence I will share the advice I got from data people way smarter and more experienced than me. 
+<p>That is the logical follow-question obviously. First, let me say that I am not the one to answer that question, hence I will share the advice I got from data people way smarter and more experienced than me to answer the (slightly rephrased) question: <i>What is the Best Way to Learn Data Science?</i></p>
   
+<p>If you look at the structure of all data science (and coding) bootcamps, you always find that the last weeks of the program are dedicated towards students' capstone projects. That is a learning project which entails all steps from the data science pipeline: from data collection to final presentation. Because of this scope you experience all the tasks involved in a everyday project. This typically implies you spend the majority of your time wrangling and cleaning the data (because remember: on average data scientists spend 80% of their time cleaning the data). On that note, some people do not really like Kaggle challenges as much; since most data sets are already fully cleaned.
+</p>
   
-    Advies voor skills verbeteren: video's kijken onvoldoende.
-    
-    Kaggle challenges - 
-
-
-
+<p>On a personal note, I would add that while watching tutorials on YouTube you may get the impression as if you really master the material. I want to warn you against that false impression, because coding something from scratch is significantly harder than retyping (or even worse: copy pasting) someone's else code. A better measure to test your understanding is by applying your knowledge in a completely different environment (e.g. a side-project as mentioned above).</p>
+ 
+ 
 <h4>What does "Upvotes" mean?</h4>
 <hr>
-<p>On Coursera, edX and Udemy course ratings are displayed as a star rating (between 0-5 stars). On YouTube there is similar mechanism to measure user feedback: up- and downvotes. A derivitative thereof, the upvote ratio #upvotes/(#upvotes + #downvotes) * 100%, is shown for each of my recommendations. Note that, I explicity did not take into account views neither subscribers since there are many hidden gems out there which are still relatively unknown.. 💎</p>
+<p>On Coursera, edX and Udemy course ratings are displayed as a star rating (between 0-5 stars). On YouTube there is a similar mechanism to measure user feedback: up- and downvotes. A derivative thereof, the upvote ratio #upvotes/(#upvotes + #downvotes) * 100%, is shown for each of my recommendations. Note that, I explicitly did not take into account views neither subscriber count since there are a wealth of hidden gems out there which - as the name implies - are still relatively unknown.. 💎</p>
 
-<h4>Where do I find the lecture notes for the Data Analytics for Engineers (2IAB0) course?</h4>
+<h4>The title says "Top Data Science Videos 2018" but some of the content originates from way before 2018?</h4>
 <hr>
-<p>Great to have you here, but you are probably looking for my Github repository which you can find <a href="https://github.com/RoyKlaasseBos/Data-Analytics-for-Engineers" target="_blank">over here</a>. Simply, download the zip-file (easiest way) or clone it to your hard drive (for instructions on how to do that see the Git tutorials above :-).
+<p>Yeah again, you are right. Think of it as a catchy marketing slogan ;-)</p>
+
+<h4>Where do I find the lecture notes of the Data Analytics for Engineers (2IAB0) tutorials?</h4>
+<hr>
+<p>Great to have you here, but you are probably looking for my Github repository which you can find <a href="https://github.com/RoyKlaasseBos/Data-Analytics-for-Engineers" target="_blank">over here</a>. Simply, download the zip-file (easiest way) or clone it to your local hard drive (for instructions on how to do that see the Git tutorials above :-)
 </p>
-<p>But since you are already here, let me give you a bonus tip: study the Python and pandas tutorials. I can ensure you they will be helpful for assignment 1 and 2!</p>
+<p>But since you are already here, let me give you another bonus tip: carefully study the Python and pandas tutorials listed above. I can ensure you they will be extremely helpful for assignment 1 and 2!</p>
 
-
-<h4>Curriculum Motivation</h4>
+<h4>Is this guide updated regularly?</h4>
 <hr>
-<p>
-  Explain what skills makes an excellent data scientist >> plug naar Medium artikel
+<p>Indeed, it's a very dynamic list. For example, at the moment of writing I am taking online (and university) courses myself which means that there is a high probability that the number of "free resources" will soon increase even more.. ;-)</p>
 
-  Waarin is deze pagina anders dan Open Data Science Masters? 
-
-  Python vs R: beter goed zijn dan mediocre in twee talen; neemt weg dat in sommige gevallen R een makkelijkere keuze is
-
-
-  Upvotes uitleg..
-
-  Where do I find your lecture notes for the course Data Analytics for Engineers (2IAB0)? 
-  You find them here..
-
-  Static list? No data science industry is moving so fast; I'll add changes on the go
-
-  How do I contact you? 
-  email....
-
-  Contribute.. 
-  Email of direct als Github
-  To contribute a hackathon, please fork this repository and add it, maintaining the structure of the table above. Then create a PR that mentions what you’ve changed, and it’ll be merged (and published here) ASAP!
-
-
-  
-  Het heet 2018 - maar ook content van voor 2018!
-</p>
-
-
-
-<h2>What makes a great course</h2>
+<h4>Can I contribute to this list and if so how?</h4>
 <hr>
-<p>Explain that's very subjective. By our reviews we hope to provide you with enough information to make a well-informed decision to take the course or not.</p>
+<p>Yes, you can! To add a recommendation to the list, fork this repository, update the README.md file while maintaining the structure of the page and lastly create a pull request in which you briefly mention the change. Alternatively, send me an email (see below).</p>
+
+<h4>How do I contact you?</h4>
+<hr>
+<p>Just shoot me an email at <a href="mailto:r.j.klaasse.bos@student.tue.nl">r.j.klaasse.bos@student.tue.nl</a></p>
 
 <hr>
 <p class="built-with">Built with ❤ in Eindhoven</p>
