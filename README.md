@@ -10,8 +10,6 @@
 
 The resources listed on this page primarily focus on acquiring <b>Programming</b>, <b>Databases</b> and <b>Machine Learning</b> skills as well as providing a nice refresher of <b>Statistics & Probability</b> at undergraduate level. Whether you have a background in engineering, law, or art it does not matter as this guide does not assume any prior knowledge except for a bit of high school math. 
 
-For more information about the selection motivation and curriculum choices, please take a look at the bototm of the page. And in case you have any recommendations or comments, you are more than welcome to contribute!
-
 Happy learning!
 
 <h2>65 Free Data Science Resources</h2>
