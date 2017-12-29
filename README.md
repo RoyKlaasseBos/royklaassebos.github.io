@@ -150,7 +150,24 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 
 <h2>FAQ</h2>
-<h2>Curriculum Motivation</h2>
+<h4>There are plenty of "Top Data Science Course" lists out there, how is this one any different?</h4>
+<hr>
+Well, I have looked at plenty of those lists myself but most of their online course (MOOC) recommendations weren't really what I was looking for to be honest. This guide is different in the sense that it mainly centres around practical YouTube tutorials taught by industry practitioners who really master the craft of teaching. The latter is a rare ability for programmers, especially for those interested in the "why" in addition to the "how"; simply typing out code is not that difficult, explaining others in plain English why you are doing that is much more challenging. Lastly, all recommendations are accompanied with a review which is also not very common for most rankings.
+
+<h4>The curriculum does not include any R videos. Why is that?</h4>
+<hr>
+Very sharp, you are absolutely right! One of the questions people new to the field of data science typically comes up with is: should I learn Python or R? If you simply Google "Python vs R for Data Science" you will find an abudance of discussons on this topic. From what I've read Python usually comes out as the ultimate winner (especially for Deep Learning applications - a subset of Machine Learning that tries to mimic the human brain). That does not of course mean that you should not study R, but as a beginner I think it's better to become very knowledgeable in a single language rather than be mediocre at two.
+
+<h4>What makes a Data Science unicorn?</h4>
+<hr>
+In the beginning of this academic year I interviewed a professor, Willem-Jan van der Heuvel, and that was also one of the questions I asked him. In summary he mentions the following skills: Analytical skills (e.g. Statistics & Probability), Engineering Skills (e.g. Programming but also Distributed Computing Frameworks - more advanced) and Domain Knowledge (e.g. a subversion expert). You can read the corresponding <a href="https://medium.com/the-outlier/willem-jan-van-den-heuvel-91af6c86dcda" target="_blank">here</a>.
+
+<h4>What does "Upvotes" mean?</h4>
+<hr>
+
+
+
+<h4>Curriculum Motivation</h4>
 <hr>
 <p>
   Explain what skills makes an excellent data scientist >> plug naar Medium artikel
