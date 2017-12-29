@@ -34,7 +34,7 @@ Explain that's very subjective. By our reviews we hope to provide you with enoug
 
 ### 3. Statistics & Probabilities
 
-| Contents | Level | Score | Review |
+| Contents | Pre | Score | Review |
 | : ------ | : ------ | : ------ | : ------ | 
 | | | | |
 
@@ -43,12 +43,11 @@ Explain that's very subjective. By our reviews we hope to provide you with enoug
 #### [4.1 Machine Learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/elojMnjn4kk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-| **Creator** | Level | Upvotes | Type |
+| **Channel** | **Level** | **Requirements** | **Upvotes** |
 | : ------ | : ------ | : ------ | : ------ | 
-| Data School | Introductory | 98% | Playlist | 
+| [Data School](https://www.youtube.com/user/dataschool) | Introductory | Python (beginner), Pandas (beginner) | 98% | 
 
-Review: 
-
+Review: <br>
 *This hotel offers free Wi-Fi, a stylish lounge-bar and modern rooms with a flat-screen TV. The famous KaDeWe department store is a 5-minute walk away.*
 
 
