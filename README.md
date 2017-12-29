@@ -29,7 +29,7 @@
     font-size: 1.17em;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: #193441;
+    color: #3E606F;
   }
   
   h3 {
@@ -59,8 +59,8 @@
     background-image: linear-gradient(120deg, #193441, #CBDBD7);
   }
   
-  .main-content h2 { color: #193441}
-  .main-content h3 { color: #3E606F}
+  .main-content h2 { color: #193441; font-weight: 600;}
+  .main-content h3 { color: #3E606F; font-weight: 500;}
   .main-content h4 { color: #91AAB4}
   
   
