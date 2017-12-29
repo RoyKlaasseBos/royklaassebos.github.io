@@ -1,4 +1,3 @@
-<link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
 <style>
   .embed-container { 
     position: relative; 
@@ -41,12 +40,18 @@
   h2 {font-weight: 600}
   
   body { 
-    font-family: "Quattrocento Sans", "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-family: "Avenir", "Avenir Next" "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
     font-weight: 300;
   }
   
   .project-name{
     font-family: 'Avenir', sans-serif;
+    font-weight: 500;
+  }
+  
+  .project-tagline {
+    font-size: 1.25rem;
+    font-family: Avenir Next;
     font-weight: 300;
   }
   
