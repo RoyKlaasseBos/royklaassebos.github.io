@@ -53,6 +53,7 @@
     font-size: 1.15rem;
     font-family: Avenir Next;
     font-weight: 400;
+    opacity: 0.8;
   }
   
   .page-header {
