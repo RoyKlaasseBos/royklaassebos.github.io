@@ -66,11 +66,11 @@ Explain that's very subjective. By our reviews we hope to provide you with enoug
 #### <a href="https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A" target="_blank">4.1 Machine Learning in Python with scikit-learn</a>
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/elojMnjn4kk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
 
-| **Channel** | **Level** | **Upvotes** | **Requirements** | 
+| **Channel** | **Level** | **Upvotes** | **Resources** | **Requirements** | 
 | : ------ | : ------ | : ------ | : ------ | 
-| [Data School](https://www.youtube.com/user/dataschool) | Introductory | 98% | Python (beginner), Pandas (beginner) | 
+| <a href="https://www.youtube.com/user/dataschool" target="_blank">Data School</a> | Introductory | 98% | <a href="https://github.com/justmarkham/scikit-learn-videos" target="_blank">Github</a>  | Python (beginner), Pandas (beginner) | 
+<br/>
 
-<a href="https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A" target="_blank">Data School</a>
 
 **Review:** <br>
 This hotel offers free Wi-Fi, a stylish lounge-bar and modern rooms with a flat-screen TV. The famous KaDeWe department store is a 5-minute walk away.
