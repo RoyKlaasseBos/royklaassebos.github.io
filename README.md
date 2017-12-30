@@ -48,7 +48,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
   <li>
     <h3> Matplotlib</h3>
       <ol>
-        <h4><a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a></h4>
+        <h4><li><a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a></li></h4>
         
         <div class='embed-container'>
         <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
@@ -91,7 +91,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
      
      <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
         
-        <h4><a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a></h4>
+        <h4><li><a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a></li></h4>
         
         <div class='embed-container'>
         <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
@@ -134,23 +134,6 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
      
      <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
     
-        <h4><li> Seaborn</li></h4>
-        <table>
-            <tr>
-              <th>Channel</th>
-              <th>Level</th>
-              <th>Upvotes</th>
-              <th>Resources</th>
-              <th>Requirements</th>
-            </tr>
-            <tr>
-              <td><a href="https://www.youtube.com/user/dataschool" target="_blank">Data School</a></td>
-              <td>Introductory</td>
-              <td>98%</td>
-              <td><a href="https://github.com/justmarkham/scikit-learn-videos" target="_blank">Github</a></td>
-              <td>Python (beginner), Pandas (beginner)</td>
-          </tr>
-        </table>
       </ol>
   </li>
   
