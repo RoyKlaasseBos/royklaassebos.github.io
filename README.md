@@ -175,7 +175,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 <hr>
 <p>On Coursera, edX and Udemy course ratings are displayed as a star rating (between 0-5 stars). On YouTube there is a similar mechanism to measure user feedback: up- and downvotes. A derivative thereof, the upvote ratio #upvotes/(#upvotes + #downvotes) * 100%, is shown for each of my recommendations. </p>
   
-<p>Note that, I explicitly did not take into account views neither subscriber count since there are a wealth of hidden gems out there which - as the name implies - are still relatively unknown.. 💎</p>
+<p>Note that, I deliberately did not take into account total number of views neither the subscriber count since there are a wealth of hidden gems out there which - as the name implies - are still relatively unknown.. 💎</p>
 
 <h4>The title says "Top Data Science Videos 2018" but some of the content originates from way before 2018, isn't it?</h4>
 <hr>
