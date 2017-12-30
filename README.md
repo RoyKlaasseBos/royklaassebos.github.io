@@ -64,7 +64,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
               <td>Introductory</td>
               <td>1.5</td>
               <td>100%</td>
-              <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv " target="_blank">Football data</a></td>
+              <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
               <td>Python (beginner)</td>
           </tr>
         </table>
@@ -83,7 +83,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
         </ul>
         
      <div class="review">Review</div>
-     <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but the first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction into the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/“ target=“_blank”>Udemy</a> for $20, lucky you!</p>
+     <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
     </ol>  
   </li>       
 
