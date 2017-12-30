@@ -39,63 +39,52 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
   </table>
   </li>
   <li>
-    <h3> Python Data Science Libraries</h3>
+    <h3> Matplpotlib</h3>
       <ol>
-        <h4><li> Pandas</li></h4>
+        <h4>
+          <li>
+            <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank">Plotting in Python using Matplotlib</a>
+          </li>
+        </h4>
+        <div class='embed-container'>
+          <iframe src="https://www.youtube.com/watch?v=-czP9f363Vw&list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM&index=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
         <table>
             <tr>
               <th>Channel</th>
               <th>Level</th>
+              <th>Hours</th>
               <th>Upvotes</th>
               <th>Resources</th>
               <th>Requirements</th>
             </tr>
             <tr>
-              <td><a href="https://www.youtube.com/user/dataschool" target="_blank">Data School</a></td>
+              <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
               <td>Introductory</td>
-              <td>98%</td>
-              <td><a href="https://github.com/justmarkham/scikit-learn-videos" target="_blank">Github</a></td>
-              <td>Python (beginner), Pandas (beginner)</td>
+              <td>1.5</th>
+              <td>100%</td>
+              <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv " target="_blank">Football data</a></td>
+              <td>Python (beginner)</td>
           </tr>
         </table>
         
-        <h4><li> Matplotlib</li></h4>
-        <table>
-            <tr>
-              <th>Channel</th>
-              <th>Level</th>
-              <th>Upvotes</th>
-              <th>Resources</th>
-              <th>Requirements</th>
-            </tr>
-            <tr>
-              <td><a href="https://www.youtube.com/user/dataschool" target="_blank">Data School</a></td>
-              <td>Introductory</td>
-              <td>98%</td>
-              <td><a href="https://github.com/justmarkham/scikit-learn-videos" target="_blank">Github</a></td>
-              <td>Python (beginner), Pandas (beginner)</td>
-          </tr>
-        </table>
-    
-        <h4><li> Seaborn</li></h4>
-        <table>
-            <tr>
-              <th>Channel</th>
-              <th>Level</th>
-              <th>Upvotes</th>
-              <th>Resources</th>
-              <th>Requirements</th>
-            </tr>
-            <tr>
-              <td><a href="https://www.youtube.com/user/dataschool" target="_blank">Data School</a></td>
-              <td>Introductory</td>
-              <td>98%</td>
-              <td><a href="https://github.com/justmarkham/scikit-learn-videos" target="_blank">Github</a></td>
-              <td>Python (beginner), Pandas (beginner)</td>
-          </tr>
-        </table>
-      </ol>
-  </li>
+      <div class="contents">Contents</div>
+        <ul>
+          <li>Lineplots</li>
+          <li>Scatterplots</li>
+          <li>Chart properties (xlim, ylim, color, size)</li>
+          <li>Multiple plots in one chart</li>
+          <li>Axis labels</li>
+          <li>annotation (text in graph, arrows)</li>
+          <li>Legends</li>
+          <li>1D/2D Histograms</li>
+          <li>Scaling axes (logarithmic, linear)</li>
+        </ul>
+        
+     <div class="review">Review</div>
+     <p>
+     Once you have seen how to work with Matplotlib it’s a piece of cake, but the first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction into the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/“ target=“_blank”>Udemy</a> for $20, lucky you!
+     </p>
+        
 
   <li>
     <h3> Statistics & Probabilities</h3>
