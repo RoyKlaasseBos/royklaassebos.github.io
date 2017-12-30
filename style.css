@@ -59,8 +59,14 @@ li{display: block }
   font-weight: 500;
   margin-top: 0px;
   display: inline;
-
 }
+
+.faq h4 {
+    margin-top: 45px;
+    display: block;
+}
+
+.faq h4:first-of-type {margin-top: 0px;}
 
 .main-content ul {padding-left: 0;}
 
