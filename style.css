@@ -21,8 +21,6 @@ h3 {
 
 b, strong {font-weight: 500;}
 
-ul {list-style-type: normal;}
-
 th{text-align: left;}
 
 li{display: block }
@@ -64,6 +62,8 @@ li{display: block }
   font-size: 1.2em;
   font-weight: 500;
 }
+
+.main-content ul {paddig-left: 0;}
 
 .main-content table {margin: 2rem 0;}
 
