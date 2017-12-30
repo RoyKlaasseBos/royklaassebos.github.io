@@ -90,6 +90,8 @@ li{display: block }
 
 footer{display: none;}
 
+.recommendation{margin: 40px 0;}
+
 .built-with{
   opacity: 0.3;
   font-size: 0.8em;
