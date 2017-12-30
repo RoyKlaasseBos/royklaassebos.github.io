@@ -161,7 +161,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 <h4><i>What makes a Data Science unicorn?</i> 🦄</h4>
 <hr>
-<p>In the beginning of this academic year I interviewed a professor, Willem-Jan van der Heuvel, and that was also one of the questions I asked him. In summary he mentions the following skills: <i>"Analytical skills"</i> (e.g. Statistics & Probability), <i>"Engineering Skills"</i> (e.g. Programming but, for example, also distributed computing frameworks) and third: <i>"Domain Knowledge"</i> (e.g. a subversion expert). If you are interested, you can read the corresponding article <a href="https://medium.com/the-outlier/willem-jan-van-den-heuvel-91af6c86dcda" target="_blank">here</a>.</p>
+<p>In the beginning of this academic year I interviewed a professor, Willem-Jan van der Heuvel, and that was also one of the questions I asked him. In summary he mentions the following skills: <i>"Analytical Skills"</i> (e.g. Statistics & Probability), <i>"Engineering Skills"</i> (e.g. Programming but, for example, also distributed computing frameworks) and third: <i>"Domain Knowledge"</i> (e.g. a subversion expert). If you are interested, you can read the corresponding article <a href="https://medium.com/the-outlier/willem-jan-van-den-heuvel-91af6c86dcda" target="_blank">here</a>.</p>
 
 <h4><i>How do I become a Data Science unicorn?</i></h4>
 <hr>
@@ -173,7 +173,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
  
 <h4><i>What does "Upvotes" mean and how is it calculated?</i></h4>
 <hr>
-<p>On Coursera, edX and Udemy course ratings are displayed as a star rating (between 0-5 stars). On YouTube there is a similar mechanism to measure user feedback: up- and downvotes. A derivative thereof, the upvote ratio #upvotes/(#upvotes + #downvotes) * 100%, is shown for each of my recommendations. </p>
+<p>On Coursera, edX and Udemy course ratings are displayed as a star rating (between 0-5 stars). On YouTube there is a similar mechanism to measure user feedback: up- and downvotes. A derivative thereof, the upvote ratio: #upvotes/(#upvotes + #downvotes) * 100%, is shown for each of my recommendations. </p>
   
 <p>Note that, I deliberately did not take into account total number of views neither the subscriber count since there are a wealth of hidden gems out there which - as the name implies - are still relatively unknown.. 💎</p>
 
