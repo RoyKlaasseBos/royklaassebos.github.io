@@ -55,6 +55,7 @@ li{display: block }
   color: #91AAB4;
   display: inline-block;
   font-size: 1.2em;
+  font-weight: 500;
 }
 
 .main-content table {margin: 2rem 0;}
