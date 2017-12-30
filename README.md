@@ -183,7 +183,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 <h4>Where do I find the lecture notes of the Data Analytics for Engineers (2IAB0) tutorials?</h4>
 <hr>
-<p>Great to have you here, but you are probably looking for my Github repository which you can find <a href="https://github.com/RoyKlaasseBos/Data-Analytics-for-Engineers" target="_blank">over here</a>. Simply, download the zip-file (easiest way) or clone it to your local hard drive (for instructions on how to do that see the Git tutorials above :-)
+<p>Great to have you here, but you are probably looking for my Github repository which you can find <a href="https://github.com/RoyKlaasseBos/Data-Analytics-for-Engineers" target="_blank">over here</a>. Simply, download the zip-file (easiest way) or clone it to your local hard drive (for instructions on how to do that see the Git tutorials above).
 </p>
 <p>But since you are already here, let me give you another bonus tip: carefully study the Python and pandas tutorials listed above. I can ensure you they will be extremely helpful for assignment 1 and 2!</p>
 
@@ -197,7 +197,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 <h4>How do I contact you?</h4>
 <hr>
-<p>Just shoot me an email at <a href="mailto:r.j.klaasse.bos@student.tue.nl?subject=I%20Love%20Data%20Science">r.j.klaasse.bos@student.tue.nl</a></p>
+<p>Just shoot me an email at <a href="mailto:r.j.klaasse.bos@student.tue.nl?subject=I%20❤%20Data%20Science">r.j.klaasse.bos@student.tue.nl</a></p>
 
 <hr>
 <p class="built-with">Built with ❤ in Eindhoven</p>
