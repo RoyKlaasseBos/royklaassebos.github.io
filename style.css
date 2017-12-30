@@ -50,6 +50,8 @@ li{display: block }
   font-size: 1.4em;
 }
 
+h3:first-of-type {margin-top: 20px;}
+
 .main-content h4 {
   color: #91AAB4;
   display: inline-block;
