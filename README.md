@@ -151,7 +151,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
         </ul>
         
         <blockquote><i>Kevin you have mastered both the art of machine learning and teaching :)</i><br/>
-        –Jagadeesh Gajula
+          <span class="quote-student">– Jagadeesh Gajula</span>
         </blockquote>
         
         <b>Review:</b> <br/>
