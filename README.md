@@ -134,24 +134,24 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
         
         <br/>
         
-        <b>Content:</b> <br/>
+        <b>Content</b> <br/>
         <ul>
-          <li>Supervised/unsupervised learning definitions,</li> 
-          <li>scikit-learn vs R for machine learning,</li> 
-          <li>Jupyter Notebook,</li>
-          <li>kNN algorithm (+ choosing number of neighbours),</li>
-          <li>Logistic Regression,</li>
+          <li>Supervised/unsupervised learning definitions</li> 
+          <li>scikit-learn vs R for machine learning</li> 
+          <li>Jupyter Notebook</li>
+          <li>kNN algorithm (+ choosing number of neighbours)</li>
+          <li>Logistic Regression</li>
           <li>Linear Regression (+ interpretation of coefficients)</li>
-          <li>Train / Test split,</li> 
-          <li>K-fold cross validation,</li>
-          <li>Manual feature selection,</li>
+          <li>Train / Test split</li> 
+          <li>K-fold cross validation</li>
+          <li>Manual feature selection</li>
           <li>Performance metrics (accuracy, Mean Absolute Error, Mean Squared Error, Root Mean Squared Error)</li>
           <li>Grid search (+ RandomizedSearchCV)</li>
           <li>Text Machine Learning (vectorization, Naive Bayes (high level theory + practice),  parameter tuning (stopwords, n-grams, min/max word frequency)</li>
         </ul>
         
         <blockquote><i>Kevin you have mastered both the art of machine learning and teaching :)</i><br/>
-        Jagadeesh Gajula
+        –Jagadeesh Gajula
         </blockquote>
         
         <b>Review:</b> <br/>
