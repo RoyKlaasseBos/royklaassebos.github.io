@@ -197,7 +197,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 <h4>How do I contact you?</h4>
 <hr>
-<p>Just shoot me an email at <a href="mailto:r.j.klaasse.bos@student.tue.nl">r.j.klaasse.bos@student.tue.nl</a></p>
+<p>Just shoot me an email at <a href="mailto:r.j.klaasse.bos@student.tue.nl?subject=I%20Love%20Data%20Science">r.j.klaasse.bos@student.tue.nl</a></p>
 
 <hr>
 <p class="built-with">Built with ❤ in Eindhoven</p>
