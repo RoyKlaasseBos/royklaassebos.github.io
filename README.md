@@ -39,6 +39,67 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
   </table>
   </li>
   
+   <li>
+    <h3> Python Data Science Libraries</h3>
+      <ol>
+        <h4><li> Pandas</li></h4>
+        <table>
+            <tr>
+              <th>Channel</th>
+              <th>Level</th>
+              <th>Upvotes</th>
+              <th>Resources</th>
+              <th>Requirements</th>
+            </tr>
+            <tr>
+              <td><a href="https://www.youtube.com/user/dataschool" target="_blank">Data School</a></td>
+              <td>Introductory</td>
+              <td>98%</td>
+              <td><a href="https://github.com/justmarkham/scikit-learn-videos" target="_blank">Github</a></td>
+              <td>Python (beginner), Pandas (beginner)</td>
+          </tr>
+        </table>
+        
+        <h4><li> Matplotlib</li></h4>
+        <table>
+            <tr>
+              <th>Channel</th>
+              <th>Level</th>
+              <th>Upvotes</th>
+              <th>Resources</th>
+              <th>Requirements</th>
+            </tr>
+            <tr>
+              <td><a href="https://www.youtube.com/user/dataschool" target="_blank">Data School</a></td>
+              <td>Introductory</td>
+              <td>98%</td>
+              <td><a href="https://github.com/justmarkham/scikit-learn-videos" target="_blank">Github</a></td>
+              <td>Python (beginner), Pandas (beginner)</td>
+          </tr>
+        </table>
+    
+        <h4><li> Seaborn</li></h4>
+        <table>
+            <tr>
+              <th>Channel</th>
+              <th>Level</th>
+              <th>Upvotes</th>
+              <th>Resources</th>
+              <th>Requirements</th>
+            </tr>
+            <tr>
+              <td><a href="https://www.youtube.com/user/dataschool" target="_blank">Data School</a></td>
+              <td>Introductory</td>
+              <td>98%</td>
+              <td><a href="https://github.com/justmarkham/scikit-learn-videos" target="_blank">Github</a></td>
+              <td>Python (beginner), Pandas (beginner)</td>
+          </tr>
+        </table>
+      </ol>
+  </li>
+  
+  
+  
   <!- ======================================================================== -->  
   <! -- MATPLOTLIB --> 
   <!- ======================================================================== -->
