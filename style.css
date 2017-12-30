@@ -78,6 +78,7 @@ li{display: block }
 .review {
   margin-top: 50px;
   margin-bottom: -5px;
+  font-weight: 500;
 }
 
 .quote-student {opacity: 0.6;}
