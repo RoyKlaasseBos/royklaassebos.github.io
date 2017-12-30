@@ -193,11 +193,11 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 <h4>Can I contribute to this list and if so how?</h4>
 <hr>
-<p>Yes, you can! To add a recommendation to the list, fork this <a href="https://github.com/RoyKlaasseBos/royklaassebos.github.io" target="_blank">repository</a>, update the README markdown file while maintaining the structure of the page and lastly create a pull request in which you briefly mention the change. Alternatively, send me an email (see below).</p>
+<p>Yes, you can! To add a recommendation to the list, fork this <a href="https://github.com/RoyKlaasseBos/royklaassebos.github.io" target="_blank">repository</a>, update the README markdown file while maintaining the structure of the page and lastly create a pull request in which you briefly mention the change. Alternatively, send me an 💌 (see below).</p>
 
 <h4>How do I contact you?</h4>
 <hr>
-<p>Just shoot me an 💌 at <a href="mailto:r.j.klaasse.bos@student.tue.nl?subject=I%20❤%20Data%20Science">r.j.klaasse.bos@student.tue.nl</a></p>
+<p>Just shoot me an email at <a href="mailto:r.j.klaasse.bos@student.tue.nl?subject=I%20❤%20Data%20Science">r.j.klaasse.bos@student.tue.nl</a></p>
 
 <hr>
 <p class="built-with">Built with ❤ in Eindhoven</p>
