@@ -112,6 +112,12 @@ li:before {
   counter-increment: item;
 }
 
+ul li:before {     
+  content: "\2022";     
+  list-style-type: square;     
+  padding-right: 10px; 
+}
+
 ol > li:before{
   font-size: 1.4em;
   margin-bottom: 1rem;
