@@ -39,9 +39,14 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
   </table>
   </li>
   
+  <!- ======================================================================== -->  
+  <! -- MATPLOTLIB --> 
+  <!- ======================================================================== -->
   <li>
     <h3> Matplotlib</h3>
       <ol>
+      
+        
         <h4>
           <li>
             <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank">Plotting in Python using Matplotlib</a>
@@ -87,8 +92,6 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
      
      <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
      
-     </ol>  
-     <ol>
         <h4>
           <li>
             <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank">Plotting in Python using Matplotlib</a>
@@ -133,6 +136,8 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
      <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
      
      <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
+  
+  
   
     </ol>  
   </li>       
