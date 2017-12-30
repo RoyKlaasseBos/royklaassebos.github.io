@@ -65,7 +65,7 @@
               </tr>
           </table>
 
-          <span class="contents">Contents</span>
+          <div class="contents">Contents</div>
             <ul>
               <li>Lineplots</li>
               <li>Scatterplots</li>
@@ -78,7 +78,7 @@
               <li>Scaling axes (logarithmic, linear)</li>
             </ul>
 
-         <span class="review">Review</span>
+         <div class="review">Review</div>
          <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
          <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
 
@@ -115,7 +115,7 @@
               </tr>
           </table>
 
-          <span class="contents">Contents</span>
+          <div class="contents">Contents</div>
             <ul>
               <li>Lineplots</li>
               <li>Scatterplots</li>
@@ -128,7 +128,7 @@
               <li>Scaling axes (logarithmic, linear)</li>
             </ul>
 
-         <span class="review">Review</span>
+         <div class="review">Review</div>
          <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
          <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
 
@@ -177,7 +177,7 @@
               </tr>
           </table>
 
-          <span class="contents">Contents</span>
+          <div class="contents">Contents</div>
             <ul>
               <li>Lineplots</li>
               <li>Scatterplots</li>
@@ -190,7 +190,7 @@
               <li>Scaling axes (logarithmic, linear)</li>
             </ul>
 
-         <span class="review">Review</span>
+         <div class="review">Review</div>
          <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
          <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
 
@@ -227,7 +227,7 @@
               </tr>
           </table>
 
-          <span class="contents">Contents</span>
+          <div class="contents">Contents</div>
             <ul>
               <li>Lineplots</li>
               <li>Scatterplots</li>
@@ -240,7 +240,7 @@
               <li>Scaling axes (logarithmic, linear)</li>
             </ul>
 
-         <span class="review">Review</span>
+         <div class="review">Review</div>
          <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
          <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
 
@@ -289,7 +289,7 @@
               </tr>
           </table>
 
-          <span class="contents">Contents</span>
+          <div class="contents">Contents</div>
             <ul>
               <li>Lineplots</li>
               <li>Scatterplots</li>
@@ -302,7 +302,7 @@
               <li>Scaling axes (logarithmic, linear)</li>
             </ul>
 
-         <span class="review">Review</span>
+         <div class="review">Review</div>
          <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
          <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
 
@@ -339,7 +339,7 @@
               </tr>
           </table>
 
-          <span class="contents">Contents</span>
+          <div class="contents">Contents</div>
             <ul>
               <li>Lineplots</li>
               <li>Scatterplots</li>
@@ -352,7 +352,7 @@
               <li>Scaling axes (logarithmic, linear)</li>
             </ul>
 
-         <span class="review">Review</span>
+         <div class="review">Review</div>
          <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
          <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
 
@@ -403,7 +403,7 @@
               </tr>
             </table>
 
-            <span class="contents">Contents</span>
+            <div class="contents">Contents</div>
             <ul>
               <li>Supervised/unsupervised learning definitions</li> 
               <li>scikit-learn vs R for machine learning</li> 
@@ -419,7 +419,7 @@
               <li>Text Machine Learning (vectorization, Naive Bayes (high level theory + practice),  parameter tuning (stopwords, n-grams, min/max word frequency)</li>
             </ul>
 
-            <span class="review">Review</span>
+            <div class="review">Review</div>
             <p>Characteristic of Kevin’s teaching style is a step by step approach using very detailed Jupyter Notebooks which contain a lot of comments and easy-to-understand explanations and thus makes it excellent reference material (check out his Github page!).  Because he explains every single line of code he types you will fully understand what you are doing which makes his videos accessible to newcomers. Although most videos stay at a basic level plenty of additional resources (blogs/videos/books) are included and mentioned throughout the videos series for further deepening.</p>
             <p><i>Tip 1:</i> Adjust the playback speed to 1.5x or 2.0x (via the gear icon in the play bar) to go through the videos more quickly!<br/>
             <i>Tip 2:</i> The last video in the series is a live recording from PyCon 2016; if you have watched the previous videos you can skip the first 24 minutes and start with part 2: Representing text as numerical data.</p>
@@ -468,7 +468,7 @@
               </tr>
           </table>
 
-          <span class="contents">Contents</span>
+          <div class="contents">Contents</div>
             <ul>
               <li>Lineplots</li>
               <li>Scatterplots</li>
@@ -481,7 +481,7 @@
               <li>Scaling axes (logarithmic, linear)</li>
             </ul>
 
-         <span class="review">Review</span>
+         <div class="review">Review</div>
          <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
          <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
 
@@ -518,7 +518,7 @@
               </tr>
           </table>
 
-          <span class="contents">Contents</span>
+          <div class="contents">Contents</div>
             <ul>
               <li>Lineplots</li>
               <li>Scatterplots</li>
@@ -531,7 +531,7 @@
               <li>Scaling axes (logarithmic, linear)</li>
             </ul>
 
-         <span class="review">Review</span>
+         <div class="review">Review</div>
          <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
          <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
 
