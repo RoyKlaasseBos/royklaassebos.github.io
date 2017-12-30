@@ -150,12 +150,11 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
           <li>Text Machine Learning (vectorization, Naive Bayes (high level theory + practice),  parameter tuning (stopwords, n-grams, min/max word frequency)</li>
         </ul>
         
-        <blockquote><i>Kevin you have mastered both the art of machine learning and teaching :)</i><br/>
-          <span class="quote-student">– Jagadeesh Gajula</span>
-        </blockquote>
-        
-        <b>Review:</b> <br/>
-        <p>This hotel offers free Wi-Fi, a stylish lounge-bar and modern rooms with a flat-screen TV. The famous KaDeWe department store is a 5-minute walk away.</p>
+        <b>Review</b> <br/>
+        <p>Characteristic of Kevin’s teaching style is a step by step approach using very detailed Jupyter Notebooks which contain a lot of comments and easy-to-understand explanations and thus makes it excellent reference material (check out his Github page!).  Because he explains every single line of code he types you will fully understand what you are doing which makes his videos accessible to newcomers. Although most videos stay at a basic level plenty of additional resources (blogs/videos/books) are included and mentioned throughout the videos series for further deepening.</p>
+
+<p><i>Tip 1:</i> Adjust the playback speed to 1.5x or 2.0x (via the gear icon in the play bar) to go through the videos more quickly!<br/>
+<i>Tip 2:</i> The last video in the series is a live recording from PyCon 2016; if you have watched the previous videos you can skip the first 24 minutes and start with part 2: Representing text as numerical data.</p>
         <br />
     </ol>
   </li>
