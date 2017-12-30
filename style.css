@@ -105,7 +105,7 @@ ol {counter-reset: item; padding: 0;}
   height: 100%; 
 }
 
-ol > li:before { 
+li:before { 
   content: counters(item, ".") " "; 
   counter-increment: item;
 }
