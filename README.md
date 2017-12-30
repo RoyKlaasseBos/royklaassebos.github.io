@@ -36,102 +36,105 @@
           <!-- ======================================================================== -->  
           <!-- Plotting in Python using Matplotlib --> 
           <!-- ======================================================================== -->
-          <h4>
-            <li class="counter">
-              <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
-            </li>
-          </h4>
+          <div class="recommendation">
+            <h4>
+              <li class="counter">
+                <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
+              </li>
+            </h4>
 
-          <div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            <div class="embed-container">
+              <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            </div>
+
+            <table>
+                <tr>
+                  <th>Channel</th>
+                  <th>Level</th>
+                  <th>Hours</th>
+                  <th>Upvotes</th>
+                  <th>Resources</th>
+                  <th>Requirements</th>
+                </tr>
+                <tr>
+                  <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
+                  <td>Introductory</td>
+                  <td>1.5</td>
+                  <td>100%</td>
+                  <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
+                  <td>Python (beginner)</td>
+                </tr>
+            </table>
+
+            <div class="contents">Contents</div>
+              <ul>
+                <li>Lineplots</li>
+                <li>Scatterplots</li>
+                <li>Chart properties (xlim, ylim, color, size)</li>
+                <li>Multiple plots in one chart</li>
+                <li>Axis labels</li>
+                <li>Annotation (text in graph, arrows)</li>
+                <li>Legends</li>
+                <li>1D/2D Histograms</li>
+                <li>Scaling axes (logarithmic, linear)</li>
+              </ul>
+
+           <div class="review">Review</div>
+           <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
+           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
           </div>
-
-          <table>
-              <tr>
-                <th>Channel</th>
-                <th>Level</th>
-                <th>Hours</th>
-                <th>Upvotes</th>
-                <th>Resources</th>
-                <th>Requirements</th>
-              </tr>
-              <tr>
-                <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
-                <td>Introductory</td>
-                <td>1.5</td>
-                <td>100%</td>
-                <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
-                <td>Python (beginner)</td>
-              </tr>
-          </table>
-
-          <div class="contents">Contents</div>
-            <ul>
-              <li>Lineplots</li>
-              <li>Scatterplots</li>
-              <li>Chart properties (xlim, ylim, color, size)</li>
-              <li>Multiple plots in one chart</li>
-              <li>Axis labels</li>
-              <li>Annotation (text in graph, arrows)</li>
-              <li>Legends</li>
-              <li>1D/2D Histograms</li>
-              <li>Scaling axes (logarithmic, linear)</li>
-            </ul>
-
-         <div class="review">Review</div>
-         <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
-         <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
 
 
          <!-- ======================================================================== -->  
          <!-- Plotting in Python using Matplotlib --> 
          <!-- ======================================================================== -->
-          <h4>
-            <li class="counter">
-              <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
-            </li>
-          </h4>
+          <div class="recommendation">
+            <h4>
+              <li class="counter">
+                <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
+              </li>
+            </h4>
 
-          <div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-          </div>
+            <div class="embed-container">
+              <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            </div>
 
-          <table>
-              <tr>
-                <th>Channel</th>
-                <th>Level</th>
-                <th>Hours</th>
-                <th>Upvotes</th>
-                <th>Resources</th>
-                <th>Requirements</th>
-              </tr>
-              <tr>
-                <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
-                <td>Introductory</td>
-                <td>1.5</td>
-                <td>100%</td>
-                <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
-                <td>Python (beginner)</td>
-              </tr>
-          </table>
+            <table>
+                <tr>
+                  <th>Channel</th>
+                  <th>Level</th>
+                  <th>Hours</th>
+                  <th>Upvotes</th>
+                  <th>Resources</th>
+                  <th>Requirements</th>
+                </tr>
+                <tr>
+                  <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
+                  <td>Introductory</td>
+                  <td>1.5</td>
+                  <td>100%</td>
+                  <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
+                  <td>Python (beginner)</td>
+                </tr>
+            </table>
 
-          <div class="contents">Contents</div>
-            <ul>
-              <li>Lineplots</li>
-              <li>Scatterplots</li>
-              <li>Chart properties (xlim, ylim, color, size)</li>
-              <li>Multiple plots in one chart</li>
-              <li>Axis labels</li>
-              <li>Annotation (text in graph, arrows)</li>
-              <li>Legends</li>
-              <li>1D/2D Histograms</li>
-              <li>Scaling axes (logarithmic, linear)</li>
-            </ul>
+            <div class="contents">Contents</div>
+              <ul>
+                <li>Lineplots</li>
+                <li>Scatterplots</li>
+                <li>Chart properties (xlim, ylim, color, size)</li>
+                <li>Multiple plots in one chart</li>
+                <li>Axis labels</li>
+                <li>Annotation (text in graph, arrows)</li>
+                <li>Legends</li>
+                <li>1D/2D Histograms</li>
+                <li>Scaling axes (logarithmic, linear)</li>
+              </ul>
 
-         <div class="review">Review</div>
-         <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
-         <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
-
+           <div class="review">Review</div>
+           <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
+           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
+        </div>
         </ol>
       </li>
 
@@ -143,108 +146,111 @@
 
       <li>
         <h3 class="counter"> Matplotlib</h3>
-        <hr>
         <ol>
           
           <!-- ======================================================================== -->  
           <!-- Plotting in Python using Matplotlib --> 
           <!-- ======================================================================== -->
-          <h4>
-            <li class="counter">
-              <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
-            </li>
-          </h4>
+          <div class="recommendation">
+            <h4>
+              <li class="counter">
+                <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
+              </li>
+            </h4>
 
-          <div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            <div class="embed-container">
+              <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            </div>
+
+            <table>
+                <tr>
+                  <th>Channel</th>
+                  <th>Level</th>
+                  <th>Hours</th>
+                  <th>Upvotes</th>
+                  <th>Resources</th>
+                  <th>Requirements</th>
+                </tr>
+                <tr>
+                  <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
+                  <td>Introductory</td>
+                  <td>1.5</td>
+                  <td>100%</td>
+                  <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
+                  <td>Python (beginner)</td>
+                </tr>
+            </table>
+
+            <div class="contents">Contents</div>
+              <ul>
+                <li>Lineplots</li>
+                <li>Scatterplots</li>
+                <li>Chart properties (xlim, ylim, color, size)</li>
+                <li>Multiple plots in one chart</li>
+                <li>Axis labels</li>
+                <li>Annotation (text in graph, arrows)</li>
+                <li>Legends</li>
+                <li>1D/2D Histograms</li>
+                <li>Scaling axes (logarithmic, linear)</li>
+              </ul>
+
+           <div class="review">Review</div>
+           <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
+           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
+         
           </div>
-
-          <table>
-              <tr>
-                <th>Channel</th>
-                <th>Level</th>
-                <th>Hours</th>
-                <th>Upvotes</th>
-                <th>Resources</th>
-                <th>Requirements</th>
-              </tr>
-              <tr>
-                <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
-                <td>Introductory</td>
-                <td>1.5</td>
-                <td>100%</td>
-                <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
-                <td>Python (beginner)</td>
-              </tr>
-          </table>
-
-          <div class="contents">Contents</div>
-            <ul>
-              <li>Lineplots</li>
-              <li>Scatterplots</li>
-              <li>Chart properties (xlim, ylim, color, size)</li>
-              <li>Multiple plots in one chart</li>
-              <li>Axis labels</li>
-              <li>Annotation (text in graph, arrows)</li>
-              <li>Legends</li>
-              <li>1D/2D Histograms</li>
-              <li>Scaling axes (logarithmic, linear)</li>
-            </ul>
-
-         <div class="review">Review</div>
-         <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
-         <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
-
 
          <!-- ======================================================================== -->  
          <!-- Plotting in Python using Matplotlib --> 
          <!-- ======================================================================== -->
-          <h4>
-            <li class="counter">
-              <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
-            </li>
-          </h4>
+          <div class="recommendation">
+            <h4>
+              <li class="counter">
+                <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
+              </li>
+            </h4>
 
-          <div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-          </div>
+            <div class="embed-container">
+              <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            </div>
 
-          <table>
-              <tr>
-                <th>Channel</th>
-                <th>Level</th>
-                <th>Hours</th>
-                <th>Upvotes</th>
-                <th>Resources</th>
-                <th>Requirements</th>
-              </tr>
-              <tr>
-                <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
-                <td>Introductory</td>
-                <td>1.5</td>
-                <td>100%</td>
-                <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
-                <td>Python (beginner)</td>
-              </tr>
-          </table>
+            <table>
+                <tr>
+                  <th>Channel</th>
+                  <th>Level</th>
+                  <th>Hours</th>
+                  <th>Upvotes</th>
+                  <th>Resources</th>
+                  <th>Requirements</th>
+                </tr>
+                <tr>
+                  <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
+                  <td>Introductory</td>
+                  <td>1.5</td>
+                  <td>100%</td>
+                  <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
+                  <td>Python (beginner)</td>
+                </tr>
+            </table>
 
-          <div class="contents">Contents</div>
-            <ul>
-              <li>Lineplots</li>
-              <li>Scatterplots</li>
-              <li>Chart properties (xlim, ylim, color, size)</li>
-              <li>Multiple plots in one chart</li>
-              <li>Axis labels</li>
-              <li>Annotation (text in graph, arrows)</li>
-              <li>Legends</li>
-              <li>1D/2D Histograms</li>
-              <li>Scaling axes (logarithmic, linear)</li>
-            </ul>
+            <div class="contents">Contents</div>
+              <ul>
+                <li>Lineplots</li>
+                <li>Scatterplots</li>
+                <li>Chart properties (xlim, ylim, color, size)</li>
+                <li>Multiple plots in one chart</li>
+                <li>Axis labels</li>
+                <li>Annotation (text in graph, arrows)</li>
+                <li>Legends</li>
+                <li>1D/2D Histograms</li>
+                <li>Scaling axes (logarithmic, linear)</li>
+              </ul>
 
-         <div class="review">Review</div>
-         <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
-         <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
+           <div class="review">Review</div>
+           <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
+           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
 
+        </div>
         </ol>
       </li>
 
@@ -256,108 +262,111 @@
       
       <li>
         <h3 class="counter"> Statistics & Probabilities</h3>
-        <hr>
         <ol>
           
           <!-- ======================================================================== -->  
           <!-- Plotting in Python using Matplotlib --> 
           <!-- ======================================================================== -->
-          <h4>
-            <li class="counter">
-              <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
-            </li>
-          </h4>
+          <div class="recommendation">
+            <h4>
+              <li class="counter">
+                <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
+              </li>
+            </h4>
 
-          <div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            <div class="embed-container">
+              <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            </div>
+
+            <table>
+                <tr>
+                  <th>Channel</th>
+                  <th>Level</th>
+                  <th>Hours</th>
+                  <th>Upvotes</th>
+                  <th>Resources</th>
+                  <th>Requirements</th>
+                </tr>
+                <tr>
+                  <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
+                  <td>Introductory</td>
+                  <td>1.5</td>
+                  <td>100%</td>
+                  <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
+                  <td>Python (beginner)</td>
+                </tr>
+            </table>
+
+            <div class="contents">Contents</div>
+              <ul>
+                <li>Lineplots</li>
+                <li>Scatterplots</li>
+                <li>Chart properties (xlim, ylim, color, size)</li>
+                <li>Multiple plots in one chart</li>
+                <li>Axis labels</li>
+                <li>Annotation (text in graph, arrows)</li>
+                <li>Legends</li>
+                <li>1D/2D Histograms</li>
+                <li>Scaling axes (logarithmic, linear)</li>
+              </ul>
+
+           <div class="review">Review</div>
+           <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
+           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
+          
           </div>
-
-          <table>
-              <tr>
-                <th>Channel</th>
-                <th>Level</th>
-                <th>Hours</th>
-                <th>Upvotes</th>
-                <th>Resources</th>
-                <th>Requirements</th>
-              </tr>
-              <tr>
-                <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
-                <td>Introductory</td>
-                <td>1.5</td>
-                <td>100%</td>
-                <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
-                <td>Python (beginner)</td>
-              </tr>
-          </table>
-
-          <div class="contents">Contents</div>
-            <ul>
-              <li>Lineplots</li>
-              <li>Scatterplots</li>
-              <li>Chart properties (xlim, ylim, color, size)</li>
-              <li>Multiple plots in one chart</li>
-              <li>Axis labels</li>
-              <li>Annotation (text in graph, arrows)</li>
-              <li>Legends</li>
-              <li>1D/2D Histograms</li>
-              <li>Scaling axes (logarithmic, linear)</li>
-            </ul>
-
-         <div class="review">Review</div>
-         <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
-         <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
 
 
          <!-- ======================================================================== -->  
          <!-- Plotting in Python using Matplotlib --> 
          <!-- ======================================================================== -->
-          <h4>
-            <li class="counter">
-              <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
-            </li>
-          </h4>
+          <div class="recommendation">
+            <h4>
+              <li class="counter">
+                <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
+              </li>
+            </h4>
 
-          <div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-          </div>
+            <div class="embed-container">
+              <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            </div>
 
-          <table>
-              <tr>
-                <th>Channel</th>
-                <th>Level</th>
-                <th>Hours</th>
-                <th>Upvotes</th>
-                <th>Resources</th>
-                <th>Requirements</th>
-              </tr>
-              <tr>
-                <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
-                <td>Introductory</td>
-                <td>1.5</td>
-                <td>100%</td>
-                <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
-                <td>Python (beginner)</td>
-              </tr>
-          </table>
+            <table>
+                <tr>
+                  <th>Channel</th>
+                  <th>Level</th>
+                  <th>Hours</th>
+                  <th>Upvotes</th>
+                  <th>Resources</th>
+                  <th>Requirements</th>
+                </tr>
+                <tr>
+                  <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
+                  <td>Introductory</td>
+                  <td>1.5</td>
+                  <td>100%</td>
+                  <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
+                  <td>Python (beginner)</td>
+                </tr>
+            </table>
 
-          <div class="contents">Contents</div>
-            <ul>
-              <li>Lineplots</li>
-              <li>Scatterplots</li>
-              <li>Chart properties (xlim, ylim, color, size)</li>
-              <li>Multiple plots in one chart</li>
-              <li>Axis labels</li>
-              <li>Annotation (text in graph, arrows)</li>
-              <li>Legends</li>
-              <li>1D/2D Histograms</li>
-              <li>Scaling axes (logarithmic, linear)</li>
-            </ul>
+            <div class="contents">Contents</div>
+              <ul>
+                <li>Lineplots</li>
+                <li>Scatterplots</li>
+                <li>Chart properties (xlim, ylim, color, size)</li>
+                <li>Multiple plots in one chart</li>
+                <li>Axis labels</li>
+                <li>Annotation (text in graph, arrows)</li>
+                <li>Legends</li>
+                <li>1D/2D Histograms</li>
+                <li>Scaling axes (logarithmic, linear)</li>
+              </ul>
 
-         <div class="review">Review</div>
-         <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
-         <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
-
+           <div class="review">Review</div>
+           <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
+           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
+        </div>
         </ol>
       </li>
       
@@ -369,178 +378,179 @@
 
       <li>
         <h3 class="counter"> Machine Learning</h3>
-        <hr>
           <ol>  
             
             <!-- ======================================================================== -->  
             <!-- Machine Learning in Python with scikit-learn --> 
             <!-- ======================================================================== -->
-            <h4>
-              <a href="https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A" target="_blank">
-                <li class="counter"> Machine Learning in Python with scikit-learn</li>
-              </a>
-            </h4>
-            
-            <div class="embed-container">
-              <iframe src="https://www.youtube.com/embed/elojMnjn4kk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-            </div>
-            
-            <table>
-              <tr>
-                <th>Channel</th>
-                <th>Level</th>
-                <th>Hours</th>
-                <th>Upvotes</th>
-                <th>Resources</th>
-                <th>Requirements</th>
-              </tr>
-              <tr>
-                <td><a href="https://www.youtube.com/user/dataschool" target="_blank">Data School</a></td>
-                <td>Introductory</td>
-                <td>7</td>
-                <td>98%</td>
-                <td><a href="https://github.com/justmarkham/scikit-learn-videos" target="_blank">Scikit learn videos</a> 
-                  <a href="https://github.com/justmarkham/pycon-2016-tutorial" target="_blank">Pycon 2016 (Text ML)</a>
-                </td>
-                <td>Python (beginner), Pandas (beginner)</td>
-              </tr>
-            </table>
+            <div class="recommendation">
+              <h4>
+                <a href="https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A" target="_blank">
+                  <li class="counter"> Machine Learning in Python with scikit-learn</li>
+                </a>
+              </h4>
 
-            <div class="contents">Contents</div>
-            <ul>
-              <li>Supervised/unsupervised learning definitions</li> 
-              <li>scikit-learn vs R for machine learning</li> 
-              <li>Jupyter Notebook</li>
-              <li>kNN algorithm (+ choosing number of neighbours)</li>
-              <li>Logistic Regression</li>
-              <li>Linear Regression (+ interpretation of coefficients)</li>
-              <li>Train / Test split</li> 
-              <li>K-fold cross validation</li>
-              <li>Manual feature selection</li>
-              <li>Performance metrics (accuracy, Mean Absolute Error, Mean Squared Error, Root Mean Squared Error)</li>
-              <li>Grid search (+ RandomizedSearchCV)</li>
-              <li>Text Machine Learning (vectorization, Naive Bayes (high level theory + practice),  parameter tuning (stopwords, n-grams, min/max word frequency)</li>
-            </ul>
+              <div class="embed-container">
+                <iframe src="https://www.youtube.com/embed/elojMnjn4kk?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+              </div>
 
-            <div class="review">Review</div>
-            <p>Characteristic of Kevin’s teaching style is a step by step approach using very detailed Jupyter Notebooks which contain a lot of comments and easy-to-understand explanations and thus makes it excellent reference material (check out his Github page!).  Because he explains every single line of code he types you will fully understand what you are doing which makes his videos accessible to newcomers. Although most videos stay at a basic level plenty of additional resources (blogs/videos/books) are included and mentioned throughout the videos series for further deepening.</p>
-            <p><i>Tip 1:</i> Adjust the playback speed to 1.5x or 2.0x (via the gear icon in the play bar) to go through the videos more quickly!<br/>
-            <i>Tip 2:</i> The last video in the series is a live recording from PyCon 2016; if you have watched the previous videos you can skip the first 24 minutes and start with part 2: Representing text as numerical data.</p>
-            
+              <table>
+                <tr>
+                  <th>Channel</th>
+                  <th>Level</th>
+                  <th>Hours</th>
+                  <th>Upvotes</th>
+                  <th>Resources</th>
+                  <th>Requirements</th>
+                </tr>
+                <tr>
+                  <td><a href="https://www.youtube.com/user/dataschool" target="_blank">Data School</a></td>
+                  <td>Introductory</td>
+                  <td>7</td>
+                  <td>98%</td>
+                  <td><a href="https://github.com/justmarkham/scikit-learn-videos" target="_blank">Scikit learn videos</a> 
+                    <a href="https://github.com/justmarkham/pycon-2016-tutorial" target="_blank">Pycon 2016 (Text ML)</a>
+                  </td>
+                  <td>Python (beginner), Pandas (beginner)</td>
+                </tr>
+              </table>
+
+              <div class="contents">Contents</div>
+              <ul>
+                <li>Supervised/unsupervised learning definitions</li> 
+                <li>scikit-learn vs R for machine learning</li> 
+                <li>Jupyter Notebook</li>
+                <li>kNN algorithm (+ choosing number of neighbours)</li>
+                <li>Logistic Regression</li>
+                <li>Linear Regression (+ interpretation of coefficients)</li>
+                <li>Train / Test split</li> 
+                <li>K-fold cross validation</li>
+                <li>Manual feature selection</li>
+                <li>Performance metrics (accuracy, Mean Absolute Error, Mean Squared Error, Root Mean Squared Error)</li>
+                <li>Grid search (+ RandomizedSearchCV)</li>
+                <li>Text Machine Learning (vectorization, Naive Bayes (high level theory + practice),  parameter tuning (stopwords, n-grams, min/max word frequency)</li>
+              </ul>
+
+              <div class="review">Review</div>
+              <p>Characteristic of Kevin’s teaching style is a step by step approach using very detailed Jupyter Notebooks which contain a lot of comments and easy-to-understand explanations and thus makes it excellent reference material (check out his Github page!).  Because he explains every single line of code he types you will fully understand what you are doing which makes his videos accessible to newcomers. Although most videos stay at a basic level plenty of additional resources (blogs/videos/books) are included and mentioned throughout the videos series for further deepening.</p>
+              <p><i>Tip 1:</i> Adjust the playback speed to 1.5x or 2.0x (via the gear icon in the play bar) to go through the videos more quickly!<br/>
+              <i>Tip 2:</i> The last video in the series is a live recording from PyCon 2016; if you have watched the previous videos you can skip the first 24 minutes and start with part 2: Representing text as numerical data.</p>
+          </div>    
         </ol>
       </li>
 
             
       <!-- ======================================================================== -->  
-      <!-- COLLABORATION & ACADEMIC WRITING --> 
+      <!-- MATPLOTLIB --> 
       <!-- ======================================================================== -->
 
       <li>
         <h3 class="counter"> Collaboration & Academic Writing</h3>
-        <hr>
         <ol>
           
           <!-- ======================================================================== -->  
           <!-- Plotting in Python using Matplotlib --> 
           <!-- ======================================================================== -->
-          <h4>
-            <li class="counter">
-              <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Github</a>
-            </li>
-          </h4>
+          <div class="recommendation">
+            <h4>
+              <li class="counter">
+                <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Github</a>
+              </li>
+            </h4>
 
-          <div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-          </div>
+            <div class="embed-container">
+              <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            </div>
 
-          <table>
-              <tr>
-                <th>Channel</th>
-                <th>Level</th>
-                <th>Hours</th>
-                <th>Upvotes</th>
-                <th>Resources</th>
-                <th>Requirements</th>
-              </tr>
-              <tr>
-                <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
-                <td>Introductory</td>
-                <td>1.5</td>
-                <td>100%</td>
-                <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
-                <td>Python (beginner)</td>
-              </tr>
-          </table>
+            <table>
+                <tr>
+                  <th>Channel</th>
+                  <th>Level</th>
+                  <th>Hours</th>
+                  <th>Upvotes</th>
+                  <th>Resources</th>
+                  <th>Requirements</th>
+                </tr>
+                <tr>
+                  <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
+                  <td>Introductory</td>
+                  <td>1.5</td>
+                  <td>100%</td>
+                  <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
+                  <td>Python (beginner)</td>
+                </tr>
+            </table>
 
-          <div class="contents">Contents</div>
-            <ul>
-              <li>Lineplots</li>
-              <li>Scatterplots</li>
-              <li>Chart properties (xlim, ylim, color, size)</li>
-              <li>Multiple plots in one chart</li>
-              <li>Axis labels</li>
-              <li>Annotation (text in graph, arrows)</li>
-              <li>Legends</li>
-              <li>1D/2D Histograms</li>
-              <li>Scaling axes (logarithmic, linear)</li>
-            </ul>
+            <div class="contents">Contents</div>
+              <ul>
+                <li>Lineplots</li>
+                <li>Scatterplots</li>
+                <li>Chart properties (xlim, ylim, color, size)</li>
+                <li>Multiple plots in one chart</li>
+                <li>Axis labels</li>
+                <li>Annotation (text in graph, arrows)</li>
+                <li>Legends</li>
+                <li>1D/2D Histograms</li>
+                <li>Scaling axes (logarithmic, linear)</li>
+              </ul>
 
-         <div class="review">Review</div>
-         <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
-         <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
-
+           <div class="review">Review</div>
+           <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
+           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
+         </div>
 
          <!-- ======================================================================== -->  
          <!-- Plotting in Python using Matplotlib --> 
          <!-- ======================================================================== -->
-          <h4>
-            <li class="counter">
-              <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> LaTeX</a>
-            </li>
-          </h4>
+          <div class="recommendation">
+            <h4>
+              <li class="counter">
+                <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> LaTeX</a>
+              </li>
+            </h4>
 
-          <div class="embed-container">
-            <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-          </div>
+            <div class="embed-container">
+              <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            </div>
 
-          <table>
-              <tr>
-                <th>Channel</th>
-                <th>Level</th>
-                <th>Hours</th>
-                <th>Upvotes</th>
-                <th>Resources</th>
-                <th>Requirements</th>
-              </tr>
-              <tr>
-                <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
-                <td>Introductory</td>
-                <td>1.5</td>
-                <td>100%</td>
-                <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
-                <td>Python (beginner)</td>
-              </tr>
-          </table>
+            <table>
+                <tr>
+                  <th>Channel</th>
+                  <th>Level</th>
+                  <th>Hours</th>
+                  <th>Upvotes</th>
+                  <th>Resources</th>
+                  <th>Requirements</th>
+                </tr>
+                <tr>
+                  <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
+                  <td>Introductory</td>
+                  <td>1.5</td>
+                  <td>100%</td>
+                  <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
+                  <td>Python (beginner)</td>
+                </tr>
+            </table>
 
-          <div class="contents">Contents</div>
-            <ul>
-              <li>Lineplots</li>
-              <li>Scatterplots</li>
-              <li>Chart properties (xlim, ylim, color, size)</li>
-              <li>Multiple plots in one chart</li>
-              <li>Axis labels</li>
-              <li>Annotation (text in graph, arrows)</li>
-              <li>Legends</li>
-              <li>1D/2D Histograms</li>
-              <li>Scaling axes (logarithmic, linear)</li>
-            </ul>
+            <div class="contents">Contents</div>
+              <ul>
+                <li>Lineplots</li>
+                <li>Scatterplots</li>
+                <li>Chart properties (xlim, ylim, color, size)</li>
+                <li>Multiple plots in one chart</li>
+                <li>Axis labels</li>
+                <li>Annotation (text in graph, arrows)</li>
+                <li>Legends</li>
+                <li>1D/2D Histograms</li>
+                <li>Scaling axes (logarithmic, linear)</li>
+              </ul>
 
-         <div class="review">Review</div>
-         <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
-         
-         <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
-
+           <div class="review">Review</div>
+           <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
+           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
+        </div>
         </ol>
+        
       </li>    
     </ol>
 
