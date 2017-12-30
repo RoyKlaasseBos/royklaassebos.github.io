@@ -21,6 +21,8 @@ h3 {
 
 b, strong {font-weight: 500;}
 
+ul {list-style-type: normal;}
+
 th{text-align: left;}
 
 li{display: block }
