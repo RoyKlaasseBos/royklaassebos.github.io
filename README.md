@@ -61,7 +61,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
             <tr>
               <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
               <td>Introductory</td>
-              <td>1.5</th>
+              <td>1.5</td>
               <td>100%</td>
               <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv " target="_blank">Football data</a></td>
               <td>Python (beginner)</td>
