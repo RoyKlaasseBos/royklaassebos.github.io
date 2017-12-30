@@ -150,7 +150,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
           <li>Text Machine Learning (vectorization, Naive Bayes (high level theory + practice),  parameter tuning (stopwords, n-grams, min/max word frequency)</li>
         </ul>
         
-        <b>Review</b> <br/>
+        <div class="review">Review</div>
         <p>Characteristic of Kevin’s teaching style is a step by step approach using very detailed Jupyter Notebooks which contain a lot of comments and easy-to-understand explanations and thus makes it excellent reference material (check out his Github page!).  Because he explains every single line of code he types you will fully understand what you are doing which makes his videos accessible to newcomers. Although most videos stay at a basic level plenty of additional resources (blogs/videos/books) are included and mentioned throughout the videos series for further deepening.</p>
 
 <p><i>Tip 1:</i> Adjust the playback speed to 1.5x or 2.0x (via the gear icon in the play bar) to go through the videos more quickly!<br/>
