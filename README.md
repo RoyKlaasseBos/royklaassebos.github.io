@@ -30,8 +30,9 @@
     <ol> 
       
       <li>
+        <br />
         <h3 class="counter"> Python Programming</h3>
-        <ol class="recommendation">
+        <ol>
           
           <!-- ======================================================================== -->  
           <!-- Plotting in Python using Matplotlib --> 
