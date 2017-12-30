@@ -49,6 +49,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
         </h4>
         <div class='embed-container'>
           <iframe src="https://www.youtube.com/watch?v=-czP9f363Vw&list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM&index=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+        </div>
         <table>
             <tr>
               <th>Channel</th>
