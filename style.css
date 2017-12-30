@@ -12,13 +12,6 @@ a {
   font-weight: 500;
 }
 
-h2 {font-weight: 600}
-
-h3 {
-  margin-top: 0px;
-  display: inline;
-}
-
 b, strong {font-weight: 500;}
 
 th{text-align: left;}
@@ -47,6 +40,7 @@ li{display: block }
   font-weight: 600;
   display: inline-block;
   font-size: 1.7em;
+  margin-top: 50px;
  }
 
 .main-content h3 { 
@@ -61,6 +55,9 @@ li{display: block }
   display: inline-block;
   font-size: 1.2em;
   font-weight: 500;
+  margin-top: 0px;
+  display: inline;
+
 }
 
 .main-content ul {padding-left: 0;}
