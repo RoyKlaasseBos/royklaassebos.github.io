@@ -151,7 +151,8 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 
 <h2>FAQ</h2>
-<h4>There are plenty of "Top Data Science Course" lists out there, how is this one any different?</h4>
+<h4>There are plenty of "Top Data Science Course" lists out there, how is this one any different? 🤷‍♀️
+</h4>
 <hr>
 <p>Well, I have looked at plenty of those lists myself but most of their online course (MOOC) recommendations weren't really what I was looking for to be honest. This guide is different in the sense that it mainly centres around practical YouTube tutorials taught by industry practitioners who really master the craft of teaching. The latter is a rare ability for many programmers, especially those who can describe the "why" in addition to the "how"; simply typing out code is not that difficult, explaining others in plain English why you are doing something is much more challenging. Lastly, all recommendations are accompanied with a textual review which is also not very common for most rankings.</p>
 
