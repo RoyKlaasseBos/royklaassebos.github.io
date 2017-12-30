@@ -159,7 +159,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 <hr>
 <p>Very sharp, you are absolutely right! One of the questions people new to the field of data science typically come up with is: should I learn Python or R? If you simply Google <a href="http://bfy.tw/FnTe" target="_blank">"Python vs R for Data Science"</a> you will find an abundance of discussions on this topic. From what I've read Python usually comes out as the ultimate winner (especially for Deep Learning applications - a subset of Machine Learning that tries to mimic the human brain). That does not mean that you should neglect R of course, but as a beginner I think it's better to become very knowledgeable at a single programming language rather than be mediocre at two.</p>
 
-<h4>What makes a Data Science unicorn?</h4>
+<h4>What makes a Data Science unicorn? 🦄</h4>
 <hr>
 <p>In the beginning of this academic year I interviewed a professor, Willem-Jan van der Heuvel, and that was also one of the questions I asked him. In summary he mentions the following skills: <i>"Analytical skills"</i> (e.g. Statistics & Probability), <i>"Engineering Skills"</i> (e.g. Programming but, for example, also distributed computing frameworks) and third: <i>"Domain Knowledge"</i> (e.g. a subversion expert). If you are interested, you can read the corresponding article <a href="https://medium.com/the-outlier/willem-jan-van-den-heuvel-91af6c86dcda" target="_blank">here</a>.</p>
 
@@ -171,7 +171,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
   
 <p>On a personal note, I would add that while watching tutorials on YouTube you may sometimes get the impression that you really master the material. I want to warn you against that false impression, because coding something from scratch is significantly harder than retyping (or even worse: copy pasting) someone's else code. A better measure to test your understanding is by applying your knowledge in a completely different environment (e.g. a side-project as mentioned above).</p>
  
-<h4>What does "Upvotes" mean?</h4>
+<h4>What does "Upvotes" mean and how is it calculated? 👍</h4>
 <hr>
 <p>On Coursera, edX and Udemy course ratings are displayed as a star rating (between 0-5 stars). On YouTube there is a similar mechanism to measure user feedback: up- and downvotes. A derivative thereof, the upvote ratio #upvotes/(#upvotes + #downvotes) * 100%, is shown for each of my recommendations. </p>
   
@@ -197,7 +197,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 <h4>How do I contact you?</h4>
 <hr>
-<p>Just shoot me an email at <a href="mailto:r.j.klaasse.bos@student.tue.nl?subject=I%20❤%20Data%20Science">r.j.klaasse.bos@student.tue.nl</a></p>
+<p>Just shoot me an 💌 at <a href="mailto:r.j.klaasse.bos@student.tue.nl?subject=I%20❤%20Data%20Science">r.j.klaasse.bos@student.tue.nl</a></p>
 
 <hr>
 <p class="built-with">Built with ❤ in Eindhoven</p>
