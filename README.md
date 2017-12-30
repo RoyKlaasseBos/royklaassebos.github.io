@@ -38,8 +38,9 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
     </tr>
   </table>
   </li>
+  
   <li>
-    <h3> Matplpotlib</h3>
+    <h3> Matplotlib</h3>
       <ol>
         <h4>
           <li>
@@ -81,10 +82,8 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
         </ul>
         
      <div class="review">Review</div>
-     <p>
-     Once you have seen how to work with Matplotlib it’s a piece of cake, but the first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction into the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/“ target=“_blank”>Udemy</a> for $20, lucky you!
-     </p>
-        
+     <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but the first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction into the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/“ target=“_blank”>Udemy</a> for $20, lucky you!</p>
+     </li>       
 
   <li>
     <h3> Statistics & Probabilities</h3>
