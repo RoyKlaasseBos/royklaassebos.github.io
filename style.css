@@ -121,7 +121,7 @@ ol {counter-reset: item; padding: 0;}
   height: 100%; 
 }
 
-li:before { 
+.sub-section:before { 
   content: counters(item, ".") " "; 
   counter-increment: item;
 }
