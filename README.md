@@ -48,7 +48,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
           </li>
         </h4>
         <div class='embed-container'>
-          <iframe src="https://www.youtube.com/watch?v=-czP9f363Vw&list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM&index=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
         </div>
         <table>
             <tr>
@@ -76,7 +76,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
           <li>Chart properties (xlim, ylim, color, size)</li>
           <li>Multiple plots in one chart</li>
           <li>Axis labels</li>
-          <li>annotation (text in graph, arrows)</li>
+          <li>Annotation (text in graph, arrows)</li>
           <li>Legends</li>
           <li>1D/2D Histograms</li>
           <li>Scaling axes (logarithmic, linear)</li>
@@ -84,7 +84,8 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
         
      <div class="review">Review</div>
      <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but the first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction into the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/“ target=“_blank”>Udemy</a> for $20, lucky you!</p>
-     </li>       
+    </ol>  
+  </li>       
 
   <li>
     <h3> Statistics & Probabilities</h3>
@@ -144,7 +145,6 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 <p><i>Tip 1:</i> Adjust the playback speed to 1.5x or 2.0x (via the gear icon in the play bar) to go through the videos more quickly!<br/>
 <i>Tip 2:</i> The last video in the series is a live recording from PyCon 2016; if you have watched the previous videos you can skip the first 24 minutes and start with part 2: Representing text as numerical data.</p>
-        <br />
     </ol>
   </li>
 
