@@ -84,6 +84,56 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
         
      <div class="review">Review</div>
      <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
+     
+     <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles. 
+  
+  <h4>
+          <li>
+            <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank">Plotting in Python using Matplotlib</a>
+          </li>
+        </h4>
+        <div class='embed-container'>
+          <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+        </div>
+        <table>
+            <tr>
+              <th>Channel</th>
+              <th>Level</th>
+              <th>Hours</th>
+              <th>Upvotes</th>
+              <th>Resources</th>
+              <th>Requirements</th>
+            </tr>
+            <tr>
+              <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
+              <td>Introductory</td>
+              <td>1.5</td>
+              <td>100%</td>
+              <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
+              <td>Python (beginner)</td>
+          </tr>
+        </table>
+        
+      <div class="contents">Contents</div>
+        <ul>
+          <li>Lineplots</li>
+          <li>Scatterplots</li>
+          <li>Chart properties (xlim, ylim, color, size)</li>
+          <li>Multiple plots in one chart</li>
+          <li>Axis labels</li>
+          <li>Annotation (text in graph, arrows)</li>
+          <li>Legends</li>
+          <li>1D/2D Histograms</li>
+          <li>Scaling axes (logarithmic, linear)</li>
+        </ul>
+        
+     <div class="review">Review</div>
+     <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
+     
+     <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles. 
+  
+  
+  
     </ol>  
   </li>       
 
