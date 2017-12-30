@@ -493,8 +493,8 @@
               </ul>
 
            <div class="review">Review</div>
-           <p>It should be clear by now that I am a huge fan of Kevin’s comprehensible tutorials and this series does not form any exception to that rule. What I liked in particular is that he makes such a complicated topic as version control not overly complex.</p>        
-           <p><i>Tip:</i>Do the interactive demo <a href=“http://generalassembly.github.io/prework/cl/#/”>“How to use the command line“</a> (by General Assembly) in advance to be more comfortable with the terminal.</p>
+           <p>It should be clear by now that I am a huge fan of Kevin’s comprehensible tutorials and this series does not form any exception to that rule. What I liked in particular is that he makes such a complicated topic as version control not overly complex.</p>
+           <p><i>Tip:</i> Do the interactive demo <a href="http://generalassembly.github.io/prework/cl/" target="_blank">“How to use the command line“</a> (by General Assembly) in advance to be more comfortable with the terminal. </p>
          </div>
 
          <!-- ======================================================================== -->  
