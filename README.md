@@ -165,7 +165,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 <h4><i>How do I become a Data Science unicorn?</i></h4>
 <hr>
-<p>That is the logical follow-question obviously. First, let me say that I am not the one to answer that question, hence I will share the advice I got from data people way smarter and more experienced than me to answer the (slightly rephrased) question: <i>What is the best way to learn data science?</i></p>
+<p>That is the logical follow-question obviously. First, let me say that I am not the one to answer that question, hence I will share the advice I got from data people way smarter and more experienced than me to answer a slightly rephrased question: <i>What is the best way to learn data science?</i></p>
   
 <p>If you look into the week by week schedule of data science (and coding) bootcamps, you will find that the last weeks of the program are usually dedicated towards students' capstone projects. That are learning projects which entail all steps of the  data science pipeline: from data collection to presenting to the end customer. Because of this scope students experience all the tasks involved in a everyday and thus representative data science project. This typically implies you spend the majority of your time wrangling and cleaning the data (because remember: on average data scientists spend 80% of their time cleaning the data). On that note, some folks aren't that keen on <a href="https://www.kaggle.com" target="_blank">Kaggle</a> competitions (i.e. machine learning model building contests); since most data sets available on the platform have already been fully cleaned. But the main take-away here is to think of any topic you like (and in which you preferably have some kind of subject matter expertise) and work from there. After all, data is everywhere these days so it should not be that difficult to think of intriguing research questions related to your interests.</p>
   
@@ -179,7 +179,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 <h4><i>The title says "Top Data Science Videos 2018" but some of the content originates from way before 2018, isn't it?</i></h4>
 <hr>
-<p>Yeah again, you are right! Think of it as a catchy marketing slogan ;-)</p>
+<p>Yeah again, you are right! Think of it as a catchy slogan ;-)</p>
 
 <h4><i>Where do I find the lecture notes of the Data Analytics for Engineers (2IAB0) tutorials?</i></h4>
 <hr>
@@ -189,7 +189,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 <h4><i>Is this guide updated regularly?</i></h4>
 <hr>
-<p>Indeed, it's a very dynamic list. For example, at the moment of writing I am taking online (and university) courses myself which means that there is a high probability that the number of "free resources" will soon increase even more.. ;-)</p>
+<p>Indeed, it's a very dynamic list. For example, at the moment of writing I am taking online (and university) courses myself which means that there is a high probability that the number of "free resources" will soon increase even further.. ;-)</p>
 
 <h4><i>Can I contribute to this list and if so how?</i></h4>
 <hr>
