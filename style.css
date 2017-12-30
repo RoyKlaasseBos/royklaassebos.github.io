@@ -75,10 +75,18 @@ li{display: block }
   max-width: 700px;
 }
 
-.content-review {
-  margin-top: 50px;
-  margin-bottom: -5px;
-  font-weight: 500;
+.content{
+    margin-top: 45px;
+    margin-bottom: -10px;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+.review{
+    margin-top: 45px;
+    margin-bottom: 0;
+    font-weight: 500;
+    font-size: 1.2em;
 }
 
 .quote-student {opacity: 0.6;}
