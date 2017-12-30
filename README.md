@@ -320,17 +320,17 @@
 
 
          <!-- ======================================================================== -->  
-         <!-- Plotting in Python using Matplotlib --> 
+         <!-- Statistics --> 
          <!-- ======================================================================== -->
           <div class="recommendation">
             <h4>
               <li class="counter">
-                <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
+                <a href="https://www.youtube.com/playlist?list=PL568547ACA9211CCA" target="_blank"> Statistics </a>
               </li>
             </h4>
 
             <div class="embed-container">
-              <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+              <iframe src="https://www.youtube.com/embed/oHGr0M3TIcA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
             </div>
 
             <table>
@@ -339,35 +339,48 @@
                   <th>Level</th>
                   <th>Hours</th>
                   <th>Upvotes</th>
-                  <th>Resources</th>
                   <th>Requirements</th>
                 </tr>
                 <tr>
-                  <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
+                  <td><a href="https://www.youtube.com/channel/UCAw1xA2HV7NNq7aq-OSuE4g" target="_blank">statslectures</a></td>
                   <td>Introductory</td>
-                  <td>1.5</td>
-                  <td>100%</td>
-                  <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
-                  <td>Python (beginner)</td>
+                  <td>5.5</td>
+                  <td>98%</td>
+                  <td>None</td>
                 </tr>
             </table>
 
             <div class="contents">Contents</div>
               <ul>
-                <li>Lineplots</li>
-                <li>Scatterplots</li>
-                <li>Chart properties (xlim, ylim, color, size)</li>
-                <li>Multiple plots in one chart</li>
-                <li>Axis labels</li>
-                <li>Annotation (text in graph, arrows)</li>
-                <li>Legends</li>
-                <li>1D/2D Histograms</li>
-                <li>Scaling axes (logarithmic, linear)</li>
+                <li>Sample vs Population</li>
+                <li>Sampling Methods</li>
+                <li>Bar Charts</li>
+                <li>Histograms</li>
+                <li>Mean, Mode, Median</li>
+                <li>Standard Deviation</li>
+                <li>Variance</li>
+                <li>Skewness</li>
+                <li>Binomial Distribution</li>
+                <li>Normal Distribution</li>
+                <li>Poisson Distribution</li>
+                <li>Z-scores</li>
+                <li>Combinations vs Permutations</li>
+                <li>Correlation</li>
+                <li>Linear Regression</li>
+                <li>Confidence Intervals</li>
+                <li>T-distribution</li>
+                <li>Type I and II error</li>
+                <li>Effect size</li>
+                <li>One-sample / Two-sample tests</li>
+                <li>Independent / dependent tests</li>
+                <li>ANOVA</li>
+                <li>Chi-Square Test</li>
               </ul>
 
            <div class="review">Review</div>
-           <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
-           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
+           <p>Ever attended everlasting stats lectures at uni without having any idea of what’s actually going on? Then a new world opens up once you have watched these 86 extremely concise statistics videos. Theory is accompanied with concrete and understandable everyday examples. The teacher does not shy away from writing out entire examples which makes the material very tangible. This may give you even more admiration for all the data science tools that make our lives easy.</p>
+
+<p><i>Tip:</i> On the channel you also find a SPSS playlist in which he demonstrates the use of software to do the more complex operations he showed in the other videos.</p>  
         </div>
         </ol>
       </li>
