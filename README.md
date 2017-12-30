@@ -88,6 +88,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
      <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
      
      </ol>  
+     <ol>
         <h4>
           <li>
             <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank">Plotting in Python using Matplotlib</a>
