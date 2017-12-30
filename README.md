@@ -248,7 +248,7 @@
 
            <div class="review">Review</div>
            <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
-           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
+           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (videos about "Axes" and "Histogram"), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
 
         </div>
         </ol>
@@ -265,12 +265,12 @@
         <ol>
           
           <!-- ======================================================================== -->  
-          <!-- Plotting in Python using Matplotlib --> 
+          <!-- Quantitative Methods --> 
           <!-- ======================================================================== -->
           <div class="recommendation">
             <h4>
               <li class="counter">
-                <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
+                <a href="https://www.youtube.com/playlist?list=PLzMw_44KVqI9EYeGmNO-W9O1PgXReaanW" target="_blank"> Quantitative Methods</a>
               </li>
             </h4>
 
@@ -284,35 +284,37 @@
                   <th>Level</th>
                   <th>Hours</th>
                   <th>Upvotes</th>
-                  <th>Resources</th>
+                  <th>Software</th>
                   <th>Requirements</th>
                 </tr>
                 <tr>
-                  <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
+                  <td><a href="https://www.youtube.com/embed/owI7zxCqNY0" target="_blank">dataminingincae</a></td>
                   <td>Introductory</td>
-                  <td>1.5</td>
-                  <td>100%</td>
-                  <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
-                  <td>Python (beginner)</td>
+                  <td>3</td>
+                  <td>98%</td>
+                  <td><a href="http://gretl.sourceforge.net/#dl" target="_blank">Gretl</a></td>
+                  <td>High school math</td>
                 </tr>
             </table>
 
             <div class="contents">Contents</div>
               <ul>
-                <li>Lineplots</li>
-                <li>Scatterplots</li>
-                <li>Chart properties (xlim, ylim, color, size)</li>
-                <li>Multiple plots in one chart</li>
-                <li>Axis labels</li>
-                <li>Annotation (text in graph, arrows)</li>
-                <li>Legends</li>
-                <li>1D/2D Histograms</li>
-                <li>Scaling axes (logarithmic, linear)</li>
+                <li>Simple Linear Regression</li>
+                <li>Multiple Linear Regression</li>
+                <li>Standard Error</li>
+                <li>Confidence Intervals</li>
+                <li>P-values</li>
+                <li>R-Squared</li>
+                <li>Adjusted R-Squared</li>
+                <li>Regression Standard Error (RSE)</li>
+                <li>Point Estimates</li>
+                <li>Dummy Variables</li>
+                <li>Backwards Elimination</li>
+                <li>Logistic Regression</li>
               </ul>
 
            <div class="review">Review</div>
-           <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
-           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
+           <p>This series is taught by a professor of a prestigious Business School (INCAE). The first part lies a solid theoretical foundation in statistical modeling after which an open-source WYSIWYG (i.e. drag and drop) tool - Gretl - is used to illustrate the concepts in practice. This way you can play around with the mathematical tools even if you cannot program yet. You may ask yourself why you should spend your time learning Gretl, well I believe it’s not really a waisted effort since the output in statistical packages in Python (e.g. Statsmodels) and R looks very similar.</p>
           
           </div>
 
