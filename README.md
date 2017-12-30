@@ -31,6 +31,7 @@
       
       <li>
         <h3 class="counter"> Python Programming</h3>
+        <hr>
         <ol>
           
           <!-- ======================================================================== -->  
@@ -146,6 +147,7 @@
 
       <li>
         <h3 class="counter"> Matplotlib</h3>
+        <hr>
         <ol>
           
           <!-- ======================================================================== -->  
@@ -262,6 +264,7 @@
       
       <li>
         <h3 class="counter"> Statistics & Probabilities</h3>
+        <hr>
         <ol>
           
           <!-- ======================================================================== -->  
@@ -378,6 +381,7 @@
 
       <li>
         <h3 class="counter"> Machine Learning</h3>
+        <hr>
           <ol>  
             
             <!-- ======================================================================== -->  
@@ -446,6 +450,7 @@
 
       <li>
         <h3 class="counter"> Collaboration & Academic Writing</h3>
+        <hr>
         <ol>
           
           <!-- ======================================================================== -->  
@@ -550,7 +555,6 @@
            <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
         </div>
         </ol>
-        
       </li>    
     </ol>
 
