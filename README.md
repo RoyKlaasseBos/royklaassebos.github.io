@@ -125,12 +125,34 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
             <td>Introductory</td>
             <td>7</td>
             <td>98%</td>
-            <td><a href="https://github.com/justmarkham/scikit-learn-videos" target="_blank">Github</a></td>
+            <td><a href="https://github.com/justmarkham/scikit-learn-videos" target="_blank">Scikit learn videos</a> 
+              <a href="https://github.com/justmarkham/pycon-2016-tutorial" target="_blank">Pycon 2016 (Text ML)</a>
+            </td>
             <td>Python (beginner), Pandas (beginner)</td>
           </tr>
         </table>
         
         <br/>
+        
+        <b>Content:</b> <br/>
+        <ul>
+          <li>Supervised/unsupervised learning definitions,</li> 
+          <li>scikit-learn vs R for machine learning,</li> 
+          <li>Jupyter Notebook,</li>
+          <li>kNN algorithm (+ choosing number of neighbours),</li>
+          <li>Logistic Regression,</li>
+          <li>Linear Regression (+ interpretation of coefficients)</li>
+          <li>Train / Test split,</li> 
+          <li>K-fold cross validation,</li>
+          <li>Manual feature selection,</li>
+          <li>Performance metrics (accuracy, Mean Absolute Error, Mean Squared Error, Root Mean Squared Error)</li>
+          <li>Grid search (+ RandomizedSearchCV)</li>
+          <li>Text Machine Learning (vectorization, Naive Bayes (high level theory + practice),  parameter tuning (stopwords, n-grams, min/max word frequency)</li>
+        </ul>
+        
+        <blockquote><i>Kevin you have mastered both the art of machine learning and teaching :)</i><br/>
+        Jagadeesh Gajula
+        </blockquote>
         
         <b>Review:</b> <br/>
         <p>This hotel offers free Wi-Fi, a stylish lounge-bar and modern rooms with a flat-screen TV. The famous KaDeWe department store is a 5-minute walk away.</p>
