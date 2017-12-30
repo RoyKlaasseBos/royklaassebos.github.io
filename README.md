@@ -498,17 +498,17 @@
          </div>
 
          <!-- ======================================================================== -->  
-         <!-- Plotting in Python using Matplotlib --> 
+         <!-- LaTeX --> 
          <!-- ======================================================================== -->
           <div class="recommendation">
             <h4>
               <li class="counter">
-                <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> LaTeX</a>
+                <a href="https://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449" target="_blank"> LaTeX</a>
               </li>
             </h4>
 
             <div class="embed-container">
-              <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+              <iframe src="https://www.youtube.com/embed/SoDv0qhyysQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
             </div>
 
             <table>
@@ -521,31 +521,41 @@
                   <th>Requirements</th>
                 </tr>
                 <tr>
-                  <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
+                  <td><a href="https://www.youtube.com/channel/UCGCHc7LsEYT6_2dQauh2NYw" target="_blank">Michelle Krummel</a></td>
                   <td>Introductory</td>
-                  <td>1.5</td>
-                  <td>100%</td>
-                  <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
-                  <td>Python (beginner)</td>
+                  <td>4</td>
+                  <td>98%</td>
+                  <td><a href="http://mrskrummel.com/tutorials.html" target="_blank">LaTeX Source Code</a></td>
+                  <td>None</td>
                 </tr>
             </table>
 
             <div class="contents">Contents</div>
               <ul>
-                <li>Lineplots</li>
-                <li>Scatterplots</li>
-                <li>Chart properties (xlim, ylim, color, size)</li>
-                <li>Multiple plots in one chart</li>
-                <li>Axis labels</li>
-                <li>Annotation (text in graph, arrows)</li>
-                <li>Legends</li>
-                <li>1D/2D Histograms</li>
-                <li>Scaling axes (logarithmic, linear)</li>
+                <li>Line breaks</li>
+                <li>Math mode</li>
+                <li>Fractions</li>
+                <li>Tables</li>
+                <li>Equations</li>
+                <li>Ordered list</li>
+                <li>Unordered list</li>
+                <li>Text size</li>
+                <li>Sections</li>
+                <li>Subsections</li>
+                <li>Table of Contents</li>
+                <li>Macros</li>
+                <li>Images</li>
+                <li>Footnotes</li>
+                <li>Captions</li>
+                <li>References</li>
               </ul>
 
            <div class="review">Review</div>
-           <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
-           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
+           <p>So far Microsoft Word or Google Docs may have been your go-to text processing tool. Although very user-friendly those tools aren’t considered very effective for scientific writing in mathematical domains such as Data Science. And even if your paper does not contain any equation whatsoever, it can still be a time-saver to use LaTeX thanks to its automatic section- and figure numbering (you don’t want to update all figure numbers manually after you inserted a new figure, do you?).</p> 
+
+<p>As for the content, Michelle slowly builds upon a LaTeX document from scratch with line-by-line bite-sized instructions. The pace gradually goes up as you move through the series with as a great finale tutorial 14 which gives a realistic use case of LaTeX as a tool for doing Calculus homework.</p>
+ 
+<p><i>Tip:</i> The last two tutorials can be considered optional (but interesting!) as they are not related to academic writing.</p>  
         </div>
         </ol>
       </li>    
