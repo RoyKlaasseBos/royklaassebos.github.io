@@ -16,6 +16,8 @@ h3 {
   display: inline;
 }
 
+b, strong {font-weight: 500;}
+
 th{text-align: left;}
 
 li{display: block }
