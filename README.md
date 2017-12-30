@@ -171,7 +171,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
   
 <p>On a personal note, I would add that while watching tutorials on YouTube you may sometimes get the impression that you really master the material. I want to warn you against that false impression, because coding something from scratch is significantly harder than retyping (or even worse: copy pasting) someone's else code. A better measure to test your understanding is by applying your knowledge in a completely different environment (e.g. a side-project as mentioned above).</p>
  
-<h4>What does "Upvotes" mean and how is it calculated? 👍</h4>
+<h4>What does "Upvotes" mean and how is it calculated?</h4>
 <hr>
 <p>On Coursera, edX and Udemy course ratings are displayed as a star rating (between 0-5 stars). On YouTube there is a similar mechanism to measure user feedback: up- and downvotes. A derivative thereof, the upvote ratio #upvotes/(#upvotes + #downvotes) * 100%, is shown for each of my recommendations. </p>
   
