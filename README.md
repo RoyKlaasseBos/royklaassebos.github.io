@@ -157,7 +157,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
 
 <h4><i>The curriculum does not include any R videos (only Python). Why is that?</i></h4>
 <hr>
-<p>Very sharp, you are absolutely right! One of the questions people new to the field of data science typically come up with is: should I learn Python or R? If you simply Google <a href="http://bfy.tw/FnTe" target="_blank">"Python vs R for Data Science"</a> you will find an abundance of discussions on this topic. From what I've read Python usually comes out as the ultimate winner (especially for Deep Learning applications - a subset of Machine Learning that tries to mimic the human brain). That does not mean that you should neglect R of course, but as a beginner I think it's better to become very knowledgeable at a single programming language rather than be mediocre at two.</p>
+<p>Very sharp, you are absolutely right! One of the questions people new to the field of data science typically ask themselves is: should I learn Python or R? If you simply Google <a href="http://bfy.tw/FnTe" target="_blank">"Python vs R for Data Science"</a> you will find an abundance of discussions on this topic. From what I've read Python usually comes out as the ultimate winner (especially for Deep Learning applications - a subset of Machine Learning that tries to mimic the human brain). That does not mean that you should neglect R of course, but as a beginner I think it's better to become very knowledgeable at a single programming language rather than be mediocre at two.</p>
 
 <h4><i>What makes a Data Science unicorn?</i> 🦄</h4>
 <hr>
