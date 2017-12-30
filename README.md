@@ -177,7 +177,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
   
 <p>Note that, I deliberately did not take into account total number of views neither the subscriber count since there are a wealth of hidden gems out there which - as the name implies - are still relatively unknown.. 💎</p>
 
-<h4>The title says "Top Data Science Videos 2018" but some of the content originates from way before 2018, isn't it?</h4>
+<h4><i>The title says "Top Data Science Videos 2018" but some of the content originates from way before 2018, isn't it?</i></h4>
 <hr>
 <p>Yeah again, you are right! Think of it as a catchy marketing slogan ;-)</p>
 
