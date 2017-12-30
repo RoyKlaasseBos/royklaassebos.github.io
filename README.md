@@ -48,7 +48,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
   <li>
     <h3> Matplotlib</h3>
       <ol>
-        <h4><li><a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a></li></h4>
+        <h4><li class="sub-section"><a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a></li></h4>
         
         <div class='embed-container'>
         <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
@@ -91,7 +91,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
      
      <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
         
-        <h4><li><a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a></li></h4>
+        <h4><li class="sub-section"><a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a></li></h4>
         
         <div class='embed-container'>
         <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
@@ -249,7 +249,7 @@ The resources listed on this page primarily focus on acquiring <b>Programming</b
       <ol>  
         <h4>
           <a href="https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A" target="_blank">
-            <li> Machine Learning in Python with scikit-learn</li>
+            <li class="sub-section"> Machine Learning in Python with scikit-learn</li>
           </a>
         </h4>
         <div class='embed-container'>
