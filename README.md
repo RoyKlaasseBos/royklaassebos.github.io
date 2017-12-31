@@ -141,7 +141,7 @@
               </ul>
 
            <div class="review">Review</div>
-           <p>After an enervating intro song you can expect an outstanding clarification of the building blocks of Python. I would specifically recommend the <a href="https://www.youtube.com/watch?v=RHLU9Fl5ug&index=7&list=PLj8W7XIvO93paRBPCuGFGEC94xJofOgO5" target="blank">7th tutorial</a> about the the most prominent data structures which is as you can read in the comments a nice refresher / excellent summary.</p>
+           <p>After an enervating intro song you can expect an outstanding clarification of the building blocks of Python. I would specifically recommend the <a href="https://www.youtube.com/watch?v=RHLU9Fl5ug&index=7&list=PLj8W7XIvO93paRBPCuGFGEC94xJofOgO5" target="blank">7th tutorial</a> about the the most prominent data structures which is as you can read in the comments a nice refresher / excellent summary if you have some programming experience.</p>
           
           </div>
           
@@ -652,7 +652,7 @@
             </h4>
 
             <div class="embed-container">
-              <iframe src="https://www.youtube.com/watch?v=eiNFub2yags&list=PL-XeOa5hMEYz7xMckkUL8w2EKzM3TDrON&index=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+              <iframe src="https://www.youtube.com/embed/eiNFub2yags" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
             </div>
 
             <table>
