@@ -84,6 +84,67 @@
            <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
            <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
           </div>
+          
+          
+         <!-- ======================================================================== -->  
+         <!-- Python Programming Fundamentals --> 
+         <!-- ======================================================================== -->
+          <div class="recommendation">
+            <h4>
+              <li class="counter">
+                <a href="https://www.youtube.com/playlist?list=PLj8W7XIvO93paRBPCuGFGEC94xJofOgO5" target="_blank"> Python Programming Fundamentals</a>
+              </li>
+            </h4>
+
+            <div class="embed-container">
+              <iframe src="https://www.youtube.com/embed/4YW886M41g0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            </div>
+
+            <table>
+                <tr>
+                  <th>Channel</th>
+                  <th>Level</th>
+                  <th>Hours</th>
+                  <th>Upvotes</th>
+                  <th>Resources</th>
+                  <th>Requirements</th>
+                </tr>
+                <tr>
+                  <td><a href="https://www.youtube.com/channel/UC4Xt-DUAapAtkfaWWkv4OAw" target="_blank">Joe James</a></td>
+                  <td>Introductory</td>
+                  <td>1.75</td>
+                  <td>100%</td>
+                  <td><a href="https://github.com/joeyajames/Python" target="_blank">Github</a></td>
+                  <td>None</td>
+                </tr>
+            </table> 
+            
+            <div class="contents">Contents</div>
+              <ul>
+                <li>Variables</li>
+                <li>(Im)mutability</li>
+                <li>If-elif-else statements</li>
+                <li>For-loops</li>
+                <li>Functions</li>
+                <li>Lists</li>
+                <li>Tuples</li>
+                <li>Sets</li>
+                <li>Dictionaries</li>
+                <li>Reading and Writing a Text-file</li>
+                <li>Lambda</li>
+                <li>Map</li>
+                <li>Filter</li>
+                <li>Reduce</li>
+                <li>Recursion</li>
+                <li>Sorting</li>
+                <li>Exception Handling</li>
+              </ul>
+
+           <div class="review">Review</div>
+           <p>After an enervating intro song you can expect an outstanding clarification of the building blocks of Python. I would specifically recommend the <a href="https://www.youtube.com/watch?v=RHLU9Fl5ug&index=7&list=PLj8W7XIvO93paRBPCuGFGEC94xJofOgO5" target="blank">7th tutorial</a> about the the most prominent data structures which is as you can read in the comments a nice refresher / excellent summary.</p>
+          
+          </div>
+          
 
 
          <!-- ======================================================================== -->  
