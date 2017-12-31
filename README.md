@@ -628,7 +628,7 @@
       <hr>
       <p>Great to have you here, but you are probably looking for my Github repository which you can find <a href="https://github.com/RoyKlaasseBos/Data-Analytics-for-Engineers" target="_blank">over here</a>. Simply, download the zip-file (easiest way) or clone it to your local hard drive (for instructions on how to do that see the Git tutorials above).
       </p>
-      <p>But since you are already here, let me give you another bonus tip: carefully study the Python, pandas, matplotlib and SQL and hypotheses testing tutorials listed above. I can ensure you they will be extremely helpful for assignment 1 and 2!</p>
+      <p>But since you are already here, let me give you another bonus tip: carefully study the Python, pandas, matplotlib,  SQL and hypotheses testing tutorials listed above. I can ensure you they will be extremely helpful for assignment 1 and 2!</p>
       
       
                   
