@@ -775,7 +775,7 @@
     <div class="faq">
       <h2>FAQ</h2>
 
-      <h4><i>There are plenty of "Top Data Science Course" rankings out there, how is this one any different?</i></h4>
+      <h4 id="first-faq"><i>There are plenty of "Top Data Science Course" rankings out there, how is this one any different?</i></h4>
       <hr>
       <p>Well, I have looked into plenty of those rankings myself but most MOOC-recommendations weren't really what I was looking for as a beginner to be honest. This guide is different in the sense that it mainly centres around practical YouTube tutorials taught by industry practitioners who really master the craft of teaching. The latter is a rare ability for most programmers, especially those who can describe the "why" in addition to the "how"; simply typing out code is not that difficult, explaining others in plain English why you are doing something makes you a next-level instructor. Lastly, all recommendations are accompanied with an overview of the contents and a review - so that you can get an idea of what to expect - which is also not very common for most rankings.</p>
 
@@ -839,7 +839,7 @@
       
       <h4><i>Why did you create this guide?</i></h4>
       <hr>
-      <p>In the first place, because I could not find something similar on the world wide web (see first FAQ-question). And if you search for the topics listed on this page on YouTube yourself you will come to the conclusion that many recommendations do not show up in the top results. As these free resources have really helped me learn the very basics of data science I think it's worth sharing them. Second, it goes hand in hand with my motto: <i>"Learn from the best"</i>.</p>
+      <p>In the first place, because I could not find something similar on the world wide web (see <a href="#first-faq">first FAQ-question</a>). And if you search for the topics listed on this page on YouTube yourself you will come to the conclusion that many recommendations do not show up in the top results. As these free resources have really helped me learn the very basics of data science I think it's worth sharing them. Second, it goes hand in hand with my motto: <i>"Learn from the best"</i>.</p>
      
      <p>Aside from those two motivations there is a practical reason too: it functions as a handy personal reference book for now and the years to come.</p> 
 
