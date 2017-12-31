@@ -379,7 +379,7 @@
            <div class="review">Review</div>
            <p>Ever attended everlasting stats lectures at uni without having any clue of what’s actually going on? Then a new world opens up once you have watched these 86 extremely concise statistics videos. Theory is accompanied with concrete and understandable everyday examples. The teacher does not shy away from writing out entire examples which makes the material very tangible. This may give you even more admiration for all the data science tools that make our lives easy.</p>
 
-<p><i>Tip:</i> On the channel you also find a SPSS playlist in which he demonstrates the use of software to do the more complex operations he showed in the other videos.</p>  
+<p><i>Tip:</i> On the channel you also find a <a href="https://www.youtube.com/playlist?list=PLD5080D2F76D11DE3" target="_blank">SPSS playlist</a> in which he demonstrates the use of software to do the more complex operations he showed in the other videos.</p>  
         </div>
         </ol>
       </li>
@@ -627,13 +627,21 @@
       <hr>
       <p>Great to have you here, but you are probably looking for my Github repository which you can find <a href="https://github.com/RoyKlaasseBos/Data-Analytics-for-Engineers" target="_blank">over here</a>. Simply, download the zip-file (easiest way) or clone it to your local hard drive (for instructions on how to do that see the Git tutorials above).
       </p>
-      <p>But since you are already here, let me give you another bonus tip: carefully study the Python and pandas tutorials listed above. I can ensure you they will be extremely helpful for assignment 1 and 2!</p>
+      <p>But since you are already here, let me give you another bonus tip: carefully study the Python, pandas, matplotlib and SQL and hypotheses testing tutorials listed above. I can ensure you they will be extremely helpful for assignment 1 and 2!</p>
 
 
 
       <h4><i>Is this guide updated regularly?</i></h4>
       <hr>
       <p>Indeed, it's a very dynamic list. For example, at the moment of writing I am taking online (and university) courses myself which means that there is a high probability that the number of "free resources" will soon increase even further.. ;-)</p>
+      
+      
+      
+      <h4><i>Why did you create this guide?</i></h4>
+      <hr>
+      <p>In the first place, because I could not find something similar on the world wide web (see first FAQ-question). And if you search for the topics listed on this page on YouTube yourself you will come to the conclusion that many recommendations do not show up in the top results. As these free resources have really helped me learn the very basics of data science I think it's worth sharing them. Second, it goes hand in hand with my motto: <i>"Learn from the best"</i>.</p>
+     
+     <p>Aside from those two motivations there is a practical reason too: it functions as a handy personal reference book for now and the years to come.</p> 
 
 
 
