@@ -634,7 +634,7 @@
                   
       <h4><i>How do I get Tableau Desktop?</i></h4>
       <hr>
-      <p>If you are a student I have good news for you: you can get the software for free (1-year license). Simply fill out <a href="https://www.tableau.com/academic/students#form" target="_blank">this</a> form and show them some proof that you are currently enrolled in a bachelor/master program (e.g. a Canvas/Blackboard screenshot will do).</p
+      <p>If you are a student I have good news for you: you can get the software for free (1-year license). Simply fill out <a href="https://www.tableau.com/academic/students#form" target="_blank">this</a> form and show them some proof that you are currently enrolled in a bachelor/master program (e.g. a Canvas/Blackboard screenshot will do).</p>
 
       
       <h4><i>Why did you create this guide?</i></h4>
