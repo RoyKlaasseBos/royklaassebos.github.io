@@ -16,7 +16,7 @@
 
     <blockquote><i>A Data Scientist masters the field of Computer Science, Math & Statistics and combines that with Subject Matter Expertise.</i></blockquote>
 
-    <p>The resources listed on this page primarily focus on acquiring <b>Programming</b>, <b>Databases</b> and <b>Machine Learning</b> skills as well as providing a quick refresher in <b>Statistics & Probability</b> theory at undergraduate level. Whether you have a background in engineering, law, or art it does not matter as this guide does not assume any prior knowledge except for a bit of high school math.</p> 
+    <p>The resources listed on this page primarily focus on acquiring <a href="#programming"><b>Programming</b></a>, <a href="#data-visualization"><b>Data Visualization</b></a>, <a href="#relational-databases"><b>Relational Databases</b></a> and <a href="#machine-learning"><b>Machine Learning</b></a> skills as well as providing a quick refresher in <a href="#statistics"><b>Statistics & Probability</b></a> theory at undergraduate level. Whether you have a background in engineering, law, or art it does not matter as this guide does not assume any prior knowledge except for a bit of high school math.</p> 
     <p><b><i>Happy learning!</i></b></p>
 
     
@@ -31,7 +31,7 @@
     <ol> 
       
       <li>
-        <h3 class="counter"> Python Programming</h3>
+        <h3 class="counter" id="programming"> Python Programming</h3>
         <ol>
           
           <!-- ======================================================================== -->  
@@ -146,7 +146,7 @@
       <!-- ======================================================================== -->
 
       <li>
-        <h3 class="counter"> Data Visualization</h3>
+        <h3 class="counter" id="data-visualization"> Data Visualization</h3>
         <ol>
           
           <!-- ======================================================================== -->  
@@ -261,7 +261,7 @@
      <!-- ======================================================================== -->
       
       <li>
-        <h3 class="counter"> Statistics & Probability</h3>
+        <h3 class="counter" id="statistics"> Statistics & Probability</h3>
         <ol>
           
           <!-- ======================================================================== -->  
@@ -392,7 +392,7 @@
       <!-- ======================================================================== -->
 
       <li>
-        <h3 class="counter"> Machine Learning</h3>
+        <h3 class="counter" id="machine-learning"> Machine Learning</h3>
           <ol>  
             
             <!-- ======================================================================== -->  
@@ -456,7 +456,7 @@
 
             
       <!-- ======================================================================== -->  
-      <!-- MATPLOTLIB --> 
+      <!-- COLLABORATION & ACADEMIC WRITING --> 
       <!-- ======================================================================== -->
 
       <li>
