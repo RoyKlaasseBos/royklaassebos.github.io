@@ -442,7 +442,7 @@
                 <li>Manual feature selection</li>
                 <li>Performance metrics (accuracy, Mean Absolute Error, Mean Squared Error, Root Mean Squared Error)</li>
                 <li>Grid search (+ RandomizedSearchCV)</li>
-                <li>Text Machine Learning (vectorization, Naive Bayes (high level theory + practice),  parameter tuning (stopwords, n-grams, min/max word frequency)</li>
+                <li>Text Machine Learning (vectorization, Naive Bayes (high level theory + practice),  parameter tuning (stopwords, n-grams, min/max word frequency))</li>
               </ul>
 
               <div class="review">Review</div>
