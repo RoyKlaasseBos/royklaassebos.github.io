@@ -378,7 +378,7 @@
               </ul>
 
            <div class="review">Review</div>
-           <p>Ever attended everlasting stats lectures at uni without having any clue of what’s actually going on? Then a new world opens up once you have watched these 86 extremely concise statistics videos. Theory is accompanied with concrete and understandable everyday examples. The teacher does not shy away from writing out entire examples which makes the material very tangible. This may give you even more admiration for all the data science tools that make our lives easy.</p>
+           <p>Ever attended everlasting stats lectures at uni without having any clue of what’s actually going on? Then a new world opens up once you have watched these 86 extremely concise statistics videos. Theory is accompanied with concrete and understandable everyday examples. The teacher does not shy away from writing out entire examples which makes the material very tangible. This may give you even more admiration for all the data science tools that make our lives so much easier.</p>
 
 <p><i>Tip:</i> On the channel you also find a <a href="https://www.youtube.com/playlist?list=PLD5080D2F76D11DE3" target="_blank">SPSS playlist</a> in which he demonstrates the use of software to do the more complex operations he showed in the other videos.</p>  
         </div>
@@ -615,7 +615,7 @@
       <p>On Coursera, edX and Udemy course ratings are displayed as a star rating (between 0-5 stars). On YouTube there is a similar mechanism to measure user feedback: up- and downvotes. A derivative thereof, the upvote ratio: #upvotes/(#upvotes + #downvotes) * 100%, has been included for each of my recommendations (calculated for the first video of the series). </p>
 
       <p>Note that, I deliberately did not take into account total number of views neither the subscriber count since there are a wealth of hidden gems out there which - as the name implies - are still relatively unknown.. 💎</p>
-
+      
 
 
       <h4><i>The title says "Top Data Science Videos 2018" but some of the content originates from way before 2018, isn't it?</i></h4>
@@ -629,14 +629,13 @@
       <p>Great to have you here, but you are probably looking for my Github repository which you can find <a href="https://github.com/RoyKlaasseBos/Data-Analytics-for-Engineers" target="_blank">over here</a>. Simply, download the zip-file (easiest way) or clone it to your local hard drive (for instructions on how to do that see the Git tutorials above).
       </p>
       <p>But since you are already here, let me give you another bonus tip: carefully study the Python, pandas, matplotlib and SQL and hypotheses testing tutorials listed above. I can ensure you they will be extremely helpful for assignment 1 and 2!</p>
-
-
-
-      <h4><i>Is this guide updated regularly?</i></h4>
+      
+      
+                  
+      <h4><i>How do I get Tableau Desktop?</i></h4>
       <hr>
-      <p>Indeed, it's a very dynamic list. For example, at the moment of writing I am taking online (and university) courses myself which means that there is a high probability that the number of "free resources" will soon increase even further.. ;-)</p>
-      
-      
+      <p>If you are a student I have good news for you: you can get the software for free (1-year license). Simply fill out <a href="https://www.tableau.com/academic/students#form" target="_blank">this</a> form and show them some proof that you are currently enrolled in a bachelor/master program (e.g. a Canvas/Blackboard screenshot will do).</p
+
       
       <h4><i>Why did you create this guide?</i></h4>
       <hr>
@@ -645,6 +644,12 @@
      <p>Aside from those two motivations there is a practical reason too: it functions as a handy personal reference book for now and the years to come.</p> 
 
 
+
+      <h4><i>Is this guide updated regularly?</i></h4>
+      <hr>
+      <p>Indeed, it's a very dynamic list. For example, at the moment of writing I am taking online (and university) courses myself which means that there is a high probability that the number of "free resources" will soon increase even further.. ;-)</p>
+      
+      
 
       <h4><i>Can I contribute to this list and if so how?</i></h4>
       <hr>
