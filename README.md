@@ -578,7 +578,71 @@
               <div class="review">Review</div>
               <p>Characteristic of Kevin’s teaching style is a step by step approach using very detailed Jupyter Notebooks which contain a lot of comments and easy-to-understand explanations and thus makes it excellent reference material (check out his <a href="https://github.com/justmarkham" target="_blank">Github</a> page!).  Because he explains every single line of code he types you will fully understand what you are doing which makes his videos accessible to newcomers. Although most videos stay at a basic level plenty of additional resources (blogs/videos/books) are included and mentioned throughout the videos series for further deepening.</p>
               <i>Tip:</i> The last video in the series is a live recording from PyCon 2016; if you have watched the previous videos you can skip the first 24 minutes and start with part 2: Representing text as numerical data.</p>
-          </div>    
+          </div>  
+          
+         <!-- ======================================================================== -->  
+         <!-- Machine Learning --> 
+         <!-- ======================================================================== -->
+          <div class="recommendation">
+            <h4>
+              <li class="counter">
+                <a href="https://www.youtube.com/playlist?list=PL-XeOa5hMEYz7xMckkUL8w2EKzM3TDrON" target="_blank"> Machine Learning</a>
+              </li>
+            </h4>
+
+            <div class="embed-container">
+              <iframe src="https://www.youtube.com/watch?v=eiNFub2yags&list=PL-XeOa5hMEYz7xMckkUL8w2EKzM3TDrON&index=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            </div>
+
+            <table>
+                <tr>
+                  <th>Channel</th>
+                  <th>Level</th>
+                  <th>Hours</th>
+                  <th>Upvotes</th>
+                  <th>Requirements</th>
+                </tr>
+                <tr>
+                  <td><a href="https://www.youtube.com/channel/UCoSiBUY5b9ixwuKfS99_rSw" target="_blank">Cognitive Class</a></td>
+                  <td>Intermediate</td>
+                  <td>1.5</td>
+                  <td>100%</td>
+                  <td>A high-level understanding of data science</td>
+                </tr>
+            </table>
+
+            <div class="contents">Contents</div>
+              <ul>
+                <li>Supervised / unsupervised definitions</li>
+                <li>Machine Learning Applications</li>
+                <li>Statistical Modelling vs Machine Learning</li>
+                <li>K-Nearest Neighbours</li>
+                <li>Regression vs Classification</li>
+                <li>Decision Trees</li>
+                <li>Information Gain / Entropy</li>
+                <li>Random Forest</li>
+                <li>Bias-variance tradeoff</li>
+                <li>MAE, MSE, RMSE</li>
+                <li>Train-Test Split</li>
+                <li>K-fold Cross-Validation</li>
+                <li>Overfitting / Underfitting</li>
+                <li>K-Means Clustering</li>
+                <li>Hierarchical Clustering</li>
+                <li>Agglomerative vs Divisive Clustering</li>
+                <li>Dendrogram</li>
+                <li>Singe Linkage Criteria</li>
+                <li>Complete Linkage Criteria</li>
+                <li>Average Linkage</li>
+                <li>Centroid Linkage</li>
+                <li>Density Based Clustering</li>
+                <li>Dimensionality Reduction</li>
+              </ul>
+
+           <div class="review">Review</div>
+           <p>This course a more on a conceptual level and goes beyond the scope of the previous recommendation. In particular, more attention is paid to unsupervised clustering methods such as K-Means Clustering, Hierarchical Clustering and Density Based Clustering. The course excels in its presentation style which include visual animated slides. Some topics might be a bit more advanced than usual which is why this course has been categorized as an Intermediate level.</p> 
+           
+           <p><i>Tip:</i> If you liked this series you can find more similar online courses at <a href="http://bigdatauniversity.com" target="blank">Big Data University</a>!</p>  
+        </div> 
         </ol>
       </li>
 
@@ -698,6 +762,7 @@
            
            <p><i>Tip:</i> The last two tutorials can be considered optional (but interesting!) as they are not related to academic writing.</p>  
         </div>
+               
         </ol>
       </li>    
     </ol>
