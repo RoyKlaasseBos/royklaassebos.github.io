@@ -379,8 +379,8 @@
 
            <div class="review">Review</div>
            <p>Ever attended everlasting stats lectures at uni without having any clue of what’s actually going on? Then a new world opens up once you have watched these 86 extremely concise statistics videos. Theory is accompanied with concrete and understandable everyday examples. The teacher does not shy away from writing out entire examples which makes the material very tangible. This may give you even more admiration for all the data science tools that make our lives so much easier.</p>
-
-<p><i>Tip:</i> On the channel you also find a <a href="https://www.youtube.com/playlist?list=PLD5080D2F76D11DE3" target="_blank">SPSS playlist</a> in which he demonstrates the use of software to do the more complex operations he showed in the other videos.</p>  
+           
+           <p><i>Tip:</i> On the channel you also find a <a href="https://www.youtube.com/playlist?list=PLD5080D2F76D11DE3" target="_blank">SPSS playlist</a> in which he demonstrates the use of software to do the more complex operations he showed in the other videos.</p>  
         </div>
         </ol>
       </li>
@@ -618,7 +618,7 @@
       
 
 
-      <h4><i>The title says "Top Data Science Videos 2018" but some of the content originates from way before 2018, isn't it?</i></h4>
+      <h4><i>The title says "Top Data Science Videos 2018" but most of the content originates from way before 2018, isn't it?</i></h4>
       <hr>
       <p>Yeah again, you are right! Think of it as a catchy slogan ;-)</p>
 
