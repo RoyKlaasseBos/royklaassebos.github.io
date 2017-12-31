@@ -146,8 +146,7 @@
               </ul>
 
            <div class="review">Review</div>
-           <p>Although having a basic understanding of Python is essential for data science, in practice you’ll most likely opt for a data manipulation library such as pandas. The playlist consists of 31 videos which provide an excellent foundation in the first few steps of the data pipeline: from reading data to filtering/grouping data-frames.</p>
-           <p>Kevin is a gifted communicator who masters the craft of teaching. Therefore it’s no surprise that he gets an upvote ratio of 99% (n=443).</p>
+           <p>Although having a basic understanding of Python is essential for data science, in practice you’ll most likely opt for a data manipulation library such as pandas. The playlist consists of 31 videos which provide an excellent foundation in the first few steps of the data pipeline: from reading data to filtering/grouping data-frames. The teacher, Kevin, is a gifted communicator who masters the craft of teaching. Therefore it’s no surprise that he gets an upvote ratio of 99% (n=443). </p>
            
           <p><i>Tip: </i>Adjust the playback speed to 1.5x or 2.0x (via the gear icon in the play bar) to go through the videos more quickly!</p>  
         </div>
