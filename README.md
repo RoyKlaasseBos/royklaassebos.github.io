@@ -923,6 +923,6 @@
       <p>Just shoot me an email at <a href="mailto:r.j.klaasse.bos@student.tue.nl?subject=I%20❤%20Data%20Science">r.j.klaasse.bos@student.tue.nl</a></p>
     </div>
 
-    <p class="built-with">Built with ❤ in Eindhoven, NL</p>
+    <p class="built-with">Built with ❤ in Eindhoven</p>
   </body>
 </html>
