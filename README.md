@@ -7,6 +7,7 @@
 
     <!-- ======================================================================== -->  
     <!-- INTRODUCTION --> 
+    <!-- Hey aspiring data scientist, do you want to contribute to this list? Scroll down and read the FAQ --> 
     <!-- ======================================================================== -->
 
     <h2>Beginner's Guide to Data Science</h2>
