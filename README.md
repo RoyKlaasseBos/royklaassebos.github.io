@@ -377,7 +377,7 @@
               </ul>
 
            <div class="review">Review</div>
-           <p>Ever attended everlasting stats lectures at uni without having any idea of what’s actually going on? Then a new world opens up once you have watched these 86 extremely concise statistics videos. Theory is accompanied with concrete and understandable everyday examples. The teacher does not shy away from writing out entire examples which makes the material very tangible. This may give you even more admiration for all the data science tools that make our lives easy.</p>
+           <p>Ever attended everlasting stats lectures at uni without having any clue of what’s actually going on? Then a new world opens up once you have watched these 86 extremely concise statistics videos. Theory is accompanied with concrete and understandable everyday examples. The teacher does not shy away from writing out entire examples which makes the material very tangible. This may give you even more admiration for all the data science tools that make our lives easy.</p>
 
 <p><i>Tip:</i> On the channel you also find a SPSS playlist in which he demonstrates the use of software to do the more complex operations he showed in the other videos.</p>  
         </div>
