@@ -565,10 +565,10 @@
 
            <div class="review">Review</div>
            <p>So far Microsoft Word or Google Docs may have been your go-to text processing tool. Although very user-friendly those tools aren’t considered very effective for scientific writing in mathematical domains such as Data Science. And even if your paper does not contain any equation whatsoever, it can still be a time-saver to use LaTeX thanks to its automatic section- and figure numbering (you don’t want to update all figure numbers manually after you inserted a new figure, do you?).</p> 
-
-<p>As for the content, Michelle slowly builds upon a LaTeX document from scratch with line-by-line bite-sized instructions. The pace gradually goes up as you move through the series with as a great finale tutorial 14 which gives a realistic use case of LaTeX as a tool for doing Calculus homework.</p>
- 
-<p><i>Tip:</i> The last two tutorials can be considered optional (but interesting!) as they are not related to academic writing.</p>  
+           
+           <p>As for the content, Michelle slowly builds upon a LaTeX document from scratch with line-by-line bite-sized instructions. The pace gradually goes up as you move through the series with as a great finale tutorial 14 which gives a realistic use case of LaTeX as a tool for doing Calculus homework.</p>
+           
+           <p><i>Tip:</i> The last two tutorials can be considered optional (but interesting!) as they are not related to academic writing.</p>  
         </div>
         </ol>
       </li>    
