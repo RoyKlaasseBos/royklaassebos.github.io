@@ -639,7 +639,7 @@
               </ul>
 
            <div class="review">Review</div>
-           <p>This course a more on a conceptual level and goes beyond the scope of the previous recommendation. In particular, more attention is paid to unsupervised clustering methods such as K-Means Clustering, Hierarchical Clustering and Density Based Clustering. The course excels in its presentation style which include visual animated slides. Some topics might be a bit more advanced than usual which is why this course has been categorized as an Intermediate level.</p> 
+           <p>This course a more on a conceptual level and goes beyond the scope of the previous recommendation. In particular, more attention is paid to unsupervised clustering methods such as K-Means Clustering, Hierarchical Clustering and Density Based Clustering. The course excels in its presentation style which include visual animated slides. Some topics might be a bit more advanced than usual which is why it has been categorized as an Intermediate level course.</p> 
            
            <p><i>Tip:</i> If you liked this series you can find more similar online courses at <a href="http://bigdatauniversity.com" target="blank">Big Data University</a>!</p>  
         </div> 
