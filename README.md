@@ -735,7 +735,7 @@
       
       <h4><i>What selection criteria did you take into account?</i></h4>
       <hr>
-      <p>The following aspects have been considered: <i>Communication Skills</i> (making the complex simple by providing concrete examples), <i>Teaching Style</i> (e.g. live demos for programming lessons, animated PowerPoints, pace, etc.), <i>Required Level of Prior Knowledge (i.e. accessible to newcomers)</i>, <i>Upvote Ratio (see point above)</i>, <i>Availability of additional resources or reference material</i> (Github, blogs, etc.).
+      <p>The following aspects have been considered: <i>Communication Skills</i> (making the complex simple, for example by providing concrete examples), <i>Teaching Style</i> (e.g. live demos for programming lessons, animated PowerPoints, pace, etc.), <i>Required Level of Prior Knowledge (i.e. accessible to newcomers)</i>, <i>Upvote Ratio (see point above)</i>, <i>Availability of additional resources or reference material</i> (Github, blogs, etc.).
       </p>
 
       
