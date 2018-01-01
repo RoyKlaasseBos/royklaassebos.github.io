@@ -222,7 +222,7 @@
 
       <h3 class="sign-up"> Sign Up for Data Science Email Course</h3>
       <p>Only watching YouTube videos does not make you a <a href="#data-science-unicorn">data science unicorn</a> 🦄 <br/>
-  Leave your email address below and I'll send you some helpful Python, pandas, matplotlib, SQL and Machine Learning exercises (and solutions) to test your understanding!</p>
+  Leave your email address below and I'll send you some helpful Python, pandas, matplotlib, and SQL exercises (and solutions) to test your understanding!</p>
       
       
       <div class="typeform-widget" data-url="https://the-outlier.typeform.com/to/Emt3Fu" style="width: 100%; height: 350px; margin-bottom: 75px;" > </div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> 
@@ -847,7 +847,7 @@
 
       <h3 class="sign-up"> Sign Up for Data Science Email Course</h3>
       <p>Only watching YouTube videos does not make you a <a href="#data-science-unicorn">data science unicorn</a> 🦄 <br/>
-  Leave your email address below and I'll send you some helpful Python, pandas, matplotlib, SQL and Machine Learning exercises (and solutions) to test your understanding!</p>
+  Leave your email address below and I'll send you some helpful Python, pandas, matplotlib, and SQL exercises (and solutions) to test your understanding!</p>
       
       
       <div class="typeform-widget" data-url="https://the-outlier.typeform.com/to/Emt3Fu" style="width: 100%; height: 350px; margin-bottom: 75px;" > </div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> 
@@ -862,7 +862,9 @@
 
       <h4 id="first-faq"><i>There are plenty of "Top Data Science Course" rankings out there, how is this one any different?</i></h4>
       <hr>
-      <p>Well, I have looked into plenty of those rankings myself but most MOOC-recommendations weren't really what I was looking for as a beginner to be honest. This guide is different in the sense that it mainly centres around practical YouTube tutorials taught by industry practitioners who really master the craft of teaching. The latter is a rare ability for most programmers, especially those who can describe the "why" in addition to the "how"; simply typing out code is not that difficult, explaining others in plain English why you are doing something makes you a next-level instructor. Lastly, all recommendations are accompanied with an overview of the contents and a review - so that you can get an idea of what to expect - which is also not very common for most rankings.</p>
+      <p>Well, I have looked into plenty of those rankings myself but most MOOC-recommendations weren't really what I was looking for as a beginner to be honest. This guide is different in the sense that it mainly centres around practical YouTube tutorials taught by industry practitioners who really master the craft of teaching. The latter is a rare ability for most programmers, especially those who can describe the "why" in addition to the "how"; simply typing out code is not that difficult, explaining others in plain English why you are doing something makes you a next-level instructor. Further all recommendations are accompanied with an overview of the contents and a review - so that you can get an idea of what to expect - which is also not very common for most rankings.</p>
+      
+      <p>On a final note, the weekly email course has been designed because of a lack of challenging online programming exercises for data science. The exercises that come with the course are open-ended, can typically not be solved by a single line of code and some data prep might be necessary.</p>
 
 
 
