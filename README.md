@@ -513,7 +513,7 @@
               </ul>
 
            <div class="review">Review</div>
-           <p>Since I was not able to find a single playlist that contained all the topics which were treated in my own Foundations of Databases (JBP050) university course, I have composed a miscellaneous playlist that consists of videos from multiple YouTube channels. The majority comprises SQL-tutorials and the last two tutorials covers theory about relational models which is an essential skills if you want to set-up a new database from scratch.</p>  
+           <p>Since I was not able to find a single playlist that contained all the topics which were treated in my own Foundations of Databases (JBP050) university course, I have composed a miscellaneous playlist that consists of videos from multiple YouTube channels. The majority comprises SQL-tutorials and the last two tutorials covers theory about ER-models and Normalization which is something you must know if you want to set-up a database from scratch.</p>  
         </div>
         
         
