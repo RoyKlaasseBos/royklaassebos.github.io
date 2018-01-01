@@ -220,7 +220,7 @@
       <!-- SIGN-UP --> 
       <!-- ======================================================================== -->
 
-      <h3 class="sign-up"> Sign Up for Data Science Email Course</h3>
+      <h3 id="sign-up"> Sign Up for Data Science Email Course</h3>
       <p>Only watching YouTube videos does not make you a <a href="#data-science-unicorn">data science unicorn</a> 🦄 <br/>
   Leave your email address below and I'll send you some helpful Python, pandas, matplotlib, and SQL exercises (and solutions) to test your understanding!</p>
       
