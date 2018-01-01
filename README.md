@@ -141,7 +141,7 @@
               </ul>
 
            <div class="review">Review</div>
-           <p>After an enervating intro song you can expect an outstanding clarification of the building blocks of Python. I would specifically recommend the <a href="https://www.youtube.com/watch?v=RHLU9Fl5ug&index=7&list=PLj8W7XIvO93paRBPCuGFGEC94xJofOgO5" target="blank">7th tutorial</a> about the the most prominent Python data structures which is as you can read in the comments below the video an excellent summary.</p>
+           <p>After an enervating intro song you can expect an outstanding clarification of the building blocks of Python. I would specifically recommend the <a href="https://www.youtube.com/watch?v=R-HLU9Fl5ug&index=7&list=PLj8W7XIvO93paRBPCuGFGEC94xJofOgO5" target="_blank">7th tutorial</a> about the the most prominent Python data structures which is as you can read in the comments below the video an excellent summary.</p>
           
           </div>
           
