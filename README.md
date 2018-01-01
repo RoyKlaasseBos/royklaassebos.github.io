@@ -845,8 +845,7 @@
       <!-- ======================================================================== -->
 
       <h3 id="sign-up"> Sign Up for the Data Science Email Course</h3>
-      <p>Only watching YouTube videos does not make you a <a href="#data-science-unicorn">data science unicorn</a> 🦄</p>
-      <p>Leave your email address below and I'll send you some helpful Python, pandas, matplotlib, and SQL exercises (and solutions) to test your understanding!</p>       
+      <p>Only watching YouTube videos does not make you a <a href="#data-science-unicorn">data science unicorn</a> 🦄 <br> Leave your email address below and I'll send you some helpful Python, pandas, matplotlib, and SQL exercises (and solutions) to test your understanding!</p>       
       
       <div class="typeform-widget" data-url="https://the-outlier.typeform.com/to/Emt3Fu" style="width: 100%; height: 350px; margin-bottom: 75px;" > </div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> 
 
