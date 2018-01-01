@@ -351,17 +351,17 @@
         <ol>
           
           <!-- ======================================================================== -->  
-          <!-- Matplotlib --> 
+          <!-- SQL Tutorials --> 
           <!-- ======================================================================== -->
           <div class="recommendation">
             <h4>
               <li class="counter">
-                <a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl" target="_blank"> Matplotlib</a>
+                <a href="https://www.youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN" target="_blank"> SQL Tutorials</a>
               </li>
             </h4>
 
             <div class="embed-container">
-              <iframe src="https://www.youtube.com/embed/qqwf4Vuj8oM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+              <iframe src="https://www.youtube.com/embed/xaWlS9HtWYw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
             </div>
 
             <table>
@@ -370,35 +370,33 @@
                   <th>Level</th>
                   <th>Hours</th>
                   <th>Upvotes</th>
-                  <th>Resources</th>
                   <th>Requirements</th>
                 </tr>
                 <tr>
-                  <td><a href="https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ" target="_blank">codebasics</a></td>
+                  <td><a href="https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ" target="_blank">Corey Schafer</a></td>
                   <td>Introductory</td>
-                  <td>0.75</td>
-                  <td>100%</td>
-                  <td><a href="https://github.com/codebasics/py/tree/master/matpltlib" target="_blank">Github</a></td>
-                  <td>Python (beginner)</td>
+                  <td>0.5</td>
+                  <td>97%</td>
+                  <td>None</td>
                 </tr>
             </table>
 
             <div class="contents">Contents</div>
               <ul>
-                <li>Linecharts</li>
-                <li>Plot parameters (color, linewidth, linestyle, marker, markersize, alpha)</li>
-                <li>Chart properties (labels, title)</li>
-                <li>Format strings</li>
-                <li>Multiple plots</li>
-                <li>Legends</li>
-                <li>Grid</li>
-                <li>Bar chart (horizontal/vertical)</li>
-                <li>Histograms</li>
-                <li>Pie charts (though I highly discourage you to ever use it ;-)</li>
+                <li>Creating Database</li>
+                <li>Creating Table</li>
+                <li>Insert Records</li>
+                <li>Update Records</li>
+                <li>Delete Records</li>
+                <li>Retrieve Records (SELECT, WHERE, ORDER BY)</li>
               </ul>
 
            <div class="review">Review</div>
-           <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. This video series provides an excellent introduction to the most used chart parameters (color, marker(size), alpha) and types of plots (lineplot, bar chart, histograms).</p>
+           <p>This 5-part series serves as a preparation for the following two recommendations. It learns you how to get started with SQL, set-up a database, create a table and do very basic queries.</p>
+           
+           <p>In the video Corey shows you how to do that with <a href="http://www.psequel.com” target=“_blank"> PSequel</a> which is a beautiful and intuitive SQL editor without overloading you with an abundance of features you are never going to use. Moreover, it allows you to easily save  bookmarks of your queries (handy for homework exercises!). In other words, if you have a Mac I highly recommend you to install it!</p>
+           
+           <p><i>Pro-tip:</i> Try out the following shortcuts for toggling between the views (Cmd+1; Cmd+2; Cmd+3; Cmd+4; Cmd+5).</p>
           </div>
 
          <!-- ======================================================================== -->  
