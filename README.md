@@ -220,7 +220,7 @@
       <!-- SIGN-UP --> 
       <!-- ======================================================================== -->
 
-      <h3> Sign up for 10 Python Programming Exercises</h3>
+      <h3 class="sign-up"> Sign up for 10 Python Programming Exercises</h3>
       <p>Only watching YouTube videos does not make you a <a href="#data-science-unicorn">data science unicorn</a> 🦄 <br/> 
   Leave your email address below and I'll send you some helpful exercises to test your understanding!</p>
       
