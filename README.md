@@ -452,8 +452,71 @@
            <div class="review">Review</div>
            <p>This series goes more into depth compared to the previous one which means explains why the tutorials are typically a bit longer. Even though the videos were published in 2012 (more than 5 years ago!) and the tutorials are actually meant for Microsoft SQL Server, most of the explanations are also relevant for PostgreSQL (i.e. a more modern version of SQL) because the syntax is almost identical.  If you are watching tutorials 7-9 (Functions, Text Calculations, Date Calculations) though, an error will be raised if you try to execute the same code from the videos. If you want to follow along, you can look for the corresponding PostgreSQL commands in the <a href="https://www.postgresql.org/docs/10/static/index.html" target="_blank">documentation</a> (a great exercise by the way).</p>
            <p>The reason I still picked these somewhat outdated tutorials is because in my opinion the explanations are one of the best available on YouTube.</p>  
-
         </div>
+        
+        
+        <!-- ======================================================================== -->  
+         <!-- SQL (Advanced), Data Modelling and Normalization --> 
+         <!-- ======================================================================== -->
+          <div class="recommendation">
+            <h4>
+              <li class="counter">
+                <a href="https://www.youtube.com/playlist?list=PLmR-bBjxQyzezliAbssDGND8yxj_ddeyj" target="_blank"> SQL (Advanced), Data Modelling and Normalization</a>
+              </li>
+            </h4>
+
+            <div class="embed-container">
+              <iframe src="https://www.youtube.com/embed/O1KVzYHCKDo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+            </div>
+
+            <table>
+                <tr>
+                  <th>Channel</th>
+                  <th>Level</th>
+                  <th>Hours</th>
+                  <th>Upvotes</th>
+                  <th>Requirements</th>
+                </tr>
+                <tr>
+                  <td><a href="https://www.youtube.com/channel/UCXFD2EFJWmSF1O4Jcqfpjsg" target="_blank">Techtud</a>,
+                    <a href="https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q" target="_blank">kudvenkat</a>,
+                    <a href="https://www.youtube.com/channel/UCppKZHHujh3iMcN3_I9sR6w" target="_blank">Bart Baesens</a>,
+                    <a href="https://www.youtube.com/channel/UCmXhqQqfrykZFc60wEjcK0g" target="_blank">channel5567</a>
+                  </td>
+                  <td>Introductory</td>
+                  <td>2</td>
+                  <td>98% (average)</td>
+                  <td>SQL (beginner)</td>
+                </tr>
+            </table>
+
+            <div class="contents">Contents</div>
+              <ul>
+                <li>IN</li>
+                <li>ANY</li>
+                <li>ALL</li>
+                <li>Correlated queries</li>
+                <li>COUNT</li>
+                <li>MIN</li>
+                <li>MAX</li>
+                <li>AVG</li>
+                <li>Check constraint</li>
+                <li>Unique constraint</li>
+                <li>Views</li>
+                <li>OVER</li>
+                <li>PARTITION BY</li>
+                <li>ROW_NUMBER()</li>
+                <li>RANK()</li>
+                <li>Entity Relationship Model</li>
+                <li>Cardinalities</li>
+                <li>Normalization (1NF, 2NF, 3NF, 4NF)</li>
+              </ul>
+
+           <div class="review">Review</div>
+           <p>Since I was not able to find a single playlist that contained all the topics which were treated in my own Foundations of Databases (JBP050) university course, I have composed a miscellaneous playlist that consists of videos from multiple YouTube channels. The majority comprises SQL-tutorials and the last two tutorials covers theory about relational models which is an essential skills if you want to set-up a new database from scratch.</p>  
+        </div>
+        
+        
         </ol>
       </li>
 
