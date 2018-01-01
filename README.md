@@ -383,8 +383,8 @@
 
             <div class="contents">Contents</div>
               <ul>
-                <li>Creating Database</li>
-                <li>Creating Table</li>
+                <li>Create Database</li>
+                <li>Create Table</li>
                 <li>Insert Records</li>
                 <li>Update Records</li>
                 <li>Delete Records</li>
@@ -400,17 +400,17 @@
           </div>
 
          <!-- ======================================================================== -->  
-         <!-- Plotting in Python using Matplotlib --> 
+         <!-- SQL Server Queries --> 
          <!-- ======================================================================== -->
           <div class="recommendation">
             <h4>
               <li class="counter">
-                <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
+                <a href="https://www.youtube.com/playlist?list=PL6EDEB03D20332309" target="_blank"> SQL Server Queries</a>
               </li>
             </h4>
 
             <div class="embed-container">
-              <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+              <iframe src="https://www.youtube.com/embed/2-1XQHAgDsM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
             </div>
 
             <table>
@@ -423,31 +423,34 @@
                   <th>Requirements</th>
                 </tr>
                 <tr>
-                  <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
+                  <td><a href="https://www.youtube.com/channel/UCbi5G5PjWBaQUFy7XU_O7yw" target="_blank">WiseOwlTutorials</a></td>
                   <td>Introductory</td>
-                  <td>1.5</td>
-                  <td>100%</td>
-                  <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
-                  <td>Python (beginner)</td>
+                  <td>2.25</td>
+                  <td>97%</td>
+                  <td>See the video its description for a written version of the tutorial and the Movie Database</a></td>
+                  <td>Knowledge about how to create a database</td>
                 </tr>
             </table>
 
             <div class="contents">Contents</div>
               <ul>
-                <li>Lineplots</li>
-                <li>Scatterplots</li>
-                <li>Chart properties (xlim, ylim, color, size)</li>
-                <li>Multiple plots in one chart</li>
-                <li>Axis labels</li>
-                <li>Annotation (text in graph, arrows)</li>
-                <li>Legends</li>
-                <li>1D/2D Histograms</li>
-                <li>Scaling axes (logarithmic, linear)</li>
+                <li>SELECT</li>
+                <li>FROM</li>
+                <li>WHERE</li>
+                <li>ORDER BY</li>
+                <li>Calculated Columns</li>
+                <li>CASE</li>
+                <li>INNER JOIN</li>
+                <li>OUTER JOIN</li>
+                <li>Functions</li>
+                <li>GROUP BY</li>
+                <li>HAVING</li>
+                <li>Subqueries</li>
+                <li>Correlated Subqueries</li>
               </ul>
 
            <div class="review">Review</div>
-           <p>Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
-           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (videos about "Axes" and "Histogram"), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
+           <p>This series goes more into depth compared to the previous one which means explains why the tutorials are typically a bit longer. Even though the videos were published in 2012 (more than 5 years ago!) and the tutorials are actually meant for Microsoft SQL Server, most of the explanations are also relevant for PostgreSQL (i.e. a more modern version of SQL) because the syntax is almost identical.  If you are watching tutorials 7-9 (Functions, Text Calculations, Date Calculations) though, an error will be raised if you try to execute the same code from the videos. If you want to follow along, you can look for the corresponding PostgreSQL commands in the <a href=“https://www.postgresql.org/docs/10/static/index.html” target=“_blank”>documentation</a> (a great exercise by the way). The reason I still picked these somewhat outdated tutorials is because in my opinion the explanations are one of the best available on YouTube.</p>  
 
         </div>
         </ol>
