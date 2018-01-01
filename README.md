@@ -427,7 +427,7 @@
                   <td>Introductory</td>
                   <td>2.25</td>
                   <td>97%</td>
-                  <td>See the video its description for a written version of the tutorial and the Movie Database</a></td>
+                  <td>See the video its description for a written version of the tutorial and the Movie Database</td>
                   <td>Knowledge about how to create a database</td>
                 </tr>
             </table>
