@@ -221,11 +221,11 @@
       <!-- ======================================================================== -->
 
       <h3> Sign up for 10 Python Programming Exercises</h3>
-      <p>Only watching YouTube videos does not make you a data science unicorn 🦄 <br/> 
-  Leave your email address and I'll send you some helpful exercises to test your understanding!</p>
+      <p>Only watching YouTube videos does not make you a <a href="#data-science-unicorn">data science unicorn</a> 🦄 <br/> 
+  Leave your email address below and I'll send you some helpful exercises to test your understanding!</p>
       
       
-      <div class="typeform-widget" data-url="https://the-outlier.typeform.com/to/Emt3Fu" style="width: 100%; height: 350px;" > </div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> 
+      <div class="typeform-widget" data-url="https://the-outlier.typeform.com/to/Emt3Fu" style="width: 100%; height: 350px; margin-bottom: 75px;" > </div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> 
 
 
       <!-- ======================================================================== -->  
@@ -860,7 +860,7 @@
 
 
 
-      <h4><i>What makes a Data Science unicorn?</i> 🦄</h4>
+      <h4 id="data-science-unicorn"><i>What makes a Data Science unicorn?</i> 🦄</h4>
       <hr>
       <p>In the beginning of this academic year I interviewed a professor, Willem-Jan van der Heuvel, and that was also one of the questions I asked him. In summary he mentioned the following skills: <i>"Analytical Skills"</i> (e.g. Statistics & Probability), <i>"Engineering Skills"</i> (e.g. Programming but, for example, also distributed computing frameworks) and third: <i>"Domain Knowledge"</i> (e.g. a subversion expert). If you are interested, you can read the corresponding Medium article <a href="https://medium.com/the-outlier/willem-jan-van-den-heuvel-91af6c86dcda" target="_blank">here</a>.</p>
 
