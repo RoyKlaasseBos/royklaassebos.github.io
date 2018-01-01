@@ -220,9 +220,9 @@
       <!-- SIGN-UP --> 
       <!-- ======================================================================== -->
 
-      <h3 class="sign-up"> Sign Up for 10 Python Programming Exercises</h3>
+      <h3 class="sign-up"> Sign Up for Data Science Email Course</h3>
       <p>Only watching YouTube videos does not make you a <a href="#data-science-unicorn">data science unicorn</a> 🦄 <br/>
-  Leave your email address below and I'll send you some helpful exercises to test your understanding!</p>
+  Leave your email address below and I'll send you some helpful Python, pandas, Data Visualisation, SQL and Machine Learning exercises (and solutions) to test your understanding!</p>
       
       
       <div class="typeform-widget" data-url="https://the-outlier.typeform.com/to/Emt3Fu" style="width: 100%; height: 350px; margin-bottom: 75px;" > </div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> 
@@ -712,7 +712,7 @@
               </ul>
 
            <div class="review">Review</div>
-           <p>This course a more on a conceptual level and goes beyond the scope of the previous recommendation. In particular, more attention is paid to unsupervised clustering methods such as K-Means Clustering, Hierarchical Clustering and Density Based Clustering. The course excels in its presentation style which include visual animated slides. Some topics might be a bit more advanced than usual which is why it has been categorized as an Intermediate level course.</p> 
+           <p>This course is more on a conceptual level and goes beyond the scope of the previous recommendation. In particular, more attention is paid to unsupervised clustering methods such as K-Means Clustering, Hierarchical Clustering and Density Based Clustering. The course excels in its presentation style which include visual animated slides. Some topics might be a bit more advanced than usual which is why it has been categorized as an Intermediate level course.</p> 
            
            <p><i>Tip:</i> If you liked this series you can find more similar online courses at <a href="http://bigdatauniversity.com" target="blank">Big Data University</a>!</p>  
         </div> 
@@ -845,9 +845,9 @@
       <!-- SIGN-UP --> 
       <!-- ======================================================================== -->
 
-      <h3 class="sign-up"> Sign Up for 10 Python Programming Exercises</h3>
+      <h3 class="sign-up"> Sign Up for Data Science Email Course</h3>
       <p>Only watching YouTube videos does not make you a <a href="#data-science-unicorn">data science unicorn</a> 🦄 <br/>
-  Leave your email address below and I'll send you some helpful exercises to test your understanding!</p>
+  Leave your email address below and I'll send you some helpful Python, pandas, Data Visualisation, SQL and Machine Learning exercises (and solutions) to test your understanding!</p>
       
       
       <div class="typeform-widget" data-url="https://the-outlier.typeform.com/to/Emt3Fu" style="width: 100%; height: 350px; margin-bottom: 75px;" > </div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> 
