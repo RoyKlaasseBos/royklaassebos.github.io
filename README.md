@@ -394,7 +394,7 @@
            <div class="review">Review</div>
            <p>This 5-part series serves as a preparation for the following two recommendations. It learns you how to get started with SQL, set-up a database, create a table and do very basic queries.</p>
            
-           <p>In the video Corey shows you how to do that with <a href="http://www.psequel.com” target=“_blank"> PSequel</a> which is a beautiful and intuitive SQL editor without overloading you with an abundance of features you are never going to use. Moreover, it allows you to easily save  bookmarks of your queries (handy for homework exercises!). In other words, if you have a Mac I highly recommend you to install it!</p>
+           <p>In the video Corey shows you how to do that with <a href="http://www.psequel.com” target=“_blank"> PSequel</a> which is a beautiful and intuitive SQL editor without overloading you with an abundance of features you are never going to use. Moreover, it allows you to easily save  bookmarks of your queries (handy for homework exercises!). In other words, I would highly recommend Mac-users to install the (free!) application!</p>
            
            <p><i>Pro-tip:</i> Try out the following shortcuts for toggling between the views (Cmd+1; Cmd+2; Cmd+3; Cmd+4; Cmd+5).</p>
           </div>
