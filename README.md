@@ -933,7 +933,7 @@
 
       <h4><i>Is this guide updated regularly?</i></h4>
       <hr>
-      <p>Indeed, it's a very dynamic list. For example, at the moment of writing I am taking online (and university) courses myself which means that there is a high probability that the number of "free resources" will soon increase even further. Sign up for the email course to get notified once new content has been added. </p>
+      <p>Indeed, it's a very dynamic list. For example, at the moment of writing I am taking online (and university) courses myself which means that there is a high probability that the number of free resources will soon increase even further. Sign up for the email course to get notified once new content has been added. </p>
       
       
 
