@@ -212,28 +212,28 @@
 
             <div class="contents">Contents</div>
               <ul>
-                <li>Loading CSV-Data</li>
-                <li>Selecting Columns</li>
-                <li>Renaming Columns</li>
-                <li>Removing Columns</li>
-                <li>Creating DataFrame</li>
+                <li>Load CSV-Data</li>
+                <li>Select Columns</li>
+                <li>Rename Columns</li>
+                <li>Remove Columns</li>
+                <li>Create DataFrame</li>
                 <li>Sort DataFrame</li>
-                <li>Filtering DataFrame</li>
+                <li>Filter DataFrame</li>
                 <li>Row- / Column means</li>
                 <li>String Methods</li>
-                <li>Changing Datatypes</li>
+                <li>Change Datatypes</li>
                 <li>Groupby Statement</li>
                 <li>Aggregate Functions</li>
-                <li>Handling Missing data</li>
+                <li>Handle Missing data</li>
                 <li>DataFrame Index</li>
-                <li>Creating DataSeries</li>
-                <li>Concatenating DataSeries</li>
+                <li>Create DataSeries</li>
+                <li>Concatenate DataSeries</li>
                 <li>Backwards fill</li>
-                <li>Converting to CSV/Pickle</li>
+                <li>Convert to CSV/Pickle</li>
                 <li>Data Sampling</li>
                 <li>Dummy Variables</li>
                 <li>Date Time Data</li>
-                <li>Duplicates</li>
+                <li>Handle Duplicates</li>
               </ul>
 
            <div class="review">Review</div>
