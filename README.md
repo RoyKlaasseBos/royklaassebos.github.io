@@ -110,9 +110,9 @@
            <div class="review">Review</div>
            <p>For this guide I assumed that you have no prior knowledge or experience whatsoever, which is why the first two videos of the series teach you all you need to know about a “Integrated Development Environment” (often abbreviated as IDE) very popular for Data Science: Jupyter Notebooks. In case you plan to use an online programming environment, I would still recommend you to watch these tutorials as they also explain how to work with Juypter Notebooks.</p>
            <p>In the next 18 videos common Python concepts in the field of Data Science are discussed. Please note that even though the teacher uses another IDE, you can still follow along with a Jupyter Notebook.  The reason I still picked the codebasics tutorials is because the pace and teaching style is excellent for absolute beginners.</p>
-           <p><i>Tip:</i> Do the interactive demo <a href="http://generalassembly.github.io/prework/cl/" target="_blank">“How to use the command line“</a> (by General Assembly) in advance to be more comfortable with the terminal. </p>
-           <p><i>Tip 2:</i> Adjust the playback speed to 1.5x or 2.0x (via the gear icon in the play bar) to go through the codebasics videos more quickly! </p>
-           <p><i>Tip 3:</i> The easiest way to create a module in Juypter Notebook is by downloading it as a .py-file (File >> Download as >> Python) and subsequently importing it in your notebook. You may need to remove the “.html” extension of the downloaded file (e.g. “my_module.py.html”).</p>
+           <p><i>Tip: Do the interactive demo <a href="http://generalassembly.github.io/prework/cl/" target="_blank">“How to use the command line“</a> (by General Assembly) in advance to be more comfortable with the terminal.</i></p>
+           <p><i>Tip 2: Adjust the playback speed to 1.5x or 2.0x (via the gear icon in the play bar) to go through the codebasics videos more quickly!</i></p>
+           <p><i>Tip 3: The easiest way to create a module in Juypter Notebook is by downloading it as a .py-file (File >> Download as >> Python) and subsequently importing it in your notebook. You may need to remove the “.html” extension of the downloaded file (e.g. “my_module.py.html”).</i> </p>
           </div>
           
           
@@ -239,7 +239,7 @@
            <div class="review">Review</div>
            <p>Although having a basic understanding of Python is essential for data science, in practice you’ll most likely opt for a data manipulation library such as pandas. The playlist consists of 31 videos which provide an excellent foundation in the first few steps of the data pipeline: from reading data to filtering/grouping data-frames. The teacher, Kevin, is a gifted communicator who masters the craft of teaching. Therefore it’s no surprise that he gets an upvote ratio of 99% (n=443). </p>
            
-          <p><i>Tip: </i>Adjust the playback speed to 1.5x or 2.0x (via the gear icon in the play bar) to go through the videos more quickly!</p>  
+          <p><i>Tip: Adjust the playback speed to 1.5x or 2.0x (via the gear icon in the play bar) to go through the videos more quickly!</i></p>  
         </div>
         </ol>
       </li>
@@ -364,7 +364,7 @@
 
            <div class="review">Review</div>
            <p>Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
-           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (videos about "Axes" and "Histogram"), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
+           <p>There is a bit of overlap with the previous recommendation (videos about "Axes" and "Histogram"), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>  
 
         </div>
         </ol>
@@ -426,7 +426,7 @@
            
            <p>In the video Corey shows you how to do that with <a href="http://www.psequel.com” target=“_blank"> PSequel</a> which is a beautiful and intuitive SQL editor without overloading you with an abundance of features you are never going to use. Moreover, it allows you to easily save  bookmarks of your queries (handy for homework exercises!). In other words, I would highly recommend Mac-users to install the (free!) application!</p>
            
-           <p><i>Pro-tip:</i> Try out the following shortcuts for toggling between the views (Cmd+1; Cmd+2; Cmd+3; Cmd+4; Cmd+5).</p>
+           <p><i>Pro-tip: Try out the following shortcuts for toggling between the views (Cmd+1; Cmd+2; Cmd+3; Cmd+4; Cmd+5).</i></p>
           </div>
 
          <!-- ======================================================================== -->  
@@ -676,7 +676,7 @@
            <div class="review">Review</div>
            <p>Ever attended everlasting stats lectures at uni without having any clue of what’s actually going on? Then a new world opens up once you have watched these 86 extremely concise statistics videos. Theory is accompanied with concrete and understandable everyday examples. The teacher does not shy away from writing out entire examples which makes the material very tangible. This may give you even more admiration for all the data science tools that make our lives so much easier.</p>
            
-           <p><i>Tip:</i> On the channel you also find a <a href="https://www.youtube.com/playlist?list=PLD5080D2F76D11DE3" target="_blank">SPSS playlist</a> in which he demonstrates the use of analytics software to do complex operations he also showed in the other videos with only a few mouse clicks.</p>  
+           <p><i>Tip: On the channel you also find a <a href="https://www.youtube.com/playlist?list=PLD5080D2F76D11DE3" target="_blank">SPSS playlist</a> in which he demonstrates the use of analytics software to do complex operations he also showed in the other videos with only a few mouse clicks.</i></p>  
         </div>
         </ol>
       </li>
@@ -744,7 +744,7 @@
 
               <div class="review">Review</div>
               <p>Characteristic of Kevin’s teaching style is a step by step approach using very detailed Jupyter Notebooks which contain a lot of comments and easy-to-understand explanations and thus makes it excellent reference material (check out his <a href="https://github.com/justmarkham" target="_blank">Github</a> page!).  Because he explains every single line of code he types you will fully understand what you are doing which makes his videos accessible to newcomers. Although most videos stay at a basic level plenty of additional resources (blogs/videos/books) are included and mentioned throughout the videos series for further deepening.</p>
-              <p><i>Tip:</i> The last video in the series is a live recording from PyCon 2016; if you have watched the previous videos you can skip the first 24 minutes and start with part 2: Representing text as numerical data.</p>
+              <p><i>Tip: The last video in the series is a live recording from PyCon 2016; if you have watched the previous videos you can skip the first 24 minutes and start with part 2: Representing text as numerical data.</i></p>
           </div>  
           
          <!-- ======================================================================== -->  
@@ -808,7 +808,7 @@
            <div class="review">Review</div>
            <p>This course is more on a conceptual level and goes beyond the scope of the previous recommendation. In particular, more attention is paid to unsupervised clustering methods such as K-Means Clustering, Hierarchical Clustering and Density Based Clustering. The course excels in its presentation style which include visual animated slides. Some topics might be a bit more advanced than usual which is why it has been categorized as an Intermediate level course.</p> 
            
-           <p><i>Tip:</i> If you liked this series you can find more similar online courses at <a href="http://bigdatauniversity.com" target="blank">Big Data University</a>!</p>  
+           <p><i>Tip: If you liked this series you can find more similar online courses at <a href="http://bigdatauniversity.com" target="blank">Big Data University</a>!</i></p>  
         </div> 
         </ol>
       </li>
@@ -926,7 +926,7 @@
            
            <p>As for the content, Michelle slowly builds upon a LaTeX document from scratch with line-by-line bite-sized instructions. The pace gradually goes up as you move through the series with as a great finale tutorial 14 which gives a realistic use case of LaTeX as a tool for doing Calculus homework.</p>
            
-           <p><i>Tip:</i> The last two tutorials can be considered optional (but interesting!) as they are not related to academic writing.</p>  
+           <p><i>Tip: The last two tutorials can be considered optional (but interesting!) as they are not related to academic writing.</i></p>  
         </div>
                
         </ol>
