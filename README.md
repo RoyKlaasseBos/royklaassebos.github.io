@@ -80,7 +80,7 @@
                 <li>Opening External Notebooks</li>
                 <li>Variables</li>
                 <li>Printing</li>
-                <li>Math Operations (+, -, /, **, %)</li>
+                <li>Math Operators (+, -, /, **, %)</li>
                 <li>Rounding</li>
                 <li>Strings</li>
                 <li>Slicing</li>
@@ -108,7 +108,7 @@
               </ul>
 
            <div class="review">Review</div>
-           <p>For this guide I assumed that have no prior knowledge or experience whatsoever, which is why the first two videos of the series teach you all you need to know about a Python “Integrated Development Environment” (often abbreviated as IDE) very popular for Data Science: Jupyter Notebooks (formerly known as iPython Notebooks).  In case plan to use an online programming environment, I would still recommend you to watch these tutorials as they also explain how to work with Juypter Notebooks.</p>
+           <p>For this guide I assumed that you have no prior knowledge or experience whatsoever, which is why the first two videos of the series teach you all you need to know about a Python “Integrated Development Environment” (often abbreviated as IDE) very popular for Data Science: Jupyter Notebooks. In case you plan to use an online programming environment, I would still recommend you to watch these tutorials as they also explain how to work with Juypter Notebooks.</p>
            <p>In the next 18 videos common Python concepts in the field of Data Science are discussed. Please note that even though the teacher uses another IDE, you can still follow along with a Jupyter Notebook.  The reason I still picked the codebasics tutorials is because the pace and teaching style is excellent for absolute beginners.</p>
            <p><i>Tip:</i> Do the interactive demo <a href="http://generalassembly.github.io/prework/cl/" target="_blank">“How to use the command line“</a> (by General Assembly) in advance to be more comfortable with the terminal. </p>
            <p><i>Tip 2:</i> Adjust the playback speed to 1.5x or 2.0x (via the gear icon in the play bar) to go through the codebasics videos more quickly! </p>
@@ -172,7 +172,7 @@
 
            <div class="review">Review</div>
            <p>After an enervating intro song you can expect an outstanding clarification of the building blocks of Python. I would specifically recommend the <a href="https://www.youtube.com/watch?v=R-HLU9Fl5ug&index=7&list=PLj8W7XIvO93paRBPCuGFGEC94xJofOgO5" target="_blank">7th tutorial</a> about the the most prominent Python data structures which is as you can read in the comments below the video an excellent summary.</p>
-           <p>Note, the first few videos in the series have significant overlap with the previous recommendation. However, both teachers are great and as a beginner it doesn't hurt to hear an explanation from two unique perspectives.
+           <p>Note, the first few videos in the series have significant overlap with the previous recommendation. However, both teachers are great and as a beginner it doesn't hurt to hear an explanation from two unique perspectives.</p>
           </div>
           
 
