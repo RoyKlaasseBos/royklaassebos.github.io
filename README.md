@@ -108,7 +108,7 @@
               </ul>
 
            <div class="review">Review</div>
-           <p>For this guide I assumed that you have no prior knowledge or experience whatsoever, which is why the first two videos of the series teach you all you need to know about a Python “Integrated Development Environment” (often abbreviated as IDE) very popular for Data Science: Jupyter Notebooks. In case you plan to use an online programming environment, I would still recommend you to watch these tutorials as they also explain how to work with Juypter Notebooks.</p>
+           <p>For this guide I assumed that you have no prior knowledge or experience whatsoever, which is why the first two videos of the series teach you all you need to know about a “Integrated Development Environment” (often abbreviated as IDE) very popular for Data Science: Jupyter Notebooks. In case you plan to use an online programming environment, I would still recommend you to watch these tutorials as they also explain how to work with Juypter Notebooks.</p>
            <p>In the next 18 videos common Python concepts in the field of Data Science are discussed. Please note that even though the teacher uses another IDE, you can still follow along with a Jupyter Notebook.  The reason I still picked the codebasics tutorials is because the pace and teaching style is excellent for absolute beginners.</p>
            <p><i>Tip:</i> Do the interactive demo <a href="http://generalassembly.github.io/prework/cl/" target="_blank">“How to use the command line“</a> (by General Assembly) in advance to be more comfortable with the terminal. </p>
            <p><i>Tip 2:</i> Adjust the playback speed to 1.5x or 2.0x (via the gear icon in the play bar) to go through the codebasics videos more quickly! </p>
