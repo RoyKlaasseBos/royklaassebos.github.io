@@ -26,7 +26,7 @@
     <!-- That is to say, please judge the content not the code :-) --> 
     <!-- ======================================================================== -->
 
-    <h2>65 Free Data Science Resources</h2>
+    <h2>268 Free Data Science Resources</h2>
     <hr>
     <ol> 
       
