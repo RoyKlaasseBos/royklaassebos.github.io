@@ -454,7 +454,7 @@
                 </tr>
                 <tr>
                   <td><a href="https://www.youtube.com/channel/UCbi5G5PjWBaQUFy7XU_O7yw" target="_blank">WiseOwlTutorials</a></td>
-                  <td>Intermediate</td>
+                  <td>Introductory</td>
                   <td>2.25</td>
                   <td>97%</td>
                   <td>See the video its description for a written version of the tutorial and the Movie Database</td>
@@ -513,7 +513,7 @@
                     <a href="https://www.youtube.com/channel/UCppKZHHujh3iMcN3_I9sR6w" target="_blank">Bart Baesens</a>,
                     <a href="https://www.youtube.com/channel/UCmXhqQqfrykZFc60wEjcK0g" target="_blank">channel5567</a>
                   </td>
-                  <td>Introductory</td>
+                  <td>Intermediate</td>
                   <td>2</td>
                   <td>98% (average)</td>
                   <td>SQL (beginner)</td>
