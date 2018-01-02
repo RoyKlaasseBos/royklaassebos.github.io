@@ -424,7 +424,7 @@
                 </tr>
                 <tr>
                   <td><a href="https://www.youtube.com/channel/UCbi5G5PjWBaQUFy7XU_O7yw" target="_blank">WiseOwlTutorials</a></td>
-                  <td>Introductory</td>
+                  <td>Intermediate</td>
                   <td>2.25</td>
                   <td>97%</td>
                   <td>See the video its description for a written version of the tutorial and the Movie Database</td>
