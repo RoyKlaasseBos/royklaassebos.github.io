@@ -64,7 +64,7 @@
                   <td>4</td>
                   <td>98% (average)</td>
                   <td><a href="https://github.com/codebasics/py/tree/master/Basics" target="_blank">Github</a></td>
-                  <td>Terminal (see tip below)</td>
+                  <td>Command line (see tip below)</td>
                 </tr>
             </table>
 
