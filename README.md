@@ -426,7 +426,7 @@
            
            <p>In the video Corey shows you how to do that with <a href="http://www.psequel.com” target=“_blank"> PSequel</a> which is a beautiful and intuitive SQL editor without overloading you with an abundance of features you are never going to use. Moreover, it allows you to easily save  bookmarks of your queries (handy for homework exercises!). In other words, I would highly recommend Mac-users to install the (free!) application!</p>
            
-           <p><i>Pro-tip: Try out the following shortcuts for toggling between the views (Cmd+1; Cmd+2; Cmd+3; Cmd+4; Cmd+5).</i></p>
+           <p><i>Pro-tip: Try out the following shortcuts in PSequel for toggling between the views (Cmd+1; Cmd+2; Cmd+3; Cmd+4; Cmd+5).</i></p>
           </div>
 
          <!-- ======================================================================== -->  
