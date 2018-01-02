@@ -35,17 +35,17 @@
         <ol>
           
           <!-- ======================================================================== -->  
-          <!-- Plotting in Python using Matplotlib --> 
+          <!-- Python Programming for Data Science --> 
           <!-- ======================================================================== -->
           <div class="recommendation">
             <h4>
               <li class="counter">
-                <a href="https://www.youtube.com/playlist?list=PLKvKQYhUTYu88ZTJugtU6kgFQrPAQ0PzM" target="_blank"> Plotting in Python using Matplotlib</a>
+                <a href="https://www.youtube.com/playlist?list=PLmR-bBjxQyzclWdogQ9wvbpBzV4D1zS8Q" target="_blank"> Python Programming for Data Science</a>
               </li>
             </h4>
 
             <div class="embed-container">
-              <iframe src="https://www.youtube.com/embed/-czP9f363Vw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+              <iframe src="https://www.youtube.com/embed/YJC6ldI3hWk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
             </div>
 
             <table>
@@ -58,31 +58,61 @@
                   <th>Requirements</th>
                 </tr>
                 <tr>
-                  <td><a href="https://www.youtube.com/channel/UCOKkGhwGgXcyHImjnyYiDSg" target="_blank">Max Schallwig</a></td>
+                  <td><a href="https://www.youtube.com/user/schafer5" target="_blank">Corey Schafer</a>, <a href="https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ" target="_blank">codebasics</a>
+                  </td>
                   <td>Introductory</td>
-                  <td>1.5</td>
-                  <td>100%</td>
-                  <td><a href="http://www.football-data.co.uk/mmz4281/1617/D1.csv" target="_blank">Football data</a></td>
-                  <td>Python (beginner)</td>
+                  <td>4</td>
+                  <td>98% (average)</td>
+                  <td><a href="https://github.com/codebasics/py/tree/master/Basics" target="_blank">Github</a></td>
+                  <td>Terminal (see tip below)</td>
                 </tr>
             </table>
 
             <div class="contents">Contents</div>
               <ul>
-                <li>Lineplots</li>
-                <li>Scatterplots</li>
-                <li>Chart properties (xlim, ylim, color, size)</li>
-                <li>Multiple plots in one chart</li>
-                <li>Axis labels</li>
-                <li>Annotation (text in graph, arrows)</li>
-                <li>Legends</li>
-                <li>1D/2D Histograms</li>
-                <li>Scaling axes (logarithmic, linear)</li>
+                <li>Install Anaconda</li>
+                <li>Start Jupyter Notebook</li>
+                <li>Launch Python File</li>
+                <li>Run cells</li>
+                <li>Insert cells</li>
+                <li>Code / Markdown Cells</li>
+                <li>Magic commands</li>
+                <li>Opening External Notebooks</li>
+                <li>Variables</li>
+                <li>Printing</li>
+                <li>Math Operations (+, -, /, **, %)</li>
+                <li>Rounding</li>
+                <li>Strings</li>
+                <li>Slicing</li>
+                <li>Lists</li>
+                <li>Append items</li>
+                <li>Input</li>
+                <li>If, Elif, Else Statement</li>
+                <li>In </li>
+                <li>For loop</li>
+                <li>Range function</li>
+                <li>Functions</li>
+                <li>Return statement</li>
+                <li>Arguments / Parameters</li>
+                <li>Dictionaries (keys, values)</li>
+                <li>Tuples</li>
+                <li>Modules</li>
+                <li>Reading / Writing Text Files</li>
+                <li>JSON </li>
+                <li>__name__</li> 
+                <li>Exception Handling (try, except, finally)</li>
+                <li>Classes</li>
+                <li>List / Set Comprehensions</li>
+                <li>Zip</li>
+                <li>(Frozen) Sets</li>
               </ul>
 
            <div class="review">Review</div>
-           <p>Once you have seen how to work with Matplotlib it’s a piece of cake, but first use can be intimidating. Max does a great job in his brief and easy-to-follow tutorials which give you a good introduction to the basic functionality of Matplotlib. By the way, he offers the exact same content on <a href="https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/" target="_blank">Udemy</a> for $20, lucky you!</p>
-           <p><i>Tip:</i> there is a bit of overlap with the previous recommendation (Axes, Histogram), though the majority of the content covers different aspects. Besides, it doesn't hurt to hear a similar story from two angles.</p>
+           <p>For this guide I assumed that have no prior knowledge or experience whatsoever, which is why the first two videos of the series teach you all you need to know about a Python “Integrated Development Environment” (often abbreviated as IDE) very popular for Data Science: Jupyter Notebooks (formerly known as iPython Notebooks).  In case plan to use an online programming environment, I would still recommend you to watch these tutorials as they also explain how to work with Juypter Notebooks.</p>
+           <p>In the next 18 videos common Python concepts in the field of Data Science are discussed. Please note that even though the teacher uses another IDE, you can still follow along with a Jupyter Notebook.  The reason I still picked the codebasics tutorials is because the pace and teaching style is excellent for absolute beginners.</p>
+           <p><i>Tip:</i> Do the interactive demo <a href="http://generalassembly.github.io/prework/cl/" target="_blank">“How to use the command line“</a> (by General Assembly) in advance to be more comfortable with the terminal. </p>
+           <p><i>Tip 2:</i> Adjust the playback speed to 1.5x or 2.0x (via the gear icon in the play bar) to go through the codebasics videos more quickly! </p>
+           <p><i>Tip 3:</i> The easiest way to create a module in Juypter Notebook is by downloading it as a .py-file (File >> Download as >> Python) and subsequently importing it in your notebook. You may need to remove the “.html” extension of the downloaded file (e.g. “my_module.py.html”).</p>
           </div>
           
           
@@ -142,7 +172,7 @@
 
            <div class="review">Review</div>
            <p>After an enervating intro song you can expect an outstanding clarification of the building blocks of Python. I would specifically recommend the <a href="https://www.youtube.com/watch?v=R-HLU9Fl5ug&index=7&list=PLj8W7XIvO93paRBPCuGFGEC94xJofOgO5" target="_blank">7th tutorial</a> about the the most prominent Python data structures which is as you can read in the comments below the video an excellent summary.</p>
-          
+           <p>Note, the first few videos in the series have significant overlap with the previous recommendation. However, both teachers are great and as a beginner it doesn't hurt to hear an explanation from two unique perspectives.
           </div>
           
 
@@ -836,7 +866,6 @@
 
            <div class="review">Review</div>
            <p>It should be clear by now that I am a huge fan of Kevin’s comprehensible tutorials and this series does not form any exception to that rule. What I liked in particular is that he makes such a complicated topic as version control not overly complex.</p>
-           <p><i>Tip:</i> Do the interactive demo <a href="http://generalassembly.github.io/prework/cl/" target="_blank">“How to use the command line“</a> (by General Assembly) in advance to be more comfortable with the terminal. </p>
          </div>
 
          <!-- ======================================================================== -->  
