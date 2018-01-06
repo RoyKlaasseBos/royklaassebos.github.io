@@ -610,7 +610,7 @@
               </ul>
 
            <div class="review">Review</div>
-           <p>This series is taught by a professor of a prestigious Business School (INCAE). The first part lies a solid theoretical foundation in statistical modeling after which an open-source WYSIWYG (i.e. drag and drop) tool - Gretl - is used to illustrate the concepts in practice. This way you can play around with the mathematical tools even if you cannot program yet. You may ask yourself why you should spend your time learning Gretl, well I believe it’s not really a waisted effort since the output in statistical packages in Python (e.g. Statsmodels) and R looks very similar.</p>
+           <p>This series is taught by a professor of a prestigious Business School (INCAE). The first part lays a solid theoretical foundation in statistical modeling after which an open-source WYSIWYG (i.e. drag and drop) tool - Gretl - is used to illustrate the concepts in practice. This way you can play around with the mathematical tools even if you cannot program yet. You may ask yourself why you should spend your time learning Gretl, well I believe it’s not really a waisted effort since the output in statistical packages in Python (e.g. Statsmodels) and R looks very similar.</p>
           
           </div>
 
