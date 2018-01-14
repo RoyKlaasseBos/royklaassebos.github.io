@@ -1,0 +1,85 @@
+-- SINGLE TABLE Q1
+SELECT country
+FROM flags
+WHERE w_prop = 2 AND l_prop = 3;
+
+-- SINGLE TABLE Q2
+SELECT * 
+FROM countries
+WHERE continent IN ('Europe', 'North America');
+
+-- SINGLE TABLE Q3
+-- it has been assumed both thresholds are inclusive
+SELECT * 
+FROM flags
+WHERE w_prop BETWEEN 1 AND 8;
+
+-- SINGLE TABLE Q4
+SELECT country
+FROM flags
+WHERE w_prop = 2 AND l_prop = 3;
+
+-- SINGLE TABLE Q5
+SELECT 
+    capital,
+    CASE 
+        WHEN continent IN ('Europe', 'Asia')
+        THEN 'Eurasia'
+        WHEN continent IN ('South America','North America')
+        THEN 'Americas'    
+    END
+FROM countries
+WHERE LENGTH(capital) > 7;
+
+
+
+-- AGGREGATES Q1
+SELECT DISTINCT(continent)
+FROM countries;
+
+-- AGGREGATES Q2
+SELECT COUNT(countries)
+FROM countries
+WHERE continent = 'Europe'; 
+
+-- AGGREGATES Q3
+SELECT COUNT(countries)
+FROM countries
+WHERE continent = 'Europe'; 
+
+-- AGGREGATES Q4
+SELECT continent, COUNT(country)
+FROM countries
+GROUP BY continent
+ORDER BY continent;
+
+-- AGGREGATES Q5
+SELECT continent, COUNT(continent)
+FROM countries
+GROUP BY continent
+HAVING COUNT(country) >= 2;
+
+
+
+-- MULTIPLE TABLES Q1
+SELECT capital, c.country, name 
+FROM countries c
+JOIN flags f ON f.country = c.country;
+
+-- MULTIPLE TABLES Q2
+SELECT name, continent
+FROM countries c
+JOIN flags f ON f.country = c.country
+WHERE f.name != 'NA';
+
+-- MULTIPLE TABLES Q3
+SELECT continent, AVG(adoption_date) AS avg_date
+FROM countries c
+JOIN flags f ON f.country = c.country
+GROUP BY continent
+HAVING COUNT(continent) >= 2;
+
+
+
+
+

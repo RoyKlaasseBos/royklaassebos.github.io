@@ -1,0 +1,34 @@
+DROP TABLE IF EXISTS flags CASCADE;
+DROP TABLE IF EXISTS countries CASCADE;
+
+CREATE TABLE flags (
+    name varchar(255) NOT NULL,
+    country varchar(255) PRIMARY KEY,
+    w_prop SMALLINT NOT NULL,
+    l_prop SMALLINT NOT NULL,
+    adoption_date INTEGER NOT NULL
+);
+
+CREATE TABLE countries (
+    country varchar(255) NOT NULL,
+    capital varchar(255) NOT NULL,
+    continent varchar(255) NOT NULL
+    -- will throw an error because Germany is not in the flags table
+    -- FOREIGN KEY (country) REFERENCES flags(country)
+);
+
+
+INSERT INTO flags VALUES('Tricolour', 'France', 2, 3, 1830);
+INSERT INTO flags VALUES('Union Jack', 'United Kingdom', 1, 2, 1801);
+INSERT INTO flags VALUES('The Star-Strangled Bannner', 'USA', 10, 19, 1960);
+INSERT INTO flags VALUES('Hinomaru', 'Japan', 2, 3, 1999);
+INSERT INTO flags VALUES('NA', 'Brazil', 7, 10, 1992);
+INSERT INTO flags VALUES('Jalur Gemilang', 'Malaysia', 1, 2, 1963);
+
+INSERT INTO countries VALUES('France', 'Paris', 'Europe');
+INSERT INTO countries VALUES('Malaysia', 'Kuala Lumpur', 'Asia');
+INSERT INTO countries VALUES('Brazil', 'Brasilia', 'South America');
+INSERT INTO countries VALUES('United Kingdom', 'London', 'Europe');
+INSERT INTO countries VALUES('Japan', 'Tokyo', 'Asia');
+INSERT INTO countries VALUES('USA', 'Washington DC', 'North America');
+INSERT INTO countries VALUES('Germany', 'Berlin', 'Europe');
