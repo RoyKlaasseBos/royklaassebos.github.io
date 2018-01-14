@@ -251,7 +251,7 @@
       <!-- ======================================================================== -->
 
       <h3 id="sign-up"> Sign Up for the Data Science Email Course</h3>
-      <p>Only watching YouTube videos does not make you a <a href="#data-science-unicorn">data science unicorn</a> 🦄 <br> Leave your email address below and I'll send you some helpful Python, pandas, matplotlib, and SQL exercises (and solutions) to test your understanding!</p>
+      <p>Only watching YouTube videos does not make you a <a href="#data-science-unicorn">data science unicorn</a> 🦄 <br> Leave your email address below and I'll send you some helpful Python Programming, SQL and Statistics exercises (and solutions) to test your understanding!</p>
       
       
       <div class="typeform-widget" data-url="https://the-outlier.typeform.com/to/Emt3Fu" style="width: 100%; height: 350px; margin-bottom: 75px;" > </div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> 
@@ -939,7 +939,7 @@
       <!-- ======================================================================== -->
 
       <h3 id="sign-up"> Sign Up for the Data Science Email Course</h3>
-      <p>Only watching YouTube videos does not make you a <a href="#data-science-unicorn">data science unicorn</a> 🦄 <br> Leave your email address below and I'll send you some helpful Python, pandas, matplotlib, and SQL exercises (and solutions) to test your understanding!</p>       
+      <p>Only watching YouTube videos does not make you a <a href="#data-science-unicorn">data science unicorn</a> 🦄 <br> Leave your email address below and I'll send you some helpful Python Programming, SQL and Statistics exercises (and solutions) to test your understanding!</p>       
       
       <div class="typeform-widget" data-url="https://the-outlier.typeform.com/to/Emt3Fu" style="width: 100%; height: 350px; margin-bottom: 75px;" > </div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> 
 
@@ -1001,18 +1001,11 @@
       <p>Yeah again, you are right! Think of it as a catchy slogan ;-)</p>
 
 
-
       <h4><i>Where do I find the lecture notes of the Data Analytics for Engineers (2IAB0) tutorials?</i></h4>
       <hr>
       <p>Great to have you here, but you are probably looking for my Github repository which you can find <a href="https://github.com/RoyKlaasseBos/Data-Analytics-for-Engineers" target="_blank">over here</a>. Simply, download the zip-file (easiest way) or clone it to your local hard drive (for instructions on how to do that see the Git tutorials above).
       </p>
       <p>But since you are already here, let me give you another bonus tip: carefully study the Python, pandas, matplotlib,  SQL and hypotheses testing tutorials listed above. I can ensure you they will be extremely helpful for assignment 1 and 2!</p>
-      
-      
-                  
-      <h4><i>How do I get Tableau Desktop?</i></h4>
-      <hr>
-      <p>If you are a student I have good news for you: you can get a copy of the software for free (1-year license). Simply fill out <a href="https://www.tableau.com/academic/students#form" target="_blank">this form </a> and show them some proof that you are currently enrolled in a bachelor/master program (e.g. a Canvas/Blackboard screenshot will do).</p>
 
       
       <h4><i>Why did you create this guide?</i></h4>
