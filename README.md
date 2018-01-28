@@ -955,7 +955,7 @@
       <hr>
       <p>Well, I have looked into plenty of those rankings myself but most MOOC-recommendations weren't really what I was looking for as a beginner to be honest. This guide is different in the sense that it mainly centres around practical YouTube tutorials taught by industry practitioners who know the science of teaching. The latter is a rare ability for most programmers, especially those who can describe the "why" in addition to the "how"; simply typing out code is not that difficult, explaining others in plain English why you are doing something makes you a next-level instructor. Further all recommendations are accompanied with an overview of the contents and a review - so that you can get an idea of what to expect - which is also not very common for most rankings.</p>
       
-      <p>On a final note, the weekly email course has been designed because of a lack of challenging online programming exercises for data science. The exercises that come with the course are open-ended, can typically not be solved by a single line of code and some data prep might be necessary.</p>
+      <p>On a final note, the weekly email course has been designed because challenging online programming exercises are  difficult to find online. The exercises that come with the course are beyond beginner level and can typically not be solved by a single line of code.</p>
 
 
 
