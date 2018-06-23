@@ -1030,7 +1030,7 @@
 
       <h4><i>How do I contact you?</i></h4>
       <hr>
-      <p>Just shoot me an email at <a href="mailto:r.j.klaasse.bos@student.tue.nl?subject=I%20❤%20Data%20Science">r.j.klaasse.bos@student.tue.nl</a></p>
+      <p>Just shoot me an email at <a href="mailto:hoi@royklaassebos.nl?subject=I%20❤%20Data%20Science">hoi@royklaassebos.nl</a></p>
     </div>
 
     <p class="built-with">Built with ❤ in Eindhoven</p>
